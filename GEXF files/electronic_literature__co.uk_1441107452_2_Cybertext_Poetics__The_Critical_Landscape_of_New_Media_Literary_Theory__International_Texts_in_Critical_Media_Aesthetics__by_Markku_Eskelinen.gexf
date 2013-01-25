@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<gexf xmlns="http://www.gexf.net/1.2draft"
+			xmlns:xsi="http://wwww.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.gexf.net/1.2draft 
+			http://www.gexf.net/1.2draft/gexf.xds"
+			xmlns:viz="http://www.gexf.net/1.2draft/viz"
+			version="1.2">
+			<meta>
+				<creator>erik@digitalmethods.net</creator>
+				<description>Amazon related books for ASIN 1441107452 in language co.uk</description>
+			</meta>
+			<graph defaultedgetype="directed" mode="dynamic" timeformat="date">
+				<attributes class="node"><attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"/>
+<attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"/>
+<attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"/>
+<attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="int"/>
+<attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"/>
+<attribute id="a-9cb38038d9e84eae9c4669e8e98d93eb" title="PublicationDate" type="string"/>
+<attribute id="a-38f5fea761b84810b5c9d0225e4dd52c" title="ProductGroup" type="string"/>
+<attribute id="a-772f48cdb0bed94d6c53c41c16ec8e83" title="ProductTypeName" type="string"/>
+<attribute id="a-4994a8ffeba4ac3140beb89e8d41f174" title="Language" type="string"/>
+<attribute id="a-e5b76647e86e5abfc4b6346c55471d3c" title="ListPrice" type="integer"/>
+<attribute id="a-1232ef5b28ce84d1494eebdd916a38e5" title="FormattedPrice" type="string"/>
+<attribute id="a-75c8ef7d73415885d3739c899a166bd2" title="CurrencyCode" type="string"/>
+<attribute id="a-7aca5b460b13d23868d31a8a1e3683fb" title="TotalUsed" type="integer"/>
+<attribute id="a-8dfbbd7fcc76781c9d80f08c5809069a" title="NumberOfPages" type="integer"/>
+<attribute id="a-9609dddf3618cff8f67b7829e6fc575e" title="ISBN" type="string"/>
+<attribute id="a-78805a221a988e79ef3f42d7c5bfd418" title="image" type="string"/>
+<attribute id="a-c618aff3b89bec5c86c43bc4449295db" title="HasReviews" type="boolean"/>
+<attribute id="a-ce9e111f2e055ddda9742681f80a1cd6" title="seedNode" type="boolean"/>
+<attribute id="a-f6a8f8a5555dd88746ef27da47ed3e06" title="crawlDepth" type="integer"/>
+</attributes>
+
+				
+				<nodes>
+<node id="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" label="Cybertext Poetics: The Critical Landscape of New Media Literary Theory (International Texts in Critical Media Aesthetics) by Markku Eskelinen">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cybertext Poetics: The Critical Landscape of New Media Literary Theory (International Texts in Critical Media Aesthetics)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Markku Eskelinen"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1441107452"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1117725"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-05-10"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2299"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£22.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="472"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1441107452"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51ei-ZYiT6L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-ce9e111f2e055ddda9742681f80a1cd6" value="1"/>
+<spells>
+<spell start="2012-05-10" end="2012-05-10" />
+</spells>
+</node>
+<node id="n-5ca332f6115c096d86b3b79328117b3a" label="Cybertext: Perspectives on Ergodic Literature by Espen J. Aarseth">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cybertext: Perspectives on Ergodic Literature"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Espen J. Aarseth"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801855799"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="155216"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="1997-08-06"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1600"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="12"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="216"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0801855799"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41u-eH03TaL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="1997-08-06" end="1997-08-06" />
+</spells>
+</node>
+<node id="n-6b36d96e95cf935cfea1f45ff488c782" label="Graphs, Maps, Trees: Abstract Models for a Literary History by Franco Moretti">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Graphs, Maps, Trees: Abstract Models for a Literary History"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Franco Moretti"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1844671852"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="191351"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Verso"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2007-09-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1199"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£11.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="13"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="124"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1844671852"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51oaOpZio6L._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2007-09-01" end="2007-09-01" />
+</spells>
+</node>
+<node id="n-a9a741751371e49b8d26f2e066c677f4" label="Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations (Electronic Mediations) by Roberto Simanowski">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations (Electronic Mediations)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Roberto Simanowski"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816667381"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="141654"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-05-20"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1850"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£18.50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="8"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="328"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0816667381"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41eev6RmkjL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2011-05-20" end="2011-05-20" />
+</spells>
+</node>
+<node id="n-cbdafa44d7a916b0e7a328b05625c9c5" label="Reality is Broken: Why Games Make Us Better and How They Can Change the World by Jane McGonigal">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reality is Broken: Why Games Make Us Better and How They Can Change the World"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jane McGonigal"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0224089250"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="120563"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Jonathan Cape"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-02-03"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1299"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£12.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="9"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="400"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0224089250"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51TLNEMLE%2BL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2011-02-03" end="2011-02-03" />
+</spells>
+</node>
+<node id="n-d2e5bbdaaad11326678fe27e41e294bd" label="Hamlet on the Holodeck: The Future of Narrative in Cyberspace by Janet H Murray">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hamlet on the Holodeck: The Future of Narrative in Cyberspace"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Janet H Murray"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262631873"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="317471"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="1998-08-28"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1995"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£19.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="15"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="336"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262631873"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/014Z65Y57SL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="1998-08-28" end="1998-08-28" />
+</spells>
+</node>
+<node id="n-91e52fbd92962bc8ee42cf9b6d380daf" label="Half-Real: Video Games Between Real Rules and Fictional Worlds by Jesper Juul">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Half-Real: Video Games Between Real Rules and Fictional Worlds"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jesper Juul"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262516519"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="108759"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-09-06"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1395"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£13.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="9"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="248"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262516519"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41DBzHzqQ%2BL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-09-06" end="2011-09-06" />
+</spells>
+</node>
+<node id="n-4a548b8eff5cdcafd2133f78d2b0686e" label="Theory of Fun for Game Design by Raph Koster">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Theory of Fun for Game Design"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Raph Koster"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1932111972"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="77384"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="PARAGLYPH PRESS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2005-01-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1649"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.49"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="14"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="240"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1932111972"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51tvpTzuwdL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2005-01-01" end="2005-01-01" />
+</spells>
+</node>
+<node id="n-c9834eb323f16ae3237b0551dfb23808" label="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature) by N. Katherine Hayles">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0268030855"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="513510"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Notre Dame Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2008-03-15"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1795"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£17.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="12"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="192"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0268030855"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41b4di6FvLL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2008-03-15" end="2008-03-15" />
+</spells>
+</node>
+<node id="n-b791ddd166612cd31be2bdd5e030116a" label="Writing Machines (Mediaworks Pamphlet) by N Katherine Hayles">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Writing Machines (Mediaworks Pamphlet)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N Katherine Hayles"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262582155"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="692169"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2002-12-03"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1695"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="17"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="224"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262582155"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51GZWK6NMBL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2002-12-03" end="2002-12-03" />
+</spells>
+</node>
+<node id="n-4d95587b428728da6edd6f3280727855" label="Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media (Parallax: Re-visions of Culture and Society) by Marie-Laure Ryan">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media (Parallax: Re-visions of Culture and Society)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Marie-Laure Ryan"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801877539"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="275894"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2003-10-03"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2050"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£20.50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="8"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="416"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0801877539"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41VHYTSAJKL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2003-10-03" end="2003-10-03" />
+</spells>
+</node>
+<node id="n-9833cb9318094344f405e076a89b5992" label="Hyper/Text/Theory by George P. Landow (ed)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hyper/Text/Theory"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="George P. Landow (ed)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801848385"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1025273"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="1994-11-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2000"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£20.00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="16"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="392"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0801848385"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51WPFYex%2BLL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="1994-11-01" end="1994-11-01" />
+</spells>
+</node>
+<node id="n-0bd6c893b56fbfa639906f2afad48278" label="Remediation: Understanding New Media by Jay David Bolter">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Remediation: Understanding New Media"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jay David Bolter"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262522799"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="333789"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2000-03-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2095"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£20.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="18"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="310"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262522799"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/315224SDTRL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2000-03-01" end="2000-03-01" />
+</spells>
+</node>
+<node id="n-7c99f484c97e160ecc6a8a4e8cc9f331" label="Atlas of the European Novel, 1800-1900 by Franco Moretti">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Atlas of the European Novel, 1800-1900"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Franco Moretti"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1859842240"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="457265"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Verso Books"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="1999-08-09"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1299"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£12.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="192"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1859842240"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51dOGwi0jAL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="1999-08-09" end="1999-08-09" />
+</spells>
+</node>
+<node id="n-e461a7eef5b3869644b0e21c5b4f6aea" label="Reading Graphs, Maps, and Trees: Responses to Franco Moretti by Franco Moretti,Jonathan Goodwin,John Holbo (eds)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reading Graphs, Maps, and Trees: Responses to Franco Moretti"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Franco Moretti,Jonathan Goodwin,John Holbo (eds)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1602352054"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="694074"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Parlor Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-01-07"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1300"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£13.00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="6"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="166"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1602352054"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41YSogIyFeL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-01-07" end="2011-01-07" />
+</spells>
+</node>
+<node id="n-b3182ad279a53a4ad4fc5c1b44b47838" label="How We Think: Digital Media and Contemporary Technogenesis by N. Katherine Hayles">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How We Think: Digital Media and Contemporary Technogenesis"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226321428"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="247203"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-06-12"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1600"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="8"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="296"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0226321428"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51cq%2BKNuVOL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-06-12" end="2012-06-12" />
+</spells>
+</node>
+<node id="n-97420b352ca90b32466c1cc5a7aa2890" label="World-systems Analysis: An Introduction (A John Hope Franklin Center Book) by Immanuel Wallerstein">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="World-systems Analysis: An Introduction (A John Hope Franklin Center Book)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Immanuel Wallerstein"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0822334429"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="196065"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Duke University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2004-12-10"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1299"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£12.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="17"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="170"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0822334429"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41QboOeuTCL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2004-12-10" end="2004-12-10" />
+</spells>
+</node>
+<node id="n-fa1d2c3f1128cd8681d87ed86538c05d" label="Are You My Mother? by Alison Bechdel">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Are You My Mother?"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Alison Bechdel"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0224093525"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="9664"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Jonathan Cape"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-05-31"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1699"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="7"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="304"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0224093525"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51Bs00WjhTL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-05-31" end="2012-05-31" />
+</spells>
+</node>
+<node id="n-97554ec96345aa4ff8106b532b87360f" label="The Penguin Freud Reader (Penguin Modern Classics Translated Texts) by Sigmund Freud">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Penguin Freud Reader (Penguin Modern Classics Translated Texts)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sigmund Freud"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0141187433"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="26532"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin Classics"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2006-01-26"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1499"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£14.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="15"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="592"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0141187433"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/512LkpEu1nL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2006-01-26" end="2006-01-26" />
+</spells>
+</node>
+<node id="n-c1341729bdf5390766c6a983a2802edf" label="How to Read World Literature (How to Study Literature) by David Damrosch">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How to Read World Literature (How to Study Literature)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David Damrosch"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1405168269"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="747680"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Wiley-Blackwell"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2008-10-24"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1799"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£17.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="8"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="152"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1405168269"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41izLiDQK5L._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2008-10-24" end="2008-10-24" />
+</spells>
+</node>
+<node id="n-fc9adb4b590cd446c161e0463e499bcb" label="Mythologies (Vintage Classics) by Roland Barthes">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Mythologies (Vintage Classics)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Roland Barthes"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0099529750"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="2984"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Vintage Classics"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2009-09-03"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="899"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£8.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="208"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0099529750"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/415Hp75GzxL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2009-09-03" end="2009-09-03" />
+</spells>
+</node>
+<node id="n-1103edeee4b3351ecdc9dfac84dc55f2" label="The World Republic of Letters (Convergences: Inventories of the Present) by Pascale Casanova">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The World Republic of Letters (Convergences: Inventories of the Present)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Pascale Casanova"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0674010213"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="51881"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Harvard University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2007-05-08"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1795"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£17.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="12"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="440"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0674010213"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41uQB9VtepL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2007-05-08" end="2007-05-08" />
+</spells>
+</node>
+<node id="n-6372c5d9e43f1ca4330b87d8af480931" label="The Spatial Humanities: GIS and the Future of Humanities Scholarship by David J. Bodenhamer,John Corrigan,Trevor Harris (eds)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Spatial Humanities: GIS and the Future of Humanities Scholarship"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David J. Bodenhamer,John Corrigan,Trevor Harris (eds)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0253222176"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="414861"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Indiana University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-08-25"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1699"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="12"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="222"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0253222176"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51Is8f23SYL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-08-25" end="2010-08-25" />
+</spells>
+</node>
+<node id="n-3c8cf7d145e431e158cab8169244d77b" label="The Language of New Media (Leonardo Book Series) by Lev Manovich">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Language of New Media (Leonardo Book Series)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Lev Manovich"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262632551"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="49856"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2002-01-22"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2095"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£20.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="24"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="352"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262632551"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51E8CRYAMNL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2002-01-22" end="2002-01-22" />
+</spells>
+</node>
+<node id="n-52a62c0e1bf4edbd47e3d666dd14b257" label="Literary Art in Digital Performance: Case Studies in New Media Art and Criticism by Francisco J. Ricardo (ed)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Literary Art in Digital Performance: Case Studies in New Media Art and Criticism"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Francisco J. Ricardo (ed)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0826436803"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1067909"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-02-06"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1899"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£18.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="14"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="200"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0826436803"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51eiC6L7-XL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-02-06" end="2011-02-06" />
+</spells>
+</node>
+<node id="n-a148a755da77475ba256568d158b7f9e" label="Beyond the Screen: Transformations of Literary Structures, Interfaces and Genre: Transformations of Literary Structures, Interfaces and Genres (Medienumbruche/ Media Upheavals) by Joegen Schafer">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Beyond the Screen: Transformations of Literary Structures, Interfaces and Genre: Transformations of Literary Structures, Interfaces and Genres (Medienumbruche/ Media Upheavals)"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Joegen Schafer"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="3837612589"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1470961"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Transcript Verlag"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-04-15"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="5995"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£59.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="500"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="3837612589"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41eCBWkxDsL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-04-15" end="2010-04-15" />
+</spells>
+</node>
+<node id="n-1d7212277877709faa26049b0295311b" label="Visual Complexity: Mapping Patterns of Information by Manuel Lima">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Visual Complexity: Mapping Patterns of Information"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Manuel Lima"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1568989369"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="185472"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Princeton Architectural Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-10-18"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="3500"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£35.00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="272"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1568989369"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/61rtvpmc8uL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-10-18" end="2011-10-18" />
+</spells>
+</node>
+<node id="n-0213e3189bd05fd8b07214467b6880ef" label="Switching Codes: Thinking Through New Technology in the Humanities and the Arts by Thomas Bartscherer, Roderick Coover">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Switching Codes: Thinking Through New Technology in the Humanities and the Arts"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Thomas Bartscherer, Roderick Coover"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226038319"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="233137"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-05-31"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1950"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£19.50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="10"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="392"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0226038319"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/512D8H0XgML._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-05-31" end="2011-05-31" />
+</spells>
+</node>
+<node id="n-159f78f9934754146d2ae9bddaa908b3" label="Fun Inc.: Why games are the 21st Century&amp;quot;s most serious business by Tom Chatfield">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Fun Inc.: Why games are the 21st Century&amp;quot;s most serious business"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tom Chatfield"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0753519453"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="144622"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Virgin Books"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-01-06"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="799"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£7.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="6"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="272"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0753519453"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51pHdogabYL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-01-06" end="2011-01-06" />
+</spells>
+</node>
+<node id="n-74a539ec2ceb1015f7bffd1612c37991" label="Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps by Gabe Zichermann, Christopher Cunningham">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gabe Zichermann, Christopher Cunningham"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1449397670"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="27686"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="O&amp;quot;Reilly Media"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-08-19"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1899"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£18.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="15"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="208"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1449397670"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51w5ybeiwKL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-08-19" end="2011-08-19" />
+</spells>
+</node>
+<node id="n-b9946014b0bd135cb376d5ff7e40d957" label="Rules of Play: Game Design Fundamentals by Katie Salen">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Rules of Play: Game Design Fundamentals"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Katie Salen"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262240459"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="184120"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2003-11-04"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="3795"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£37.95"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="13"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="650"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0262240459"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41w2b0p9-LL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2003-11-04" end="2003-11-04" />
+</spells>
+</node>
+<node id="n-a891ba78890875f7686a5971e9253996" label="Extra Lives: Why Video Games Matter by Tom Bissell">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Extra Lives: Why Video Games Matter"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tom Bissell"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0307474313"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="129445"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Vintage Books"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-06-14"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="934"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£9.34"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="15"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="242"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0307474313"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41dNexifPeL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-06-14" end="2011-06-14" />
+</spells>
+</node>
+<node id="n-8eec7885b9e95d777cf4e1f09a802f6d" label="Game-Based Marketing: Inspire Customer Loyalty Through Rewards, Challenges, and Contests by Gabe Zichermann, Joselin Linder">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Game-Based Marketing: Inspire Customer Loyalty Through Rewards, Challenges, and Contests"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gabe Zichermann, Joselin Linder"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0470562234"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="13098"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="John Wiley &amp; Sons"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-04-16"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1699"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£16.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="15"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="240"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0470562234"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41b%2BNCd8zrL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-04-16" end="2010-04-16" />
+</spells>
+</node>
+<node id="n-ab6a08d42b9c58d94c8ec04fdfda99de" label="Replay: the History of Video Games by Tristan Donovan">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Replay: the History of Video Games"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tristan Donovan"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0956507204"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="186013"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Yellow Ant"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-04-30"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1299"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£12.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="516"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0956507204"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41Kjp6%2BdCPL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-04-30" end="2010-04-30" />
+</spells>
+</node>
+<node id="n-22428d9053a28c35a69d4966aed19c82" label="For the Win: How Game Thinking Can Revolutionize Your Business by Kevin Werbach">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="For the Win: How Game Thinking Can Revolutionize Your Business"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Kevin Werbach"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1613630239"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="26554"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Wharton Digital Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-10-30"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1099"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£10.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="7"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="148"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="1613630239"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41Fk93X4uuL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-10-30" end="2012-10-30" />
+</spells>
+</node>
+<node id="n-ce6740c68e989ab3d4b73fe394c97501" label="The Art of Game Design: A book of lenses by Jesse Schell">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Art of Game Design: A book of lenses"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jesse Schell"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0123694965"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="60520"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="CRC Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2008-12-09"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="3799"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£37.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="10"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="512"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0123694965"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51HfI1fh85L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2008-12-09" end="2008-12-09" />
+</spells>
+</node>
+<node id="n-21a56a6cbc1af7742bc8fad71206158e" label="Total Engagement: How Games and Virtual Worlds Are Changing the Way People Work and Businesses Compete by Byron Reeves, J. Leighton Read">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Total Engagement: How Games and Virtual Worlds Are Changing the Way People Work and Businesses Compete"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Byron Reeves, J. Leighton Read"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="142214657X"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="467111"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Harvard Business School Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2009-11-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="English"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1999"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="£19.99"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="GBP"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="11"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="256"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="142214657X"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41eNKkvV-sL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2009-11-01" end="2009-11-01" />
+</spells>
+</node>
+</nodes>
+
+				<edges>
+<edge id="e-n-6afe31dbf0d79dbbbaab7f9851fd8c0cn-5ca332f6115c096d86b3b79328117b3a" source="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" target="n-5ca332f6115c096d86b3b79328117b3a" weight="1">
+</edge>
+<edge id="e-n-6afe31dbf0d79dbbbaab7f9851fd8c0cn-6b36d96e95cf935cfea1f45ff488c782" source="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" target="n-6b36d96e95cf935cfea1f45ff488c782" weight="1">
+</edge>
+<edge id="e-n-6afe31dbf0d79dbbbaab7f9851fd8c0cn-a9a741751371e49b8d26f2e066c677f4" source="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" target="n-a9a741751371e49b8d26f2e066c677f4" weight="1">
+</edge>
+<edge id="e-n-6afe31dbf0d79dbbbaab7f9851fd8c0cn-cbdafa44d7a916b0e7a328b05625c9c5" source="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" target="n-cbdafa44d7a916b0e7a328b05625c9c5" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-d2e5bbdaaad11326678fe27e41e294bd" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-d2e5bbdaaad11326678fe27e41e294bd" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-91e52fbd92962bc8ee42cf9b6d380daf" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-91e52fbd92962bc8ee42cf9b6d380daf" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-cbdafa44d7a916b0e7a328b05625c9c5" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-cbdafa44d7a916b0e7a328b05625c9c5" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-4a548b8eff5cdcafd2133f78d2b0686e" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-4a548b8eff5cdcafd2133f78d2b0686e" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-c9834eb323f16ae3237b0551dfb23808" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-b791ddd166612cd31be2bdd5e030116a" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-b791ddd166612cd31be2bdd5e030116a" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-6afe31dbf0d79dbbbaab7f9851fd8c0c" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-4d95587b428728da6edd6f3280727855" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-4d95587b428728da6edd6f3280727855" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-9833cb9318094344f405e076a89b5992" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-9833cb9318094344f405e076a89b5992" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-0bd6c893b56fbfa639906f2afad48278" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-0bd6c893b56fbfa639906f2afad48278" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-7c99f484c97e160ecc6a8a4e8cc9f331" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-7c99f484c97e160ecc6a8a4e8cc9f331" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-e461a7eef5b3869644b0e21c5b4f6aea" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-e461a7eef5b3869644b0e21c5b4f6aea" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-b3182ad279a53a4ad4fc5c1b44b47838" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-97420b352ca90b32466c1cc5a7aa2890" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-97420b352ca90b32466c1cc5a7aa2890" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-fa1d2c3f1128cd8681d87ed86538c05d" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-fa1d2c3f1128cd8681d87ed86538c05d" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-97554ec96345aa4ff8106b532b87360f" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-97554ec96345aa4ff8106b532b87360f" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-c1341729bdf5390766c6a983a2802edf" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-c1341729bdf5390766c6a983a2802edf" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-fc9adb4b590cd446c161e0463e499bcb" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-fc9adb4b590cd446c161e0463e499bcb" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-1103edeee4b3351ecdc9dfac84dc55f2" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-1103edeee4b3351ecdc9dfac84dc55f2" weight="1">
+</edge>
+<edge id="e-n-6b36d96e95cf935cfea1f45ff488c782n-6372c5d9e43f1ca4330b87d8af480931" source="n-6b36d96e95cf935cfea1f45ff488c782" target="n-6372c5d9e43f1ca4330b87d8af480931" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-3c8cf7d145e431e158cab8169244d77b" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-3c8cf7d145e431e158cab8169244d77b" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-52a62c0e1bf4edbd47e3d666dd14b257" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-52a62c0e1bf4edbd47e3d666dd14b257" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-a148a755da77475ba256568d158b7f9e" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-a148a755da77475ba256568d158b7f9e" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-1d7212277877709faa26049b0295311b" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-1d7212277877709faa26049b0295311b" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-6afe31dbf0d79dbbbaab7f9851fd8c0c" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" weight="1">
+</edge>
+<edge id="e-n-a9a741751371e49b8d26f2e066c677f4n-0213e3189bd05fd8b07214467b6880ef" source="n-a9a741751371e49b8d26f2e066c677f4" target="n-0213e3189bd05fd8b07214467b6880ef" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-159f78f9934754146d2ae9bddaa908b3" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-159f78f9934754146d2ae9bddaa908b3" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-4a548b8eff5cdcafd2133f78d2b0686e" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-4a548b8eff5cdcafd2133f78d2b0686e" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-74a539ec2ceb1015f7bffd1612c37991" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-74a539ec2ceb1015f7bffd1612c37991" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-b9946014b0bd135cb376d5ff7e40d957" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-b9946014b0bd135cb376d5ff7e40d957" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-a891ba78890875f7686a5971e9253996" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-a891ba78890875f7686a5971e9253996" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-8eec7885b9e95d777cf4e1f09a802f6d" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-8eec7885b9e95d777cf4e1f09a802f6d" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-ab6a08d42b9c58d94c8ec04fdfda99de" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-ab6a08d42b9c58d94c8ec04fdfda99de" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-22428d9053a28c35a69d4966aed19c82" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-22428d9053a28c35a69d4966aed19c82" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-ce6740c68e989ab3d4b73fe394c97501" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-ce6740c68e989ab3d4b73fe394c97501" weight="1">
+</edge>
+<edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-21a56a6cbc1af7742bc8fad71206158e" source="n-cbdafa44d7a916b0e7a328b05625c9c5" target="n-21a56a6cbc1af7742bc8fad71206158e" weight="1">
+</edge>
+</edges>
+
+			</graph>
+		</gexf>

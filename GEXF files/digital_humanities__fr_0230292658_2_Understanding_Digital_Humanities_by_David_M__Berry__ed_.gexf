@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<gexf xmlns="http://www.gexf.net/1.2draft"
+			xmlns:xsi="http://wwww.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.gexf.net/1.2draft 
+			http://www.gexf.net/1.2draft/gexf.xds"
+			xmlns:viz="http://www.gexf.net/1.2draft/viz"
+			version="1.2">
+			<meta>
+				<creator>erik@digitalmethods.net</creator>
+				<description>Amazon related books for ASIN 0230292658 in language fr</description>
+			</meta>
+			<graph defaultedgetype="directed" mode="dynamic" timeformat="date">
+				<attributes class="node"><attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"/>
+<attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"/>
+<attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"/>
+<attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="int"/>
+<attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"/>
+<attribute id="a-9cb38038d9e84eae9c4669e8e98d93eb" title="PublicationDate" type="string"/>
+<attribute id="a-38f5fea761b84810b5c9d0225e4dd52c" title="ProductGroup" type="string"/>
+<attribute id="a-772f48cdb0bed94d6c53c41c16ec8e83" title="ProductTypeName" type="string"/>
+<attribute id="a-4994a8ffeba4ac3140beb89e8d41f174" title="Language" type="string"/>
+<attribute id="a-e5b76647e86e5abfc4b6346c55471d3c" title="ListPrice" type="integer"/>
+<attribute id="a-1232ef5b28ce84d1494eebdd916a38e5" title="FormattedPrice" type="string"/>
+<attribute id="a-75c8ef7d73415885d3739c899a166bd2" title="CurrencyCode" type="string"/>
+<attribute id="a-7aca5b460b13d23868d31a8a1e3683fb" title="TotalUsed" type="integer"/>
+<attribute id="a-8dfbbd7fcc76781c9d80f08c5809069a" title="NumberOfPages" type="integer"/>
+<attribute id="a-9609dddf3618cff8f67b7829e6fc575e" title="ISBN" type="string"/>
+<attribute id="a-78805a221a988e79ef3f42d7c5bfd418" title="image" type="string"/>
+<attribute id="a-ce9e111f2e055ddda9742681f80a1cd6" title="seedNode" type="boolean"/>
+<attribute id="a-f6a8f8a5555dd88746ef27da47ed3e06" title="crawlDepth" type="integer"/>
+<attribute id="a-c618aff3b89bec5c86c43bc4449295db" title="HasReviews" type="boolean"/>
+</attributes>
+
+				
+				<nodes>
+<node id="n-824857fef57c56987ea62f89a5dc86d8" label="Understanding Digital Humanities by David M. Berry (ed)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Understanding Digital Humanities"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David M. Berry (ed)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0230292658"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="3855"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Palgrave Macmillan"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-02-03"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Anglais"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2550"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 25,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="336"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0230292658"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51cS-ASy9aL._SL75_.jpg"/>
+<attvalue for="a-ce9e111f2e055ddda9742681f80a1cd6" value="1"/>
+<spells>
+<spell start="2012-02-03" end="2012-02-03" />
+</spells>
+</node>
+<node id="n-4a4725026639e5b052dda63aa73e243c" label="Debates in the Digital Humanities by Matthew K. Gold (ed)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Debates in the Digital Humanities"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Matthew K. Gold (ed)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816677956"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="3766"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-01-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Anglais"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2815"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 28,15"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="504"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0816677956"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51XTdUBPWEL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2012-01-01" end="2012-01-01" />
+</spells>
+</node>
+<node id="n-b2f02955821689ebfb09b4b3474be198" label="Les liaisons numériques : Vers une nouvelle sociabilité ? by Antonio A. Casilli">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Les liaisons numériques : Vers une nouvelle sociabilité ?"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Antonio A. Casilli"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="202098637X"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="44863"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-09-02"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2030"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 20,30"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="331"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="202098637X"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41fpx3Vrt1L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2010-09-02" end="2010-09-02" />
+</spells>
+</node>
+<node id="n-6dde6e2921e8e4461802a077d56b4a02" label="Pour un humanisme numérique by Milad Doueihi">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Pour un humanisme numérique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Milad Doueihi"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2021000893"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="55355"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-02-10"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1930"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 19,30"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="177"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2021000893"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41mRMxiKdYL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2011-02-10" end="2011-02-10" />
+</spells>
+</node>
+<node id="n-18b5ae57efbfb2c30d03020471b276ea" label="Sociologie des réseaux sociaux by Pierre Mercklé">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Sociologie des réseaux sociaux"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Pierre Mercklé"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="270716710X"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="11586"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Editions La Découverte"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-02-24"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1000"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 10,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="128"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="270716710X"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41AXkA5WB%2BL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="1"/>
+<spells>
+<spell start="2011-02-24" end="2011-02-24" />
+</spells>
+</node>
+<node id="n-21a3670ac6ad6113ae3dac1c2c9a5e8e" label="Planned Obsolescence: Publishing, Technology, and the Future of the Academy by Kathleen Fitzpatrick">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Planned Obsolescence: Publishing, Technology, and the Future of the Academy"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Kathleen Fitzpatrick"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0814727883"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="240025"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="New York University Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-12-20"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Anglais"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1814"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 18,14"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="256"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0814727883"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41uugiMAoTL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-12-20" end="2011-12-20" />
+</spells>
+</node>
+<node id="n-8c98156397ffbfc3c9006959e60a2c02" label="La raison graphique by Jack Goody">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La raison graphique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jack Goody"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2707302406"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="29391"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Les Editions de Minuit"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="1979-01-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1875"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 18,75"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="272"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2707302406"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41WV7MVZA4L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="1979-01-01" end="1979-01-01" />
+</spells>
+</node>
+<node id="n-0213e3189bd05fd8b07214467b6880ef" label="Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts by Thomas Bartscherer,Roderick Coover (eds)">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Thomas Bartscherer,Roderick Coover (eds)"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226038319"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="242748"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-03-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Anglais"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2366"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 23,66"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="4"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="392"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="0226038319"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/512D8H0XgML._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-03-01" end="2011-03-01" />
+</spells>
+</node>
+<node id="n-35fd7b963383ce51329844af531c5ffe" label="Communication n 88 : Cultures du numérique by Collectif">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Communication n 88 : Cultures du numérique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Collectif"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2021045781"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="179619"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="SEUIL"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-05-19"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1623"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 16,23"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="50"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2021045781"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51jXedtmk7L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-05-19" end="2011-05-19" />
+</spells>
+</node>
+<node id="n-5b1226a14c301bda249bd2dc0ff52eff" label="La société du risque : Sur la voie d&amp;quot;une autre modernité by Ulrich Beck">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La société du risque : Sur la voie d&amp;quot;une autre modernité"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ulrich Beck"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2081218887"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="68801"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Flammarion"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2008-09-08"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1220"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 12,20"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="521"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2081218887"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51R2V646QCL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2008-09-08" end="2008-09-08" />
+</spells>
+</node>
+<node id="n-40e88d48c04cc37da4ce99a8f9068315" label="La démocratie Internet : Promesses et limites by Dominique Cardon">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La démocratie Internet : Promesses et limites"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Dominique Cardon"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2021026914"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="17431"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-09-16"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1180"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 11,80"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="102"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2021026914"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/31RGnGYM%2BLL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-09-16" end="2010-09-16" />
+</spells>
+</node>
+<node id="n-20d4b69e432222e9fec96dbb9061b0fd" label="Le sacre de l&amp;quot;amateur : Sociologie des passions ordinaires à l&amp;quot;ère numérique by Patrice Flichy">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Le sacre de l&amp;quot;amateur : Sociologie des passions ordinaires à l&amp;quot;ère numérique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Patrice Flichy"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2021031446"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="18458"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-11-04"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1180"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 11,80"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="96"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2021031446"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/315DFI%2Bo8oL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-11-04" end="2010-11-04" />
+</spells>
+</node>
+<node id="n-c411b01dd39556e1619a7910c7717d71" label="Réseaux sociaux et structures relationnelles by Emmanuel Lazega">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Réseaux sociaux et structures relationnelles"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Emmanuel Lazega"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2130561128"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="67710"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Presses Universitaires de France - PUF"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2007-09-20"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="900"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 9,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="127"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2130561128"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41pAy1mCgmL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2007-09-20" end="2007-09-20" />
+</spells>
+</node>
+<node id="n-120bedc2e737c05ceda0cea2801e21d2" label="Génération Y : Les jeunes et les réseaux sociaux, de la dérision à la subversion by Monique Dagnaud">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Génération Y : Les jeunes et les réseaux sociaux, de la dérision à la subversion"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Monique Dagnaud"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2724611950"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="9460"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Les Presses de Sciences Po"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-09-29"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1450"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 14,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="172"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2724611950"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41qWAsp6L9L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-09-29" end="2011-09-29" />
+</spells>
+</node>
+<node id="n-d66f4034c1de0a5ad0deb9b7fa482eaf" label="Médiactivistes by Dominique Cardon, Fabien Granjon">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Médiactivistes"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Dominique Cardon, Fabien Granjon"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2724611683"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="189225"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Les Presses de Sciences Po"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-08-19"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1250"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 12,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="147"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2724611683"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/31B6yq67WkL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-08-19" end="2010-08-19" />
+</spells>
+</node>
+<node id="n-12a7ae08401fb016646304bfe048d4c4" label="Les jeux video, ça rend pas idiot ! by Yann Leroux">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Les jeux video, ça rend pas idiot !"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Yann Leroux"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2916571868"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="33651"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="FYP EDITIONS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-11-10"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="990"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 9,90"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="96"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2916571868"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41Q7GaUhECL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-11-10" end="2012-11-10" />
+</spells>
+</node>
+<node id="n-aae2faeccc98f829cd52ea46c0f01de1" label="L&amp;quot;emprise numérique : Comment internet et les nouvelles technologies ont colonisé nos vies by Cédric Biagini">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="L&amp;quot;emprise numérique : Comment internet et les nouvelles technologies ont colonisé nos vies"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Cédric Biagini"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2915830673"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="28442"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Editions L&amp;quot;échappée"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-11-24"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1400"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 14,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="448"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2915830673"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/4178bwtfKsL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-11-24" end="2012-11-24" />
+</spells>
+</node>
+<node id="n-c23cb9b84fcc4f930a1774046ad87e67" label="Anonymous : Pirates informatiques ou altermondialistes numériques ? by Nicolas Danet, Frédéric Bardeau">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Anonymous : Pirates informatiques ou altermondialistes numériques ?"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nicolas Danet, Frédéric Bardeau"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2916571604"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="80933"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="FYP EDITIONS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-11-21"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1950"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 19,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="4"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="208"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2916571604"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41ReYNC2QgL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-11-21" end="2011-11-21" />
+</spells>
+</node>
+<node id="n-d5fb1512dc2e2e7f399e952d417f64e2" label="La grande conversion numérique : Suivi de Rêveries d&amp;quot;un promeneur numérique by Milad Doueihi">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La grande conversion numérique : Suivi de Rêveries d&amp;quot;un promeneur numérique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Milad Doueihi"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2757824783"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="145822"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Points"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-09-15"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="910"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 9,10"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="330"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2757824783"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51yhcaL9vIL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-09-15" end="2011-09-15" />
+</spells>
+</node>
+<node id="n-34cb1f6d9f9d079aba9481bbac4dbc31" label="L&amp;quot;école, le numérique et la société qui vient by Philippe Meirieu, Denis Kambouchner, Bernard Stiegler">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="L&amp;quot;école, le numérique et la société qui vient"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Philippe Meirieu, Denis Kambouchner, Bernard Stiegler"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="275550644X"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="3628"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Fayard/Mille et une nuits"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-01-25"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="510"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 5,10"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="3"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="220"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="275550644X"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51Ye8v2oFwL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-01-25" end="2012-01-25" />
+</spells>
+</node>
+<node id="n-5762deedbe1a2a52c04fa828fdf34a4c" label="Après le livre by François Bon">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Après le livre"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="François Bon"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2021055345"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="102016"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-09-22"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1830"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 18,30"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="13"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="274"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2021055345"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/31XleebC0RL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-09-22" end="2011-09-22" />
+</spells>
+</node>
+<node id="n-57bf1527a53666a1bbcc1d95ee9a60d1" label="Enquêtes sur les modes d&amp;quot;existence : Une anthropologie des Modernes by Bruno Latour">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Enquêtes sur les modes d&amp;quot;existence : Une anthropologie des Modernes"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Bruno Latour"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2707173479"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="7414"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Editions La Découverte"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-09-20"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2600"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 26,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="498"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2707173479"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51oRSa5YhBL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-09-20" end="2012-09-20" />
+</spells>
+</node>
+<node id="n-4309d47ef979fa52756b7cacfb9b33f0" label="La formation aux cultures numériques. Une nouvelle pédagogie pour une culture de l&amp;quot;information à l&amp;quot;heure du numérique Auteur by Olivier Le Deuff">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La formation aux cultures numériques. Une nouvelle pédagogie pour une culture de l&amp;quot;information à l&amp;quot;heure du numérique Auteur"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Olivier Le Deuff"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="291657154X"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="157315"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="FYP EDITIONS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-11-15"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1950"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 19,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="160"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="291657154X"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41FR-kQUSaL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-11-15" end="2011-11-15" />
+</spells>
+</node>
+<node id="n-75bde6b01eec3881af723a0a8082b157" label="La Grande Conversion numérique by Milad Doueihi">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="La Grande Conversion numérique"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Milad Doueihi"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2020964902"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="244613"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Seuil"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2008-01-17"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1930"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 19,30"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="271"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2020964902"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51bnMkDEJgL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2008-01-17" end="2008-01-17" />
+</spells>
+</node>
+<node id="n-ddd690796538f9b2dae3062fb85cf02b" label="Apologie du livre: Demain, aujourd&amp;quot;hui, hier by Robert Darnton">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Apologie du livre: Demain, aujourd&amp;quot;hui, hier"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Robert Darnton"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2070448223"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="160979"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Folio"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-11-02"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="860"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 8,60"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="5"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="320"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2070448223"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/413-yEs3rKL._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-11-02" end="2012-11-02" />
+</spells>
+</node>
+<node id="n-2f6f76891ed82eaaed118eb7b757bde9" label="Les réseaux sociaux by Alain Degenne, Michel Forsé">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Les réseaux sociaux"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Alain Degenne, Michel Forsé"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2200266626"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="138774"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Armand Colin"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2004-03-01"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="3300"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 33,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2200266626"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51V8LTrrgrL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2004-03-01" end="2004-03-01" />
+</spells>
+</node>
+<node id="n-81a6bd4121198c98b4891f4ff65a370f" label="Le capital social by Sophie Ponthieux">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Le capital social"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sophie Ponthieux"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2707147494"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="95009"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Editions La Découverte"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2006-06-22"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="1000"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 10,00"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="121"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2707147494"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/31S1MDMACEL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2006-06-22" end="2006-06-22" />
+</spells>
+</node>
+<node id="n-1cb84cf4a9fff5b73790005c3bb90426" label="Communiquer sur les réseaux sociaux. Les méthodes et les outils indispensables pour vos stratégies de communication sur les médias sociaux by Antoine Dupin">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Communiquer sur les réseaux sociaux. Les méthodes et les outils indispensables pour vos stratégies de communication sur les médias sociaux"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Antoine Dupin"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2916571442"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="46029"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="FYP EDITIONS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2010-12-20"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2390"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 23,90"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="178"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2916571442"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/51cutFo6K9L._SL75_.jpg"/>
+<attvalue for="a-c618aff3b89bec5c86c43bc4449295db" value="1"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2010-12-20" end="2010-12-20" />
+</spells>
+</node>
+<node id="n-6f2d68ceea42ede8b8fd9d264166ba66" label="Hermès, N° 59 : Ces réseaux numériques dits sociaux by Thomas Stenger, Alexandre Coutant, Collectif">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hermès, N° 59 : Ces réseaux numériques dits sociaux"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Thomas Stenger, Alexandre Coutant, Collectif"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2271071658"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="228064"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="CNRS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2011-04-28"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2535"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 25,35"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="1"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="253"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2271071658"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41I1UJbqYkL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2011-04-28" end="2011-04-28" />
+</spells>
+</node>
+<node id="n-5aec733cd6ef5b20a04f454594d66f9b" label="Réseaux sociaux : Culture politique et ingénierie des réseaux sociaux by Bernard Stiegler, Alexander R. Galloway, Yann Moulier-Boutang, Annie Gentès, Alain Mille, Christian Fauré, Richard Harper, Antoine Masson, Elizabeth Rossé">
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Réseaux sociaux : Culture politique et ingénierie des réseaux sociaux"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Bernard Stiegler, Alexander R. Galloway, Yann Moulier-Boutang, Annie Gentès, Alain Mille, Christian Fauré, Richard Harper, Antoine Masson, Elizabeth Rossé"/>
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="2916571353"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23980"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="FYP EDITIONS"/>
+<attvalue for="a-9cb38038d9e84eae9c4669e8e98d93eb" value="2012-01-06"/>
+<attvalue for="a-38f5fea761b84810b5c9d0225e4dd52c" value="Book"/>
+<attvalue for="a-772f48cdb0bed94d6c53c41c16ec8e83" value="ABIS_BOOK"/>
+<attvalue for="a-4994a8ffeba4ac3140beb89e8d41f174" value="Français"/>
+<attvalue for="a-e5b76647e86e5abfc4b6346c55471d3c" value="2450"/>
+<attvalue for="a-1232ef5b28ce84d1494eebdd916a38e5" value="EUR 24,50"/>
+<attvalue for="a-75c8ef7d73415885d3739c899a166bd2" value="EUR"/>
+<attvalue for="a-7aca5b460b13d23868d31a8a1e3683fb" value="2"/>
+<attvalue for="a-8dfbbd7fcc76781c9d80f08c5809069a" value="240"/>
+<attvalue for="a-9609dddf3618cff8f67b7829e6fc575e" value="2916571353"/>
+<attvalue for="a-78805a221a988e79ef3f42d7c5bfd418" value="http://ecx.images-amazon.com/images/I/41mwIYBT3gL._SL75_.jpg"/>
+<attvalue for="a-f6a8f8a5555dd88746ef27da47ed3e06" value="2"/>
+<spells>
+<spell start="2012-01-06" end="2012-01-06" />
+</spells>
+</node>
+</nodes>
+
+				<edges>
+<edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-4a4725026639e5b052dda63aa73e243c" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-4a4725026639e5b052dda63aa73e243c" weight="1">
+</edge>
+<edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-b2f02955821689ebfb09b4b3474be198" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-b2f02955821689ebfb09b4b3474be198" weight="1">
+</edge>
+<edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-6dde6e2921e8e4461802a077d56b4a02" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-6dde6e2921e8e4461802a077d56b4a02" weight="1">
+</edge>
+<edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-18b5ae57efbfb2c30d03020471b276ea" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-18b5ae57efbfb2c30d03020471b276ea" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-824857fef57c56987ea62f89a5dc86d8" source="n-4a4725026639e5b052dda63aa73e243c" target="n-824857fef57c56987ea62f89a5dc86d8" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-21a3670ac6ad6113ae3dac1c2c9a5e8e" source="n-4a4725026639e5b052dda63aa73e243c" target="n-21a3670ac6ad6113ae3dac1c2c9a5e8e" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-8c98156397ffbfc3c9006959e60a2c02" source="n-4a4725026639e5b052dda63aa73e243c" target="n-8c98156397ffbfc3c9006959e60a2c02" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-0213e3189bd05fd8b07214467b6880ef" source="n-4a4725026639e5b052dda63aa73e243c" target="n-0213e3189bd05fd8b07214467b6880ef" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-35fd7b963383ce51329844af531c5ffe" source="n-4a4725026639e5b052dda63aa73e243c" target="n-35fd7b963383ce51329844af531c5ffe" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-5b1226a14c301bda249bd2dc0ff52eff" source="n-4a4725026639e5b052dda63aa73e243c" target="n-5b1226a14c301bda249bd2dc0ff52eff" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-40e88d48c04cc37da4ce99a8f9068315" source="n-b2f02955821689ebfb09b4b3474be198" target="n-40e88d48c04cc37da4ce99a8f9068315" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-18b5ae57efbfb2c30d03020471b276ea" source="n-b2f02955821689ebfb09b4b3474be198" target="n-18b5ae57efbfb2c30d03020471b276ea" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-20d4b69e432222e9fec96dbb9061b0fd" source="n-b2f02955821689ebfb09b4b3474be198" target="n-20d4b69e432222e9fec96dbb9061b0fd" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-c411b01dd39556e1619a7910c7717d71" source="n-b2f02955821689ebfb09b4b3474be198" target="n-c411b01dd39556e1619a7910c7717d71" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-35fd7b963383ce51329844af531c5ffe" source="n-b2f02955821689ebfb09b4b3474be198" target="n-35fd7b963383ce51329844af531c5ffe" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-120bedc2e737c05ceda0cea2801e21d2" source="n-b2f02955821689ebfb09b4b3474be198" target="n-120bedc2e737c05ceda0cea2801e21d2" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-d66f4034c1de0a5ad0deb9b7fa482eaf" source="n-b2f02955821689ebfb09b4b3474be198" target="n-d66f4034c1de0a5ad0deb9b7fa482eaf" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-12a7ae08401fb016646304bfe048d4c4" source="n-b2f02955821689ebfb09b4b3474be198" target="n-12a7ae08401fb016646304bfe048d4c4" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-aae2faeccc98f829cd52ea46c0f01de1" source="n-b2f02955821689ebfb09b4b3474be198" target="n-aae2faeccc98f829cd52ea46c0f01de1" weight="1">
+</edge>
+<edge id="e-n-b2f02955821689ebfb09b4b3474be198n-c23cb9b84fcc4f930a1774046ad87e67" source="n-b2f02955821689ebfb09b4b3474be198" target="n-c23cb9b84fcc4f930a1774046ad87e67" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-d5fb1512dc2e2e7f399e952d417f64e2" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-d5fb1512dc2e2e7f399e952d417f64e2" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-34cb1f6d9f9d079aba9481bbac4dbc31" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-34cb1f6d9f9d079aba9481bbac4dbc31" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-5762deedbe1a2a52c04fa828fdf34a4c" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-5762deedbe1a2a52c04fa828fdf34a4c" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-57bf1527a53666a1bbcc1d95ee9a60d1" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-57bf1527a53666a1bbcc1d95ee9a60d1" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-4309d47ef979fa52756b7cacfb9b33f0" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-4309d47ef979fa52756b7cacfb9b33f0" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-75bde6b01eec3881af723a0a8082b157" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-75bde6b01eec3881af723a0a8082b157" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-b2f02955821689ebfb09b4b3474be198" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-b2f02955821689ebfb09b4b3474be198" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-35fd7b963383ce51329844af531c5ffe" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-35fd7b963383ce51329844af531c5ffe" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-40e88d48c04cc37da4ce99a8f9068315" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-40e88d48c04cc37da4ce99a8f9068315" weight="1">
+</edge>
+<edge id="e-n-6dde6e2921e8e4461802a077d56b4a02n-ddd690796538f9b2dae3062fb85cf02b" source="n-6dde6e2921e8e4461802a077d56b4a02" target="n-ddd690796538f9b2dae3062fb85cf02b" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-c411b01dd39556e1619a7910c7717d71" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-c411b01dd39556e1619a7910c7717d71" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-b2f02955821689ebfb09b4b3474be198" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-b2f02955821689ebfb09b4b3474be198" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-40e88d48c04cc37da4ce99a8f9068315" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-40e88d48c04cc37da4ce99a8f9068315" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-20d4b69e432222e9fec96dbb9061b0fd" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-20d4b69e432222e9fec96dbb9061b0fd" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-2f6f76891ed82eaaed118eb7b757bde9" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-2f6f76891ed82eaaed118eb7b757bde9" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-81a6bd4121198c98b4891f4ff65a370f" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-81a6bd4121198c98b4891f4ff65a370f" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-120bedc2e737c05ceda0cea2801e21d2" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-120bedc2e737c05ceda0cea2801e21d2" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-1cb84cf4a9fff5b73790005c3bb90426" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-1cb84cf4a9fff5b73790005c3bb90426" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-6f2d68ceea42ede8b8fd9d264166ba66" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-6f2d68ceea42ede8b8fd9d264166ba66" weight="1">
+</edge>
+<edge id="e-n-18b5ae57efbfb2c30d03020471b276ean-5aec733cd6ef5b20a04f454594d66f9b" source="n-18b5ae57efbfb2c30d03020471b276ea" target="n-5aec733cd6ef5b20a04f454594d66f9b" weight="1">
+</edge>
+</edges>
+
+			</graph>
+		</gexf>

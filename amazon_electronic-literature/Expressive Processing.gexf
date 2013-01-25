@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<gexf xmlns="http://www.gexf.net/1.2draft"
+			xmlns:xsi="http://wwww.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.gexf.net/1.2draft 
+			http://www.gexf.net/1.2draft/gexf.xds"
+			xmlns:viz="http://www.gexf.net/1.2draft/viz"
+			version="1.2">
+			<meta>
+				<creator>tools.digitalmethods.net</creator>
+				<description>Amazon related</description>
+			</meta>
+			<graph defaultedgetype="undirected" mode="static">
+				<attributes class="node"><attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"/>
+<attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"/>
+<attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="int"/>
+<attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"/>
+<attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"/>
+<attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"/>
+</attributes>
+
+				
+				<nodes>
+<node id="n-4ccd7a6deb0f2c7507a7f48119f42b8c" label="0262517531">
+</node>
+<node id="n-96e32b404fed7748696ccd8d721068ff" label="New Directions in Digital Poetry: 1 (International Texts in Critical Media Aesthetics)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1441115919"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="New Directions in Digital Poetry: 1 (International Texts in Critical Media Aesthetics)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1242937"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="C. T. Funkhouser"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum"/>
+</node>
+<node id="n-4c423e625bf6a63e14fb10d256957216" label="Twisty Little Passages: An Approach to Interactive Fiction">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262633183"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Twisty Little Passages: An Approach to Interactive Fiction"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="74496"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nick Montfort"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-b3182ad279a53a4ad4fc5c1b44b47838" label="How We Think: Digital Media and Contemporary Technogenesis">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226321428"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How We Think: Digital Media and Contemporary Technogenesis"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="223228"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+</node>
+<node id="n-c9834eb323f16ae3237b0551dfb23808" label="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0268030855"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="508881"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Notre Dame Press"/>
+</node>
+<node id="n-8e110c10f53ebfc0a08100e38421649c" label="How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226321460"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="55749"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Katherine Hayles"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+</node>
+<node id="n-824857fef57c56987ea62f89a5dc86d8" label="Understanding Digital Humanities">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0230292658"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Understanding Digital Humanities"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="91141"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Palgrave Macmillan"/>
+</node>
+<node id="n-4a4725026639e5b052dda63aa73e243c" label="Debates in the Digital Humanities">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816677956"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Debates in the Digital Humanities"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="89393"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"/>
+</node>
+<node id="n-ef14d5cb52a89ac38a6e4f0b21839d08" label="The Interface Effect">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745662536"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Interface Effect"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="437548"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Alexander R. Galloway"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"/>
+</node>
+<node id="n-9f7fb68b474da60d1b3111cea989f455" label="Alien Phenomenology, or What it&amp;quot;s Like to be a Thing (Posthumanities)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816678987"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Alien Phenomenology, or What it&amp;quot;s Like to be a Thing (Posthumanities)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="54653"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ian Bogost"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"/>
+</node>
+<node id="n-b83ecdd7a1728e72ec04685f7e925ac0" label="Reading Machines: Toward an Algorithmic Criticism (Topics in the Digital Humanities)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0252078209"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reading Machines: Toward an Algorithmic Criticism (Topics in the Digital Humanities)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="163073"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Stephen Ramsay"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Illinois Press"/>
+</node>
+<node id="n-06892daf4c61281feb4b4151d9e1d5aa" label="The Neuro-Image: A Deleuzian Film-philosophy of Digital Screen Culture (Cultural Memory in the Present)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0804781362"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Neuro-Image: A Deleuzian Film-philosophy of Digital Screen Culture (Cultural Memory in the Present)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="279905"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Patricia Pisters"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Stanford University Press"/>
+</node>
+<node id="n-069c2fe8ee3ea9cc5c467e7300febb3e" label="Gramophone, Film, Typewriter (Writing Science)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0804732337"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Gramophone, Film, Typewriter (Writing Science)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="64720"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Friedrich Kittler"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Stanford University Press"/>
+</node>
+<node id="n-bb534f0d741ab7e6809cc9db989faa3b" label="What is Media Archaeology?">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745650260"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="What is Media Archaeology?"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="327069"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jussi Parikka"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"/>
+</node>
+<node id="n-72408d3e28988bf9033ff213e200f9d6" label="The Aesthetics of Net Literature: Writing, Reading and Playing in Programmable Media (Medienumbruche: Media Upheavals)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="389942493X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Aesthetics of Net Literature: Writing, Reading and Playing in Programmable Media (Medienumbruche: Media Upheavals)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1567394"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Transcript Verlag"/>
+</node>
+<node id="n-a148a755da77475ba256568d158b7f9e" label="Beyond the Screen: Transformations of Literary Structures, Interfaces and Genre: Transformations of Literary Structures, Interfaces and Genres (Medienumbruche/ Media Upheavals)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="3837612589"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Beyond the Screen: Transformations of Literary Structures, Interfaces and Genre: Transformations of Literary Structures, Interfaces and Genres (Medienumbruche/ Media Upheavals)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1468721"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Joegen Schafer"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Transcript Verlag"/>
+</node>
+<node id="n-3c8cade61b772fc9a6b3dcff4ec43371" label="Creating Interactive Fiction with Inform 7">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1435455061"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Creating Interactive Fiction with Inform 7"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="529275"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Aaron Reed"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Delmar Cengage Learning"/>
+</node>
+<node id="n-785165195b17ec14fe1f4719e9e96038" label="Programming in Lua, Second Edition">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="8590379825"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Programming in Lua, Second Edition"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="148106"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Roberto Ierusalimschy"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Lua.Org"/>
+</node>
+<node id="n-72df17bda9c0f8a2809c7aaaade807fe" label="Inform Designer&amp;quot;s Manual: 4th Edition">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0971311900"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Inform Designer&amp;quot;s Manual: 4th Edition"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1312274"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Graham Nelson"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Dan Sanderson"/>
+</node>
+<node id="n-a9d59d54033eca0903bd2b07407dfb26" label="Fabled Lands 3: Over the Blood-Dark Sea">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0956737226"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Fabled Lands 3: Over the Blood-Dark Sea"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="152098"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Dave Morris, Jamie Thomson"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Fabled Lands Publishing"/>
+</node>
+<node id="n-412233b0b1e6cb996faf7b413b935e0c" label="Fabled Lands 1: The War Torn Kingdom">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="095673720X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Fabled Lands 1: The War Torn Kingdom"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="152901"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Dave Morris, Jamie Thomson"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Fabled Lands Publishing"/>
+</node>
+<node id="n-ce2a7937e96bde1fd996a853a2d8cbee" label="The Future Was Here: The Commodore Amiga (Platform Studies Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262017202"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Future Was Here: The Commodore Amiga (Platform Studies Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="249322"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jimmy Maher"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-5ca332f6115c096d86b3b79328117b3a" label="Cybertext: Perspectives on Ergodic Literature">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801855799"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cybertext: Perspectives on Ergodic Literature"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="110429"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Espen J. Aarseth"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+</node>
+<node id="n-d2e5bbdaaad11326678fe27e41e294bd" label="Hamlet on the Holodeck: The Future of Narrative in Cyberspace">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262631873"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hamlet on the Holodeck: The Future of Narrative in Cyberspace"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="304183"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Janet H Murray"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-91e52fbd92962bc8ee42cf9b6d380daf" label="Half-Real: Video Games Between Real Rules and Fictional Worlds">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262516519"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Half-Real: Video Games Between Real Rules and Fictional Worlds"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="67015"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jesper Juul"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-cbdafa44d7a916b0e7a328b05625c9c5" label="Reality is Broken: Why Games Make Us Better and How They Can Change the World">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0224089250"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reality is Broken: Why Games Make Us Better and How They Can Change the World"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="112995"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jane McGonigal"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Jonathan Cape"/>
+</node>
+<node id="n-4a548b8eff5cdcafd2133f78d2b0686e" label="Theory of Fun for Game Design">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1932111972"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Theory of Fun for Game Design"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="29540"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Raph Koster"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="PARAGLYPH PRESS"/>
+</node>
+<node id="n-b791ddd166612cd31be2bdd5e030116a" label="Writing Machines (Mediaworks Pamphlet)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262582155"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Writing Machines (Mediaworks Pamphlet)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="688344"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N Katherine Hayles"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" label="Cybertext Poetics: The Critical Landscape of New Media Literary Theory (International Texts in Critical Media Aesthetics)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1441107452"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cybertext Poetics: The Critical Landscape of New Media Literary Theory (International Texts in Critical Media Aesthetics)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1114400"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Markku Eskelinen"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum"/>
+</node>
+<node id="n-4d95587b428728da6edd6f3280727855" label="Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media (Parallax: Re-visions of Culture and Society)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801877539"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media (Parallax: Re-visions of Culture and Society)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="253355"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Marie-Laure Ryan"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+</node>
+<node id="n-9833cb9318094344f405e076a89b5992" label="Hyper/Text/Theory">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801848385"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hyper/Text/Theory"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1020926"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+</node>
+<node id="n-0bd6c893b56fbfa639906f2afad48278" label="Remediation: Understanding New Media">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262522799"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Remediation: Understanding New Media"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="330617"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jay David Bolter"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-36d7507c785f36873199459754b113af" label="Hypertext 3.0: Critical Theory and New Media in an Era of Globalization: Critical Theory and New Media in a Global Era (Parallax: Re-visions of Culture and Society)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801882575"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hypertext 3.0: Critical Theory and New Media in an Era of Globalization: Critical Theory and New Media in a Global Era (Parallax: Re-visions of Culture and Society)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="646318"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="George P. Landow"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+</node>
+<node id="n-aea7b644ddb2b4cf4112245e035060da" label="Cultural Studies: Theory and Practice">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0857024809"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cultural Studies: Theory and Practice"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="89888"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Chris Barker"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="SAGE Publications Ltd"/>
+</node>
+<node id="n-37a0285e05001142af959ba673e4f48e" label="Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency (Leonardo Book Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="026252449X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency (Leonardo Book Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="783933"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jay David Bolter, Diane Gromala"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-2042e69532fa535e4e63c2daae8718c0" label="Digimodernism: How New Technologies Dismantle the Postmodern and Reconfigure Our Culture">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1441175288"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digimodernism: How New Technologies Dismantle the Postmodern and Reconfigure Our Culture"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="466688"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Alan Kirby"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum"/>
+</node>
+<node id="n-82d4c89bf7c1cbc543c5d9cf51a71de3" label="You Are Not A Gadget: A Manifesto">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0141049111"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="You Are Not A Gadget: A Manifesto"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="17143"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jaron Lanier"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin"/>
+</node>
+<node id="n-ebc8aaf7f28525e79bece45f529abef3" label="Writing Space: Computers, Hypertext, and the Remediation of Print">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0805829199"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Writing Space: Computers, Hypertext, and the Remediation of Print"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="235756"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jay David Bolter"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"/>
+</node>
+<node id="n-ce6740c68e989ab3d4b73fe394c97501" label="The Art of Game Design: A book of lenses">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0123694965"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Art of Game Design: A book of lenses"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23567"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jesse Schell"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="CRC Press"/>
+</node>
+<node id="n-77b9c26e7302a1bd16b2d4b9db19fe8d" label="Level Up!: The Guide to Great Video Game Design">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="047068867X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Level Up!: The Guide to Great Video Game Design"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="33179"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Scott Rogers"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="John Wiley &amp; Sons"/>
+</node>
+<node id="n-159f78f9934754146d2ae9bddaa908b3" label="Fun Inc.: Why games are the 21st Century&amp;quot;s most serious business">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0753519453"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Fun Inc.: Why games are the 21st Century&amp;quot;s most serious business"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="128680"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tom Chatfield"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Virgin Books"/>
+</node>
+<node id="n-b9946014b0bd135cb376d5ff7e40d957" label="Rules of Play: Game Design Fundamentals">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262240459"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Rules of Play: Game Design Fundamentals"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="157415"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Katie Salen"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-dc1811a8487922bac04b62bd6b364ece" label="Challenges for Game Designers">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="158450580X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Challenges for Game Designers"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="95791"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Brenda Brathwaite"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Delmar Publishing"/>
+</node>
+<node id="n-c924a045a1b67570253da3d985ebab03" label="Game Design Workshop: A Playcentric Approach to Creating Innovative Games">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0240809742"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Game Design Workshop: A Playcentric Approach to Creating Innovative Games"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="36483"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tracy Fullerton"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="CRC Press"/>
+</node>
+<node id="n-9b9a036a84ab82a3a274ecc4f07d61d4" label="The Computer Game Design Course: Principles, Practices and Techniques for the Aspiring Game Designer">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0500286582"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Computer Game Design Course: Principles, Practices and Techniques for the Aspiring Game Designer"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="33417"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jim Thompson, Barnaby Berbank-Green"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Thames and Hudson Ltd"/>
+</node>
+<node id="n-ddd7048b50f3082a27de83471f87bf44" label="The Ultimate Guide to Video Game Writing and Design">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="158065066X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Ultimate Guide to Video Game Writing and Design"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="79983"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Flint Dille, John Zuur Platten"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Lone Eagle Publishing Company"/>
+<attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006-12-21"/>
+</node>
+<node id="n-74a539ec2ceb1015f7bffd1612c37991" label="Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1449397670"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="24522"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gabe Zichermann, Christopher Cunningham"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="O&amp;quot;Reilly Media"/>
+</node>
+<node id="n-b283b4870a23ef232fdda71080fe59be" label="Dungeons and Desktops: The History of Computer Role-Playing Games">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1568814119"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Dungeons and Desktops: The History of Computer Role-Playing Games"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="573454"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Matt Barton"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="A K Peters/CRC Press"/>
+</node>
+<node id="n-1a1a7151d039754936739b30c41b10df" label="Vintage Games: An Insider Look at the History of Grand Theft Auto, Super Mario, and the Most Influential Games of All Time">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0240811461"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Vintage Games: An Insider Look at the History of Grand Theft Auto, Super Mario, and the Most Influential Games of All Time"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="166513"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Bill Loguidice, Matt Barton"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Focal Press"/>
+</node>
+<node id="n-ab6a08d42b9c58d94c8ec04fdfda99de" label="Replay: the History of Video Games">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0956507204"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Replay: the History of Video Games"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="170444"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tristan Donovan"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Yellow Ant"/>
+</node>
+<node id="n-b75bfc99bd316b070194d07b6be19d3e" label="The Ultimate History of Video Games">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0761536434"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Ultimate History of Video Games"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="111025"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Steven L. Kent"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Prima Life"/>
+</node>
+<node id="n-2c0f9ae971e93e93386245d97031e7f9" label="The Evolution of Fantasy Role-Playing Games">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="078645895X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Evolution of Fantasy Role-Playing Games"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1112574"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Michael J. Tresca"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="McFarland &amp; Co  Inc"/>
+</node>
+<node id="n-a63cd28ec41d1305682e3f120cbf6a28" label="Commodore: A Company on the Edge 2nd Edition">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0973864966"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Commodore: A Company on the Edge 2nd Edition"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="275796"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Brian Bagnall"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="VARIANT PRESS"/>
+</node>
+<node id="n-71e9e857f2f8f39b825bf467d3775bf3" label="Masters Of Doom: How two guys created an empire and transformed pop culture">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0749924896"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Masters Of Doom: How two guys created an empire and transformed pop culture"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="96734"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David Kushner"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Piatkus"/>
+</node>
+<node id="n-03e2755edaa57fd16968763852567a05" label="Where Wizards Stay Up Late: The Origins of the Internet">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0684832674"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Where Wizards Stay Up Late: The Origins of the Internet"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="291512"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Katie Hafner, Matthew Lyon"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Simon &amp; Schuster"/>
+</node>
+<node id="n-f2bf172071f6c87c20720f355b29bfb6" label="Duke Nukem Forever: Balls of Steel - Collectors&amp;quot; Edition (PC DVD)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="B004NRP1FU"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Duke Nukem Forever: Balls of Steel - Collectors&amp;quot; Edition (PC DVD)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="8118"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="2K Games"/>
+<attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011-06-10"/>
+</node>
+<node id="n-05c087497f4b0b559c8c2b2a1ca07ac0" label="ICO: Castle in the Mist (Haikasoru)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1421540630"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="ICO: Castle in the Mist (Haikasoru)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23592"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Miyuki Miyabe"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="VIZ Media"/>
+</node>
+<node id="n-4ef1782edb9ad93c8d5393fa1dfd762f" label="Writing Space: The Computer, Hypertext and the History of Writing">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0805804285"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Writing Space: The Computer, Hypertext and the History of Writing"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1229735"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="J.David Bolter"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Lawrence Erlbaum Associates Inc"/>
+</node>
+<node id="n-bc91fe0d6eb214353966c3ac97436a37" label="Hypertext: The Convergence of Contemporary Critical Theory and Technology (Parallax: Re-visions of Culture and Society)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801842816"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hypertext: The Convergence of Contemporary Critical Theory and Technology (Parallax: Re-visions of Culture and Society)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="303841"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"/>
+</node>
+<node id="n-370709291ed545b9616dfb3ded893f33" label="A Thousand Plateaus: Capitalism and Schizophrenia (Continuum Impacts No. 21)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0826476945"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Thousand Plateaus: Capitalism and Schizophrenia (Continuum Impacts No. 21)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="17677"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gilles Deleuze, Felix Guattari"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Continuum International Publishing Group Ltd."/>
+</node>
+<node id="n-639c9a9d8e9648e585bb37379320143e" label="Digital Fictions: Storytelling in a Material World (New Directions in Computers &amp; Composition)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1567504833"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digital Fictions: Storytelling in a Material World (New Directions in Computers &amp; Composition)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="2118566"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sarah Sloane"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Ablex Publishing Corporation"/>
+</node>
+<node id="n-d41d8cd98f00b204e9800998ecf8427e" label="">
+</node>
+<node id="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" label="The New Media Reader">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262232278"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The New Media Reader"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="331293"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Noah Wardrip-fruin"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-3c8cf7d145e431e158cab8169244d77b" label="The Language of New Media (Leonardo Book Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262632551"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Language of New Media (Leonardo Book Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="153483"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Lev Manovich"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-cfa1bfbf84f0f5ed9eea8dee5367ae79" label="Simulacra and Simulation (The Body in Theory: Histories of Cultural Materialism)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0472065211"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Simulacra and Simulation (The Body in Theory: Histories of Cultural Materialism)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="22643"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jean Baudrillard"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The University of Michigan Press"/>
+</node>
+<node id="n-1ac5f2c6f475c152c65cc3e45cb60f30" label="The Work of Art in the Age of Mechanical Reproduction (Penguin Great Ideas)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0141036192"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Work of Art in the Age of Mechanical Reproduction (Penguin Great Ideas)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="4951"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Walter Benjamin"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin"/>
+</node>
+<node id="n-f232f3eca1d55d3c504d38f848921b92" label="The Design of Everyday Things">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262640376"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Design of Everyday Things"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="2137"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Donald Norman"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-75a74d788a8484bd0777ce35b5da19bb" label="New Media: A Critical Introduction">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415431611"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="New Media: A Critical Introduction"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="183247"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Martin Lister, Jon Dovey, Seth Giddings, Iain Grant, Kieran Kelly"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"/>
+</node>
+<node id="n-eb9e16d8c9eab682250ae24b644b9f23" label="MTIV Process Inspiration and Practice for the New Media Designer">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0735711658"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="MTIV Process Inspiration and Practice for the New Media Designer"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="489580"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Hillman Curtis"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Peachpit Press"/>
+</node>
+<node id="n-cf9a38de22307b76691f82641558b931" label="Ways of Seeing (Penguin Modern Classics)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="014103579X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Ways of Seeing (Penguin Modern Classics)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1451"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John Berger"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin Classics"/>
+</node>
+<node id="n-e9e8ad769beede35d37f42daf603d078" label="Commodore: The Amiga Years">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0973864990"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Commodore: The Amiga Years"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="29146"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Brian Bagnall"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="VARIANT PRESS"/>
+</node>
+<node id="n-e5493ce8440c90842a319820116d7c3e" label="Speccy Nation: A tribute to the golden age of British gaming">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1479193925"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Speccy Nation: A tribute to the golden age of British gaming"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="9373"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Dan Whitehead"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="CreateSpace Independent Publishing Platform"/>
+</node>
+<node id="n-a8316a7d33d169ec813a387cd965b74d" label="Digital Retro: The Evolution and Design of the Personal Computer">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1904705391"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digital Retro: The Evolution and Design of the Personal Computer"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="159289"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gordon Laing"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="ILEX"/>
+</node>
+<node id="n-61d31bf2fa2735b3ce4ca5e250f94ff8" label="Racing the Beam: The Atari Video Computer System (Platform Studies Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="026201257X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Racing the Beam: The Atari Video Computer System (Platform Studies Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="288840"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nick Montfort, Ian Bogost"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-454250926d85dfe11c92247a5cf79898" label="The Making of Prince of Persia: Journals 1985-1993">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1468093657"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Making of Prince of Persia: Journals 1985-1993"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="131117"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jordan Mechner"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Createspace"/>
+</node>
+<node id="n-e08665002461563efab4a2a26cd8344b" label="Codename Revolution: The Nintendo Wii Platform (Platform Studies Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="026201680X"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Codename Revolution: The Nintendo Wii Platform (Platform Studies Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="911602"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Steven E. Jones, George K Thiruvathukal"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+<node id="n-8acdb77f6b7523de40da5f78b96bbedb" label="Atari Inc.: Business is Fun">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0985597402"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Atari Inc.: Business is Fun"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="25796"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Mr. Curt Vendel, Mr. Marty Goldberg"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Syzygy Press"/>
+</node>
+<node id="n-076cffe624012e919d2209f43931a598" label="The ZX Spectrum ULA: How to Design a Microcomputer">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0956507107"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The ZX Spectrum ULA: How to Design a Microcomputer"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="36632"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Chris Smith"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="ZX Design and Media"/>
+</node>
+<node id="n-f18e604b2474dba7a141a4a8f669acb9" label="My Mother Was a Computer: Digital Subjects and Literary Texts">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226321487"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="My Mother Was a Computer: Digital Subjects and Literary Texts"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="866536"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N Katherine Hayles"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"/>
+</node>
+<node id="n-d5d7ee9a93da04fe8b32ad9644c917fd" label="Convergence Culture: Where Old and New Media Collide">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0814742955"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Convergence Culture: Where Old and New Media Collide"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="42758"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Henry Jenkins"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="New York University Press"/>
+</node>
+<node id="n-da222420ab884bf0ed057fa32c25e600" label="Digital Poetics: The Making of E-poetries (Modern &amp; Contemporary Poetics)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0817310754"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digital Poetics: The Making of E-poetries (Modern &amp; Contemporary Poetics)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1282387"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Loss Pequeno Glazier"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The University of Alabama Press"/>
+</node>
+<node id="n-9fdfb1264fdb3ab74cfd52c35965777f" label="New Media Poetics (Leonardo Book Series)">
+<attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262513382"/>
+<attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="New Media Poetics (Leonardo Book Series)"/>
+<attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="781964"/>
+<attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Adalaide Morris, Thomas Swiss"/>
+<attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"/>
+</node>
+</nodes>
+
+				<edges>
+<edge id="e-n-4ccd7a6deb0f2c7507a7f48119f42b8cn-96e32b404fed7748696ccd8d721068ff" source="n-4ccd7a6deb0f2c7507a7f48119f42b8c" target="n-96e32b404fed7748696ccd8d721068ff" weight="3">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-4ccd7a6deb0f2c7507a7f48119f42b8c" source="n-4ccd7a6deb0f2c7507a7f48119f42b8c" target="n-4c423e625bf6a63e14fb10d256957216" weight="2">
+</edge>
+<edge id="e-n-96e32b404fed7748696ccd8d721068ffn-b3182ad279a53a4ad4fc5c1b44b47838" source="n-96e32b404fed7748696ccd8d721068ff" target="n-b3182ad279a53a4ad4fc5c1b44b47838" weight="1">
+</edge>
+<edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-c9834eb323f16ae3237b0551dfb23808" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-8e110c10f53ebfc0a08100e38421649cn-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-8e110c10f53ebfc0a08100e38421649c" weight="1">
+</edge>
+<edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-824857fef57c56987ea62f89a5dc86d8" weight="1">
+</edge>
+<edge id="e-n-4a4725026639e5b052dda63aa73e243cn-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-4a4725026639e5b052dda63aa73e243c" weight="1">
+</edge>
+<edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-ef14d5cb52a89ac38a6e4f0b21839d08" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-ef14d5cb52a89ac38a6e4f0b21839d08" weight="1">
+</edge>
+<edge id="e-n-9f7fb68b474da60d1b3111cea989f455n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-9f7fb68b474da60d1b3111cea989f455" weight="1">
+</edge>
+<edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-b83ecdd7a1728e72ec04685f7e925ac0" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-b83ecdd7a1728e72ec04685f7e925ac0" weight="1">
+</edge>
+<edge id="e-n-06892daf4c61281feb4b4151d9e1d5aan-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-06892daf4c61281feb4b4151d9e1d5aa" weight="1">
+</edge>
+<edge id="e-n-069c2fe8ee3ea9cc5c467e7300febb3en-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-069c2fe8ee3ea9cc5c467e7300febb3e" weight="1">
+</edge>
+<edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-bb534f0d741ab7e6809cc9db989faa3b" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-bb534f0d741ab7e6809cc9db989faa3b" weight="1">
+</edge>
+<edge id="e-n-72408d3e28988bf9033ff213e200f9d6n-96e32b404fed7748696ccd8d721068ff" source="n-96e32b404fed7748696ccd8d721068ff" target="n-72408d3e28988bf9033ff213e200f9d6" weight="2">
+</edge>
+<edge id="e-n-72408d3e28988bf9033ff213e200f9d6n-a148a755da77475ba256568d158b7f9e" source="n-72408d3e28988bf9033ff213e200f9d6" target="n-a148a755da77475ba256568d158b7f9e" weight="1">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-4c423e625bf6a63e14fb10d256957216" source="n-4c423e625bf6a63e14fb10d256957216" target="n-3c8cade61b772fc9a6b3dcff4ec43371" weight="2">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-785165195b17ec14fe1f4719e9e96038" source="n-3c8cade61b772fc9a6b3dcff4ec43371" target="n-785165195b17ec14fe1f4719e9e96038" weight="1">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-72df17bda9c0f8a2809c7aaaade807fe" source="n-3c8cade61b772fc9a6b3dcff4ec43371" target="n-72df17bda9c0f8a2809c7aaaade807fe" weight="1">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-a9d59d54033eca0903bd2b07407dfb26" source="n-3c8cade61b772fc9a6b3dcff4ec43371" target="n-a9d59d54033eca0903bd2b07407dfb26" weight="1">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-412233b0b1e6cb996faf7b413b935e0c" source="n-3c8cade61b772fc9a6b3dcff4ec43371" target="n-412233b0b1e6cb996faf7b413b935e0c" weight="1">
+</edge>
+<edge id="e-n-3c8cade61b772fc9a6b3dcff4ec43371n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-3c8cade61b772fc9a6b3dcff4ec43371" target="n-ce2a7937e96bde1fd996a853a2d8cbee" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-5ca332f6115c096d86b3b79328117b3a" source="n-4c423e625bf6a63e14fb10d256957216" target="n-5ca332f6115c096d86b3b79328117b3a" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-d2e5bbdaaad11326678fe27e41e294bd" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-d2e5bbdaaad11326678fe27e41e294bd" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-91e52fbd92962bc8ee42cf9b6d380daf" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-91e52fbd92962bc8ee42cf9b6d380daf" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-cbdafa44d7a916b0e7a328b05625c9c5" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-cbdafa44d7a916b0e7a328b05625c9c5" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-5ca332f6115c096d86b3b79328117b3a" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-4a548b8eff5cdcafd2133f78d2b0686e" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-c9834eb323f16ae3237b0551dfb23808" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-b791ddd166612cd31be2bdd5e030116a" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-b791ddd166612cd31be2bdd5e030116a" weight="2">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-6afe31dbf0d79dbbbaab7f9851fd8c0c" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-6afe31dbf0d79dbbbaab7f9851fd8c0c" weight="1">
+</edge>
+<edge id="e-n-4d95587b428728da6edd6f3280727855n-5ca332f6115c096d86b3b79328117b3a" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-4d95587b428728da6edd6f3280727855" weight="1">
+</edge>
+<edge id="e-n-5ca332f6115c096d86b3b79328117b3an-9833cb9318094344f405e076a89b5992" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-9833cb9318094344f405e076a89b5992" weight="2">
+</edge>
+<edge id="e-n-0bd6c893b56fbfa639906f2afad48278n-5ca332f6115c096d86b3b79328117b3a" source="n-5ca332f6115c096d86b3b79328117b3a" target="n-0bd6c893b56fbfa639906f2afad48278" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-4c423e625bf6a63e14fb10d256957216" source="n-4c423e625bf6a63e14fb10d256957216" target="n-36d7507c785f36873199459754b113af" weight="2">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-aea7b644ddb2b4cf4112245e035060da" source="n-36d7507c785f36873199459754b113af" target="n-aea7b644ddb2b4cf4112245e035060da" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-9833cb9318094344f405e076a89b5992" source="n-36d7507c785f36873199459754b113af" target="n-9833cb9318094344f405e076a89b5992" weight="2">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-37a0285e05001142af959ba673e4f48e" source="n-36d7507c785f36873199459754b113af" target="n-37a0285e05001142af959ba673e4f48e" weight="1">
+</edge>
+<edge id="e-n-2042e69532fa535e4e63c2daae8718c0n-36d7507c785f36873199459754b113af" source="n-36d7507c785f36873199459754b113af" target="n-2042e69532fa535e4e63c2daae8718c0" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-82d4c89bf7c1cbc543c5d9cf51a71de3" source="n-36d7507c785f36873199459754b113af" target="n-82d4c89bf7c1cbc543c5d9cf51a71de3" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-c9834eb323f16ae3237b0551dfb23808" source="n-36d7507c785f36873199459754b113af" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-8e110c10f53ebfc0a08100e38421649c" source="n-36d7507c785f36873199459754b113af" target="n-8e110c10f53ebfc0a08100e38421649c" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-5ca332f6115c096d86b3b79328117b3a" source="n-36d7507c785f36873199459754b113af" target="n-5ca332f6115c096d86b3b79328117b3a" weight="1">
+</edge>
+<edge id="e-n-36d7507c785f36873199459754b113afn-ebc8aaf7f28525e79bece45f529abef3" source="n-36d7507c785f36873199459754b113af" target="n-ebc8aaf7f28525e79bece45f529abef3" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-4c423e625bf6a63e14fb10d256957216" source="n-4c423e625bf6a63e14fb10d256957216" target="n-4a548b8eff5cdcafd2133f78d2b0686e" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-ce6740c68e989ab3d4b73fe394c97501" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-ce6740c68e989ab3d4b73fe394c97501" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-77b9c26e7302a1bd16b2d4b9db19fe8d" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-77b9c26e7302a1bd16b2d4b9db19fe8d" weight="1">
+</edge>
+<edge id="e-n-159f78f9934754146d2ae9bddaa908b3n-4a548b8eff5cdcafd2133f78d2b0686e" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-159f78f9934754146d2ae9bddaa908b3" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-b9946014b0bd135cb376d5ff7e40d957" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-b9946014b0bd135cb376d5ff7e40d957" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-cbdafa44d7a916b0e7a328b05625c9c5" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-cbdafa44d7a916b0e7a328b05625c9c5" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-dc1811a8487922bac04b62bd6b364ece" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-dc1811a8487922bac04b62bd6b364ece" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-c924a045a1b67570253da3d985ebab03" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-c924a045a1b67570253da3d985ebab03" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-9b9a036a84ab82a3a274ecc4f07d61d4" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-9b9a036a84ab82a3a274ecc4f07d61d4" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-ddd7048b50f3082a27de83471f87bf44" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-ddd7048b50f3082a27de83471f87bf44" weight="1">
+</edge>
+<edge id="e-n-4a548b8eff5cdcafd2133f78d2b0686en-74a539ec2ceb1015f7bffd1612c37991" source="n-4a548b8eff5cdcafd2133f78d2b0686e" target="n-74a539ec2ceb1015f7bffd1612c37991" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-b283b4870a23ef232fdda71080fe59be" source="n-4c423e625bf6a63e14fb10d256957216" target="n-b283b4870a23ef232fdda71080fe59be" weight="2">
+</edge>
+<edge id="e-n-1a1a7151d039754936739b30c41b10dfn-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-1a1a7151d039754936739b30c41b10df" weight="1">
+</edge>
+<edge id="e-n-ab6a08d42b9c58d94c8ec04fdfda99den-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-ab6a08d42b9c58d94c8ec04fdfda99de" weight="1">
+</edge>
+<edge id="e-n-b283b4870a23ef232fdda71080fe59ben-b75bfc99bd316b070194d07b6be19d3e" source="n-b283b4870a23ef232fdda71080fe59be" target="n-b75bfc99bd316b070194d07b6be19d3e" weight="1">
+</edge>
+<edge id="e-n-2c0f9ae971e93e93386245d97031e7f9n-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-2c0f9ae971e93e93386245d97031e7f9" weight="1">
+</edge>
+<edge id="e-n-a63cd28ec41d1305682e3f120cbf6a28n-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-a63cd28ec41d1305682e3f120cbf6a28" weight="1">
+</edge>
+<edge id="e-n-71e9e857f2f8f39b825bf467d3775bf3n-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-71e9e857f2f8f39b825bf467d3775bf3" weight="1">
+</edge>
+<edge id="e-n-03e2755edaa57fd16968763852567a05n-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-03e2755edaa57fd16968763852567a05" weight="1">
+</edge>
+<edge id="e-n-b283b4870a23ef232fdda71080fe59ben-f2bf172071f6c87c20720f355b29bfb6" source="n-b283b4870a23ef232fdda71080fe59be" target="n-f2bf172071f6c87c20720f355b29bfb6" weight="1">
+</edge>
+<edge id="e-n-05c087497f4b0b559c8c2b2a1ca07ac0n-b283b4870a23ef232fdda71080fe59be" source="n-b283b4870a23ef232fdda71080fe59be" target="n-05c087497f4b0b559c8c2b2a1ca07ac0" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-9833cb9318094344f405e076a89b5992" source="n-4c423e625bf6a63e14fb10d256957216" target="n-9833cb9318094344f405e076a89b5992" weight="2">
+</edge>
+<edge id="e-n-4ef1782edb9ad93c8d5393fa1dfd762fn-9833cb9318094344f405e076a89b5992" source="n-9833cb9318094344f405e076a89b5992" target="n-4ef1782edb9ad93c8d5393fa1dfd762f" weight="1">
+</edge>
+<edge id="e-n-9833cb9318094344f405e076a89b5992n-c9834eb323f16ae3237b0551dfb23808" source="n-9833cb9318094344f405e076a89b5992" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-9833cb9318094344f405e076a89b5992n-b791ddd166612cd31be2bdd5e030116a" source="n-9833cb9318094344f405e076a89b5992" target="n-b791ddd166612cd31be2bdd5e030116a" weight="1">
+</edge>
+<edge id="e-n-9833cb9318094344f405e076a89b5992n-bc91fe0d6eb214353966c3ac97436a37" source="n-9833cb9318094344f405e076a89b5992" target="n-bc91fe0d6eb214353966c3ac97436a37" weight="1">
+</edge>
+<edge id="e-n-370709291ed545b9616dfb3ded893f33n-9833cb9318094344f405e076a89b5992" source="n-9833cb9318094344f405e076a89b5992" target="n-370709291ed545b9616dfb3ded893f33" weight="1">
+</edge>
+<edge id="e-n-9833cb9318094344f405e076a89b5992n-9f7fb68b474da60d1b3111cea989f455" source="n-9833cb9318094344f405e076a89b5992" target="n-9f7fb68b474da60d1b3111cea989f455" weight="1">
+</edge>
+<edge id="e-n-9833cb9318094344f405e076a89b5992n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-9833cb9318094344f405e076a89b5992" target="n-b3182ad279a53a4ad4fc5c1b44b47838" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-639c9a9d8e9648e585bb37379320143e" source="n-4c423e625bf6a63e14fb10d256957216" target="n-639c9a9d8e9648e585bb37379320143e" weight="1">
+</edge>
+<edge id="e-n-639c9a9d8e9648e585bb37379320143en-d41d8cd98f00b204e9800998ecf8427e" source="n-639c9a9d8e9648e585bb37379320143e" target="n-d41d8cd98f00b204e9800998ecf8427e" weight="5">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-4c423e625bf6a63e14fb10d256957216" target="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" weight="1">
+</edge>
+<edge id="e-n-0bd6c893b56fbfa639906f2afad48278n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-0bd6c893b56fbfa639906f2afad48278" weight="1">
+</edge>
+<edge id="e-n-3c8cf7d145e431e158cab8169244d77bn-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-3c8cf7d145e431e158cab8169244d77b" weight="1">
+</edge>
+<edge id="e-n-069c2fe8ee3ea9cc5c467e7300febb3en-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-069c2fe8ee3ea9cc5c467e7300febb3e" weight="1">
+</edge>
+<edge id="e-n-cfa1bfbf84f0f5ed9eea8dee5367ae79n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-cfa1bfbf84f0f5ed9eea8dee5367ae79" weight="1">
+</edge>
+<edge id="e-n-1ac5f2c6f475c152c65cc3e45cb60f30n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-1ac5f2c6f475c152c65cc3e45cb60f30" weight="1">
+</edge>
+<edge id="e-n-f232f3eca1d55d3c504d38f848921b92n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-f232f3eca1d55d3c504d38f848921b92" weight="1">
+</edge>
+<edge id="e-n-8e110c10f53ebfc0a08100e38421649cn-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-8e110c10f53ebfc0a08100e38421649c" weight="1">
+</edge>
+<edge id="e-n-75a74d788a8484bd0777ce35b5da19bbn-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-75a74d788a8484bd0777ce35b5da19bb" weight="1">
+</edge>
+<edge id="e-n-eb9e16d8c9eab682250ae24b644b9f23n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-eb9e16d8c9eab682250ae24b644b9f23" weight="1">
+</edge>
+<edge id="e-n-cf9a38de22307b76691f82641558b931n-fc43acb5eb71bcbb5b38cf2bbe1bff14" source="n-fc43acb5eb71bcbb5b38cf2bbe1bff14" target="n-cf9a38de22307b76691f82641558b931" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-4c423e625bf6a63e14fb10d256957216" target="n-ce2a7937e96bde1fd996a853a2d8cbee" weight="1">
+</edge>
+<edge id="e-n-ce2a7937e96bde1fd996a853a2d8cbeen-e9e8ad769beede35d37f42daf603d078" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-e9e8ad769beede35d37f42daf603d078" weight="1">
+</edge>
+<edge id="e-n-a63cd28ec41d1305682e3f120cbf6a28n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-a63cd28ec41d1305682e3f120cbf6a28" weight="1">
+</edge>
+<edge id="e-n-ce2a7937e96bde1fd996a853a2d8cbeen-e5493ce8440c90842a319820116d7c3e" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-e5493ce8440c90842a319820116d7c3e" weight="1">
+</edge>
+<edge id="e-n-a8316a7d33d169ec813a387cd965b74dn-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-a8316a7d33d169ec813a387cd965b74d" weight="1">
+</edge>
+<edge id="e-n-61d31bf2fa2735b3ce4ca5e250f94ff8n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-61d31bf2fa2735b3ce4ca5e250f94ff8" weight="1">
+</edge>
+<edge id="e-n-454250926d85dfe11c92247a5cf79898n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-454250926d85dfe11c92247a5cf79898" weight="1">
+</edge>
+<edge id="e-n-ce2a7937e96bde1fd996a853a2d8cbeen-e08665002461563efab4a2a26cd8344b" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-e08665002461563efab4a2a26cd8344b" weight="1">
+</edge>
+<edge id="e-n-8acdb77f6b7523de40da5f78b96bbedbn-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-8acdb77f6b7523de40da5f78b96bbedb" weight="1">
+</edge>
+<edge id="e-n-076cffe624012e919d2209f43931a598n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-076cffe624012e919d2209f43931a598" weight="1">
+</edge>
+<edge id="e-n-71e9e857f2f8f39b825bf467d3775bf3n-ce2a7937e96bde1fd996a853a2d8cbee" source="n-ce2a7937e96bde1fd996a853a2d8cbee" target="n-71e9e857f2f8f39b825bf467d3775bf3" weight="1">
+</edge>
+<edge id="e-n-4c423e625bf6a63e14fb10d256957216n-b791ddd166612cd31be2bdd5e030116a" source="n-4c423e625bf6a63e14fb10d256957216" target="n-b791ddd166612cd31be2bdd5e030116a" weight="2">
+</edge>
+<edge id="e-n-b791ddd166612cd31be2bdd5e030116an-c9834eb323f16ae3237b0551dfb23808" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-c9834eb323f16ae3237b0551dfb23808" weight="1">
+</edge>
+<edge id="e-n-8e110c10f53ebfc0a08100e38421649cn-b791ddd166612cd31be2bdd5e030116a" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-8e110c10f53ebfc0a08100e38421649c" weight="1">
+</edge>
+<edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-b791ddd166612cd31be2bdd5e030116a" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-b3182ad279a53a4ad4fc5c1b44b47838" weight="1">
+</edge>
+<edge id="e-n-b791ddd166612cd31be2bdd5e030116an-f18e604b2474dba7a141a4a8f669acb9" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-f18e604b2474dba7a141a4a8f669acb9" weight="1">
+</edge>
+<edge id="e-n-b791ddd166612cd31be2bdd5e030116an-d5d7ee9a93da04fe8b32ad9644c917fd" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-d5d7ee9a93da04fe8b32ad9644c917fd" weight="1">
+</edge>
+<edge id="e-n-0bd6c893b56fbfa639906f2afad48278n-b791ddd166612cd31be2bdd5e030116a" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-0bd6c893b56fbfa639906f2afad48278" weight="1">
+</edge>
+<edge id="e-n-b791ddd166612cd31be2bdd5e030116an-da222420ab884bf0ed057fa32c25e600" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-da222420ab884bf0ed057fa32c25e600" weight="1">
+</edge>
+<edge id="e-n-9fdfb1264fdb3ab74cfd52c35965777fn-b791ddd166612cd31be2bdd5e030116a" source="n-b791ddd166612cd31be2bdd5e030116a" target="n-9fdfb1264fdb3ab74cfd52c35965777f" weight="1">
+</edge>
+</edges>
+
+			</graph>
+		</gexf>
