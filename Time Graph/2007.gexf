@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-ff70ca8d68fafd6cf90912c30f7d22be" label="Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0199256055"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reassembling the Social: An Introduction to Actor-Network-Theory (Clarendon Lectures in Management Studies)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="15217"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Bruno Latour"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="OUP Oxford"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2007"></attvalue>
+        </attvalues>
+        <viz:size value="26.0052"></viz:size>
+        <viz:position x="-3325.479" y="562.17834" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="137"></viz:color>
+      </node>
+      <node id="n-6b36d96e95cf935cfea1f45ff488c782" label="Graphs, Maps, Trees: Abstract Models for a Literary History">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1844671852"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Graphs, Maps, Trees: Abstract Models for a Literary History"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="163324"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Franco Moretti"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Verso"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2007"></attvalue>
+        </attvalues>
+        <viz:size value="37.007797"></viz:size>
+        <viz:position x="-2708.7751" y="-1568.7648" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="137"></viz:color>
+      </node>
+      <node id="n-941f1aa919727d7e6a73fef393ff839a" label="A Brief History of Neoliberalism">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0199283273"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Brief History of Neoliberalism"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="9314"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David Harvey"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="OUP Oxford"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2007"></attvalue>
+        </attvalues>
+        <viz:size value="20.503899"></viz:size>
+        <viz:position x="-1702.5186" y="-3029.668" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="137"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-6f9133b6361cce297f54aadc436dd8a6" label="Merchants of Culture">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745647863"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Merchants of Culture"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="356565"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John B. Thompson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="6.1428576"></viz:size>
+        <viz:position x="-119.68038" y="270.6125" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-1c107b48a22d7c879d3d0d973662ea68" label="Towards Speculative Realism: Essays and Lectures">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846943949"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Towards Speculative Realism: Essays and Lectures"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="128391"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Graham Harman"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="6.785714"></viz:size>
+        <viz:position x="-304.42892" y="-123.35036" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-631729a006c499ef3be2997431989aeb" label="Vibrant Matter: A Political Ecology of Things (John Hope Franklin Center Books)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0822346338"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Vibrant Matter: A Political Ecology of Things (John Hope Franklin Center Books)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="39050"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jane Bennett"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Duke University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="-326.81958" y="-34.67486" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-249a5f4f79f8e761bb146139d6384748" label="Personal Connections in the Digital Age (DMS - Digital Media and Society)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745643329"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Personal Connections in the Digital Age (DMS - Digital Media and Society)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="101997"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nancy Baym"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="311.37558" y="-145.44948" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-2be66c385dcec925244f426e7c87be0f" label="Blog Theory: Feedback and Capture in the Circuits of Drive">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="074564970X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Blog Theory: Feedback and Capture in the Circuits of Drive"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="481036"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jodi Dean"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="300.68933" y="-69.15026" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-051466c5effe1251ea867e57126cef80" label="Boris Groys: Going Public (E-Flux Journal)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1934105309"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Boris Groys: Going Public (E-Flux Journal)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="352180"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Boris Groys"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Sternberg Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="135.64017" y="-386.06787" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-b6ccd39525df37bd2e21155fc9f56b9d" label="Publishing for Profit: Successful Bottom-Line Management for Book Publishers">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="155652997X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Publishing for Profit: Successful Bottom-Line Management for Book Publishers"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="404728"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Thomas Woll, Dominique Raccah"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Chicago Review Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="-93.04555" y="385.515" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-c74c6bea3d70cb3b27f305ecbbd2a822" label="Persuasive Games: The Expressive Power of Videogames">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262514885"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Persuasive Games: The Expressive Power of Videogames"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="124269"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ian Bogost"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="46.049557" y="-296.73773" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-ab6a08d42b9c58d94c8ec04fdfda99de" label="Replay: the History of Video Games">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0956507204"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Replay: the History of Video Games"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="165872"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Tristan Donovan"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Yellow Ant"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="161.82535" y="-355.3166" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-be11f0f6124f6f720fe535a950de393c" label="A Networked Self: Identity, Community, and Culture on Social Network Sites">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415801818"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Networked Self: Identity, Community, and Culture on Social Network Sites"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="173438"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="466.78925" y="74.63005" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-38d3416d0f85deca3212b7dec38b02c5" label="Information: A Very Short Introduction (Very Short Introductions)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0199551375"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Information: A Very Short Introduction (Very Short Introductions)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="96836"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Luciano Floridi"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="OUP Oxford"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="327.05606" y="230.15329" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+      <node id="n-1f93eeb46b9214d0ca1ab7bf19f7a27e" label="Post Cinematic Affect">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846944317"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Post Cinematic Affect"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="235982"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Steven Shaviro"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2010"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="-167.95746" y="-268.50156" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="229"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e-n-6f9133b6361cce297f54aadc436dd8a6n-b6ccd39525df37bd2e21155fc9f56b9d" source="n-6f9133b6361cce297f54aadc436dd8a6" target="n-b6ccd39525df37bd2e21155fc9f56b9d">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-1c107b48a22d7c879d3d0d973662ea68n-631729a006c499ef3be2997431989aeb" source="n-1c107b48a22d7c879d3d0d973662ea68" target="n-631729a006c499ef3be2997431989aeb" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-249a5f4f79f8e761bb146139d6384748n-be11f0f6124f6f720fe535a950de393c" source="n-249a5f4f79f8e761bb146139d6384748" target="n-be11f0f6124f6f720fe535a950de393c">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-1c107b48a22d7c879d3d0d973662ea68n-1f93eeb46b9214d0ca1ab7bf19f7a27e" source="n-1f93eeb46b9214d0ca1ab7bf19f7a27e" target="n-1c107b48a22d7c879d3d0d973662ea68">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

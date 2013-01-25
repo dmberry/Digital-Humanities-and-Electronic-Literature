@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-144c53ad86bddc4976b96dab3af545c0" label="Books in the Digital Age: The Transformation of Academic and Higher Education Publishing in Britain and the United States">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745634788"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Books in the Digital Age: The Transformation of Academic and Higher Education Publishing in Britain and the United States"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="445745"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John B. Thompson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2005"></attvalue>
+        </attvalues>
+        <viz:size value="53.511696"></viz:size>
+        <viz:position x="-1514.1278" y="2622.0369" z="0.0"></viz:position>
+        <viz:color r="156" g="247" b="64"></viz:color>
+      </node>
+      <node id="n-212a30c556e316b4e05805c7f60b5253" label="Understanding Media (Routledge Classics)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415253977"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Understanding Media (Routledge Classics)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="155422"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Marshall McLuhan"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2005"></attvalue>
+        </attvalues>
+        <viz:size value="37.007797"></viz:size>
+        <viz:position x="1165.0885" y="1983.5247" z="0.0"></viz:position>
+        <viz:color r="156" g="247" b="64"></viz:color>
+      </node>
+      <node id="n-d3c8c49c6e121caff1ecc291f55e2402" label="A History of British Publishing">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415302269"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A History of British Publishing"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="262743"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John Feather"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2005"></attvalue>
+        </attvalues>
+        <viz:size value="31.506498"></viz:size>
+        <viz:position x="-2301.2822" y="2499.9294" z="0.0"></viz:position>
+        <viz:color r="156" g="247" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e-n-144c53ad86bddc4976b96dab3af545c0n-d3c8c49c6e121caff1ecc291f55e2402" source="n-d3c8c49c6e121caff1ecc291f55e2402" target="n-144c53ad86bddc4976b96dab3af545c0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

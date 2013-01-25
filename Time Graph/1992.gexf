@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-622a23288ca4067f97a5d7f65c470b51" label="A Critique of Modern Textual Criticism">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0813914183"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Critique of Modern Textual Criticism"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="641518"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jerome J. McGann"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Virginia Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="1992"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="3331.472" y="1858.679" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

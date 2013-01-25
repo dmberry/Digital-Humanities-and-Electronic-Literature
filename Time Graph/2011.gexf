@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-cbdafa44d7a916b0e7a328b05625c9c5" label="Reality is Broken: Why Games Make Us Better and How They Can Change the World">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0224089250"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Reality is Broken: Why Games Make Us Better and How They Can Change the World"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="106517"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jane McGonigal"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Jonathan Cape"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.214286"></viz:size>
+        <viz:position x="162.29843" y="-282.90894" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-f8a62275c70d02d83d4bbfecb0aab8e4" label="The Late Age of Print: Everyday Book Culture from Consumerism to Control">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0231148151"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Late Age of Print: Everyday Book Culture from Consumerism to Control"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="723260"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ted Striphas"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Columbia University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="6.1428576"></viz:size>
+        <viz:position x="-81.51788" y="201.99777" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-93702020f00c3e60474e31a211d6afa6" label="Publishing: Principles and Practice">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1847870155"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Publishing: Principles and Practice"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="285959"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Richard Guthrie"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="SAGE Publications Ltd"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="-58.655487" y="333.23953" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-7c141572c9fad8b56945e69509317c21" label="The Professionals&amp;quot; Guide to Publishing: A Practical Introduction to Working in the Publishing Industry">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0749455411"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Professionals&amp;quot; Guide to Publishing: A Practical Introduction to Working in the Publishing Industry"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="427510"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Gill Davies, Richard Balkwill"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Kogan Page"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="2.9398131" y="348.8731" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-14a96bb52a34b7fc3db046519b03db63" label="Bubbles: Spheres I - Microspherology: Spheres Volume I: Microspherology: 1 (Semiotext(e) / Foreign Agents)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1584351047"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Bubbles: Spheres I - Microspherology: Spheres Volume I: Microspherology: 1 (Semiotext(e) / Foreign Agents)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="160382"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Peter Sloterdijk, Wieland Hoban"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.9285715"></viz:size>
+        <viz:position x="-321.1247" y="22.075783" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-5eb86583b0e860a05bf898fe83f20a28" label="Uncreative Writing: Managing Language in the Digital Age">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0231149913"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Uncreative Writing: Managing Language in the Digital Age"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="162932"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Kenneth Goldsmith"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Columbia University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-599.77527" y="-20.603537" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-732a884646056b91f40b2508d2625292" label="Alone Together">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0465010210"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Alone Together"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="35279"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sherry Turkle"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Basic Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="8.071428"></viz:size>
+        <viz:position x="299.1903" y="-109.90357" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-62a6ffc7e686a9c827ff1869beae8551" label="The Prince and the Wolf: Latour and Harman at the LSE">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846944228"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Prince and the Wolf: Latour and Harman at the LSE"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="187188"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Bruno Latour, Graham Harman, Peter Erdelyi"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="-229.51988" y="-47.699543" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-a59973966d0a0f51e8f314eb396e2ba2" label="Semblance and Event: Activist Philosophy and the Occurrent Arts (Technologies of Lived Abstraction) (Technologies of Lived Abstraction Series)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262134918"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Semblance and Event: Activist Philosophy and the Occurrent Arts (Technologies of Lived Abstraction) (Technologies of Lived Abstraction Series)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="54693"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Brian Massumi"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="-235.7237" y="-6.3020005" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-1274b6f44c7b86678d9e1dd6762215ef" label="The Information">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="000742311X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Information"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="381181"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="James Gleick"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Fourth Estate"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="307.18875" y="264.31268" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-3b9f807342b596c6d0539735f8c63c9d" label="Understanding Social Networks: Theories, Concepts, and Findings">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0195379470"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Understanding Social Networks: Theories, Concepts, and Findings"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="85915"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Charles Kadushin"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="OUP USA"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="312.77426" y="88.37015" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-6a6516d7acedf463d1ddcc48eeb927d6" label="Media Archaeology: Approaches, Applications, and Implications">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0520262743"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Media Archaeology: Approaches, Applications, and Implications"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="485611"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Erkki Huhtamo, Jussi Parikka"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of California Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="90.995056" y="-126.872604" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-6a2c05c5c05bef57b0f2e1450b41d11a" label="The Public Value of the Humanities (Wish List) (The Wish List)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="184966062X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Public Value of the Humanities (Wish List) (The Wish List)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="577196"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Bloomsbury Academic"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-327.06442" y="89.79376" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-59a1a586f2629258a35fc0c101152443" label="The Quadruple Object">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846947006"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Quadruple Object"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="152715"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Graham Harman"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="-228.76247" y="-104.00414" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-b2db6de1e3f4b90de5488a6de0e5d352" label="The Speculative Turn: Continental Materialism and Realism">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0980668344"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Speculative Turn: Continental Materialism and Realism"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="100537"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Levi Bryant, Nick Srnicek, Graham Harman"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="re.press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.214286"></viz:size>
+        <viz:position x="-270.6364" y="-62.913055" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-e0224475f6ebe76041f45575d29bccca" label="How to Do Things with Videogames (Electronic Mediations)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="081667647X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How to Do Things with Videogames (Electronic Mediations)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="55074"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ian Bogost"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.214286"></viz:size>
+        <viz:position x="-87.52774" y="-254.95792" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-caf77575b51eee9cbaff9cf680ff57ab" label="The Shallows: How the Internet is Changing the Way We Think, Read and Remember">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1848872275"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Shallows: How the Internet is Changing the Way We Think, Read and Remember"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="6373"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nicholas Carr"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Atlantic Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.214286"></viz:size>
+        <viz:position x="345.17493" y="-268.73328" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-82d4c89bf7c1cbc543c5d9cf51a71de3" label="You Are Not A Gadget: A Manifesto">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0141049111"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="You Are Not A Gadget: A Manifesto"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="19849"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jaron Lanier"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="281.2333" y="-226.87679" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-bead10f9ad5c159d1c9b54eeae8fa90c" label="The Net Delusion: How Not to Liberate The World">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="014104957X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Net Delusion: How Not to Liberate The World"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="56511"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Evgeny Morozov"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="362.85358" y="-245.79195" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-5c90a19468005dc7baad68370f7c084a" label="Gilles Deleuze&amp;quot;s Philosophy of Time: A Critical Introduction and Guide">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0748638547"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Gilles Deleuze&amp;quot;s Philosophy of Time: A Critical Introduction and Guide"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="523196"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="James Williams"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Edinburgh University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.9285715"></viz:size>
+        <viz:position x="84.0197" y="-341.341" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-a687c3d926f30b6096a2ea2edf0cbac7" label="Non Stop Inertia">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846945305"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Non Stop Inertia"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="226917"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ivor Southwood"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.9285715"></viz:size>
+        <viz:position x="-88.94406" y="-384.13406" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-a42b3b45284e0aa7491c18587d1821fc" label="A Glossary of Literary Terms">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="049590659X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Glossary of Literary Terms"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="57625"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Geoffrey Galt Harpham, M.H. Abrams"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Heinle"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-386.34305" y="173.53014" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+      <node id="n-50d645bb76da523c1a0c1a232b3dfc64" label="The Enigma of Capital: And the Crises of Capitalism">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846683092"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Enigma of Capital: And the Crises of Capitalism"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23514"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David Harvey"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Profile Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2011"></attvalue>
+        </attvalues>
+        <viz:size value="2.9285715"></viz:size>
+        <viz:position x="-213.59119" y="-313.2755" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e-n-7c141572c9fad8b56945e69509317c21n-93702020f00c3e60474e31a211d6afa6" source="n-93702020f00c3e60474e31a211d6afa6" target="n-7c141572c9fad8b56945e69509317c21" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-14a96bb52a34b7fc3db046519b03db63n-a59973966d0a0f51e8f314eb396e2ba2" source="n-14a96bb52a34b7fc3db046519b03db63" target="n-a59973966d0a0f51e8f314eb396e2ba2" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-732a884646056b91f40b2508d2625292n-caf77575b51eee9cbaff9cf680ff57ab" source="n-732a884646056b91f40b2508d2625292" target="n-caf77575b51eee9cbaff9cf680ff57ab">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-732a884646056b91f40b2508d2625292n-82d4c89bf7c1cbc543c5d9cf51a71de3" source="n-732a884646056b91f40b2508d2625292" target="n-82d4c89bf7c1cbc543c5d9cf51a71de3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-732a884646056b91f40b2508d2625292n-bead10f9ad5c159d1c9b54eeae8fa90c" source="n-732a884646056b91f40b2508d2625292" target="n-bead10f9ad5c159d1c9b54eeae8fa90c">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-62a6ffc7e686a9c827ff1869beae8551n-b2db6de1e3f4b90de5488a6de0e5d352" source="n-62a6ffc7e686a9c827ff1869beae8551" target="n-b2db6de1e3f4b90de5488a6de0e5d352" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-6a6516d7acedf463d1ddcc48eeb927d6n-a59973966d0a0f51e8f314eb396e2ba2" source="n-6a6516d7acedf463d1ddcc48eeb927d6" target="n-a59973966d0a0f51e8f314eb396e2ba2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-59a1a586f2629258a35fc0c101152443n-62a6ffc7e686a9c827ff1869beae8551" source="n-59a1a586f2629258a35fc0c101152443" target="n-62a6ffc7e686a9c827ff1869beae8551" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-59a1a586f2629258a35fc0c101152443n-b2db6de1e3f4b90de5488a6de0e5d352" source="n-59a1a586f2629258a35fc0c101152443" target="n-b2db6de1e3f4b90de5488a6de0e5d352" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-cbdafa44d7a916b0e7a328b05625c9c5n-e0224475f6ebe76041f45575d29bccca" source="n-e0224475f6ebe76041f45575d29bccca" target="n-cbdafa44d7a916b0e7a328b05625c9c5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-82d4c89bf7c1cbc543c5d9cf51a71de3n-caf77575b51eee9cbaff9cf680ff57ab" source="n-caf77575b51eee9cbaff9cf680ff57ab" target="n-82d4c89bf7c1cbc543c5d9cf51a71de3" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-bead10f9ad5c159d1c9b54eeae8fa90cn-caf77575b51eee9cbaff9cf680ff57ab" source="n-caf77575b51eee9cbaff9cf680ff57ab" target="n-bead10f9ad5c159d1c9b54eeae8fa90c" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-82d4c89bf7c1cbc543c5d9cf51a71de3n-bead10f9ad5c159d1c9b54eeae8fa90c" source="n-82d4c89bf7c1cbc543c5d9cf51a71de3" target="n-bead10f9ad5c159d1c9b54eeae8fa90c" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

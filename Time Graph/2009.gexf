@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-31a3768492f0d00fc604c13c58fc07a3" label="The Case for Books: 256">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="158648902X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Case for Books: 256"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="299161"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Robert Darnton"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="PublicAffairs"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2009"></attvalue>
+        </attvalues>
+        <viz:size value="6.785714"></viz:size>
+        <viz:position x="-53.852562" y="240.55952" z="0.0"></viz:position>
+        <viz:color r="64" g="82" b="247"></viz:color>
+      </node>
+      <node id="n-a8331af903ee62afa4f4cb510a0f6d7e" label="A Companion to the History of the Book (Blackwell Companions to Literature and Culture)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="140519278X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Companion to the History of the Book (Blackwell Companions to Literature and Culture)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="148216"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Wiley-Blackwell"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2009"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="-270.0034" y="187.89037" z="0.0"></viz:position>
+        <viz:color r="64" g="82" b="247"></viz:color>
+      </node>
+      <node id="n-fc9adb4b590cd446c161e0463e499bcb" label="Mythologies (Vintage Classics)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0099529750"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Mythologies (Vintage Classics)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="3175"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Roland Barthes"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Vintage Classics"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2009"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-340.70163" y="-270.29596" z="0.0"></viz:position>
+        <viz:color r="64" g="82" b="247"></viz:color>
+      </node>
+      <node id="n-6b5318fee358509bb38c5c72dc92e256" label="Film Theory: An Introduction Through the Senses">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="041580101X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Film Theory: An Introduction Through the Senses"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="151420"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Thomas Elsaesser, Malte Hagener"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2009"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="113.60537" y="-400.1836" z="0.0"></viz:position>
+        <viz:color r="64" g="82" b="247"></viz:color>
+      </node>
+      <node id="n-f2306ef619395d7f3717f60d4a384768" label="Capitalist Realism: Is There No Alternative? (Zero Books)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846943175"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Capitalist Realism: Is There No Alternative? (Zero Books)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23910"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Mark Fisher"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="O Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2009"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="-230.91193" y="-355.3273" z="0.0"></viz:position>
+        <viz:color r="64" g="82" b="247"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

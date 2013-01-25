@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-f5de94f96dca12705eca643228002da6" label="The Gutenberg Elegies: The Fate of Reading in an Electronic Age">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0865479577"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Gutenberg Elegies: The Fate of Reading in an Electronic Age"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="292828"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sven Birkerts"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Faber &amp; Faber"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006"></attvalue>
+        </attvalues>
+        <viz:size value="31.506498"></viz:size>
+        <viz:position x="-1798.031" y="2079.3716" z="0.0"></viz:position>
+        <viz:color r="247" g="229" b="64"></viz:color>
+      </node>
+      <node id="n-4f8641c4ddf5b4c5a5b3d210b4b6972a" label="The Book History Reader">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415359481"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Book History Reader"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="61320"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006"></attvalue>
+        </attvalues>
+        <viz:size value="42.509098"></viz:size>
+        <viz:position x="-3365.752" y="1957.3744" z="0.0"></viz:position>
+        <viz:color r="247" g="229" b="64"></viz:color>
+      </node>
+      <node id="n-97554ec96345aa4ff8106b532b87360f" label="The Penguin Freud Reader (Penguin Modern Classics Translated Texts)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0141187433"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Penguin Freud Reader (Penguin Modern Classics Translated Texts)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="10460"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sigmund Freud"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin Classics"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006"></attvalue>
+        </attvalues>
+        <viz:size value="9.5013"></viz:size>
+        <viz:position x="-3894.9094" y="-1446.0598" z="0.0"></viz:position>
+        <viz:color r="247" g="229" b="64"></viz:color>
+      </node>
+      <node id="n-36d7507c785f36873199459754b113af" label="Hypertext 3.0: Critical Theory and New Media in an Era of Globalization: Critical Theory and New Media in a Global Era (Parallax: Re-visions of Culture and Society)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801882575"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Hypertext 3.0: Critical Theory and New Media in an Era of Globalization: Critical Theory and New Media in a Global Era (Parallax: Re-visions of Culture and Society)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="644808"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="George P. Landow"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006"></attvalue>
+        </attvalues>
+        <viz:size value="31.506498"></viz:size>
+        <viz:position x="4298.0674" y="1135.3865" z="0.0"></viz:position>
+        <viz:color r="247" g="229" b="64"></viz:color>
+      </node>
+      <node id="n-8fc9867a1be6b6769b93b6d1350e526d" label="Saturday">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0099469685"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Saturday"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="4302"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ian McEwan"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Vintage"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2006"></attvalue>
+        </attvalues>
+        <viz:size value="9.5013"></viz:size>
+        <viz:position x="-3099.411" y="1248.9617" z="0.0"></viz:position>
+        <viz:color r="247" g="229" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e-n-4f8641c4ddf5b4c5a5b3d210b4b6972an-8fc9867a1be6b6769b93b6d1350e526d" source="n-4f8641c4ddf5b4c5a5b3d210b4b6972a" target="n-8fc9867a1be6b6769b93b6d1350e526d">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

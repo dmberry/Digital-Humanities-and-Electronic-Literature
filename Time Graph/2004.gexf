@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-4a548b8eff5cdcafd2133f78d2b0686e" label="Theory of Fun for Game Design">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1932111972"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Theory of Fun for Game Design"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="39067"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Raph Koster"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="PARAGLYPH PRESS"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2004"></attvalue>
+        </attvalues>
+        <viz:size value="26.0052"></viz:size>
+        <viz:position x="1083.676" y="-1931.3394" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="82"></viz:color>
+      </node>
+      <node id="n-97420b352ca90b32466c1cc5a7aa2890" label="World-systems Analysis: An Introduction (A John Hope Franklin Center Book)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0822334429"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="World-systems Analysis: An Introduction (A John Hope Franklin Center Book)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="171168"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Immanuel Wallerstein"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Duke University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2004"></attvalue>
+        </attvalues>
+        <viz:size value="26.0052"></viz:size>
+        <viz:position x="-3198.1545" y="-2428.629" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="82"></viz:color>
+      </node>
+      <node id="n-9c1cd19730f7cabf171e1df09c6b0859" label="Isaac Newton">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0007163185"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Isaac Newton"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="98686"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="James Gleick"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Harper Perennial"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2004"></attvalue>
+        </attvalues>
+        <viz:size value="15.0026"></viz:size>
+        <viz:position x="1698.7098" y="3009.3865" z="0.0"></viz:position>
+        <viz:color r="64" g="247" b="82"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

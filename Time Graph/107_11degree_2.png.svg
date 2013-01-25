@@ -1,0 +1,1883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="595px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-1263 -1283 2535 2547" height="597px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="11.0"
+              d="M -217.886215,-1207.258301 C 369.053833,-1180.396851 1209.171753,-259.694763 1182.310303,327.245300"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-c9834eb323f16ae3237b0551dfb23808"
+              stroke-opacity="1.0" stroke="#c9779b"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -217.886215,-1207.258301 C -56.295921,-1333.665771 375.700562,-1280.891357 502.107941,-1119.301025"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-8e110c10f53ebfc0a08100e38421649c"
+              stroke-opacity="1.0" stroke="#9bb79b"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -217.886215,-1207.258301 C -235.188110,-1179.653931 -302.547638,-1164.199951 -330.152130,-1181.501831"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-824857fef57c56987ea62f89a5dc86d8"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -217.886215,-1207.258301 C -244.283646,-1162.385254 -351.189453,-1134.671631 -396.062561,-1161.069092"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-4a4725026639e5b052dda63aa73e243c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -217.886215,-1207.258301 C -191.956467,-1240.172485 -103.690498,-1250.649292 -70.776276,-1224.719482"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-ef14d5cb52a89ac38a6e4f0b21839d08"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -217.886215,-1207.258301 C -258.566895,-1129.004395 -436.968933,-1072.644287 -515.222961,-1113.324951"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -217.886215,-1207.258301 C -87.838402,-1319.829834 276.090515,-1293.615234 388.661957,-1163.567383"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-069c2fe8ee3ea9cc5c467e7300febb3e"
+              stroke-opacity="1.0" stroke="#9bb79b"/>
+        <path fill="none" stroke-width="13.0"
+              d="M -217.886215,-1207.258301 C -271.446838,-1085.231934 -534.827393,-982.533142 -656.853821,-1036.093750"
+              class="n-b3182ad279a53a4ad4fc5c1b44b47838 n-bb534f0d741ab7e6809cc9db989faa3b"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1182.310303,327.245300 C 756.960510,173.976517 348.839172,-693.951294 502.107941,-1119.301025"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-8e110c10f53ebfc0a08100e38421649c"
+              stroke-opacity="1.0" stroke="#6e80f7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1182.310303,327.245300 C 701.763855,200.793686 170.621643,-709.703308 297.073273,-1190.249756"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-5ca332f6115c096d86b3b79328117b3a"
+              stroke-opacity="1.0" stroke="#6e64f7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1182.310303,327.245300 C 865.548950,151.595306 653.881958,-587.021729 829.531982,-903.783081"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-b791ddd166612cd31be2bdd5e030116a"
+              stroke-opacity="1.0" stroke="#b79b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1182.310303,327.245300 C 803.056824,160.007019 485.033936,-659.730591 652.272217,-1038.984131"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-0bd6c893b56fbfa639906f2afad48278"
+              stroke-opacity="1.0" stroke="#c940b7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1182.310303,327.245300 C 1215.629272,408.722717 1143.391357,580.917175 1061.913940,614.236023"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-31a3768492f0d00fc604c13c58fc07a3"
+              stroke-opacity="1.0" stroke="#6e49f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1182.310303,327.245300 C 806.208984,837.214905 -522.897461,1038.017334 -1032.867065,661.916016"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-f8a62275c70d02d83d4bbfecb0aab8e4"
+              stroke-opacity="1.0" stroke="#6e9bdb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1182.310303,327.245300 C 824.039734,155.885147 543.674072,-638.560974 715.034241,-996.831543"
+              class="n-c9834eb323f16ae3237b0551dfb23808 n-ebc8aaf7f28525e79bece45f529abef3"
+              stroke-opacity="1.0" stroke="#6e9bf7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 502.107941,-1119.301025 C 548.204163,-1133.270508 638.302734,-1085.080322 652.272217,-1038.984131"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-0bd6c893b56fbfa639906f2afad48278"
+              stroke-opacity="1.0" stroke="#9b80b7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 502.107941,-1119.301025 C 420.621552,-1075.021851 231.973312,-1130.832764 187.694199,-1212.319214"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-1c44d770d6d2ca69f0d04265395a8ab2"
+              stroke-opacity="1.0" stroke="#9b80d2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 502.107941,-1119.301025 C 393.239899,-1052.758179 130.123657,-1116.246094 63.580856,-1225.114136"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-6e54ed3b54a56c596b59c98069e11a23"
+              stroke-opacity="1.0" stroke="#52db9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 502.107941,-1119.301025 C 903.020874,-1003.355042 1330.471191,-228.066574 1214.525146,172.846344"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-67d82ef6e0447b8e4634b3545699f471"
+              stroke-opacity="1.0" stroke="#6e80f7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 502.107941,-1119.301025 C 702.056824,-1133.459717 1023.218140,-854.774414 1037.376831,-654.825562"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-212a30c556e316b4e05805c7f60b5253"
+              stroke-opacity="1.0" stroke="#6edb9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 502.107941,-1119.301025 C 628.011475,-448.047058 -190.014191,747.689209 -861.268188,873.592712"
+              class="n-8e110c10f53ebfc0a08100e38421649c n-14a96bb52a34b7fc3db046519b03db63"
+              stroke-opacity="1.0" stroke="#40dbdb"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -330.152130,-1181.501831 C -339.247681,-1164.233154 -378.793915,-1151.973511 -396.062561,-1161.069092"
+              class="n-824857fef57c56987ea62f89a5dc86d8 n-4a4725026639e5b052dda63aa73e243c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -330.152130,-1181.501831 C -286.920471,-1242.020508 -131.294968,-1267.951050 -70.776276,-1224.719482"
+              class="n-824857fef57c56987ea62f89a5dc86d8 n-ef14d5cb52a89ac38a6e4f0b21839d08"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -330.152130,-1181.501831 C -366.410858,-1087.079834 -562.431885,-999.835083 -656.853821,-1036.093750"
+              class="n-824857fef57c56987ea62f89a5dc86d8 n-bb534f0d741ab7e6809cc9db989faa3b"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -330.152130,-1181.501831 C -373.692719,-983.505615 -735.997986,-751.822083 -933.994263,-795.362671"
+              class="n-824857fef57c56987ea62f89a5dc86d8 n-6bf0223d3c8d5c253045dcd2fc3d3f0d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -396.062561,-1161.069092 C 250.593781,-1097.603394 1125.379639,-32.420319 1061.913940,614.236023"
+              class="n-4a4725026639e5b052dda63aa73e243c n-31a3768492f0d00fc604c13c58fc07a3"
+              stroke-opacity="1.0" stroke="#9b809b"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -70.776276,-1224.719482 C 33.341793,-1304.376709 309.004700,-1267.685547 388.661957,-1163.567383"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-069c2fe8ee3ea9cc5c467e7300febb3e"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -70.776276,-1224.719482 C -94.752808,-793.272034 -777.888611,-182.065659 -1209.336060,-206.042191"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-0f78f132f619ea84f5a90b306010bbaa"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -70.776276,-1224.719482 C -72.906525,-765.556274 -764.846802,-80.006714 -1224.010010,-82.136963"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-beaa20e417dd228c02bb2aed4bb1b29c"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -70.776276,-1224.719482 C -58.342728,-749.898376 -751.924133,-19.016373 -1226.745239,-6.582824"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-f04943084a12420a06516460423b4c2d"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -70.776276,-1224.719482 C -45.613586,-737.670227 -738.443420,30.647675 -1225.492676,55.810352"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-f244a13a8bb3b4ab279cec46514e36dd"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -70.776276,-1224.719482 C -39.404602,-732.137085 -731.220703,53.794067 -1223.803101,85.165741"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-7811ed0cab8fb995a4bd4549a11b324a"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -70.776276,-1224.719482 C -31.623779,-725.566833 -721.624023,81.890778 -1220.776611,121.043266"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-74dbf2da0bc4397e47cd4e29f5638e54"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -70.776276,-1224.719482 C -16.186462,-713.624390 -700.944336,134.903000 -1212.039429,189.492828"
+              class="n-ef14d5cb52a89ac38a6e4f0b21839d08 n-3a800d1e945d3f4cc92cf5c5273b7d3c"
+              stroke-opacity="1.0" stroke="#f79240"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -515.222961,-1113.324951 C 132.102020,-863.476624 728.317017,482.283264 478.468719,1129.608276"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-1c107b48a22d7c879d3d0d973662ea68"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -515.222961,-1113.324951 C 142.358002,-892.427002 797.382446,425.291473 576.484497,1082.872437"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-631729a006c499ef3be2997431989aeb"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C -115.979492,-654.604919 -205.194397,632.340149 -663.914429,1031.583618"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-62a6ffc7e686a9c827ff1869beae8551"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C -367.707092,-695.975220 -772.457947,151.323181 -1189.807739,298.839020"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-87227ad498af54dab1cf613c645ea5b5"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C -14.234344,-694.249939 108.636047,685.845398 -310.438934,1186.833984"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-59a1a586f2629258a35fc0c101152443"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C -349.028778,-685.564026 -741.378906,205.368668 -1169.139893,371.562836"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-c4a7d8384f746b025b0301e090b12769"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C 6.968201,-707.713867 181.838287,683.989868 -223.772858,1206.181030"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-b2db6de1e3f4b90de5488a6de0e5d352"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -515.222961,-1113.324951 C 24.211975,-720.359985 243.916962,678.239868 -149.048004,1217.674805"
+              class="n-9f7fb68b474da60d1b3111cea989f455 n-e0224475f6ebe76041f45575d29bccca"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 388.661957,-1163.567383 C 821.117310,-1061.457275 1316.635254,-259.609009 1214.525146,172.846344"
+              class="n-069c2fe8ee3ea9cc5c467e7300febb3e n-67d82ef6e0447b8e4634b3545699f471"
+              stroke-opacity="1.0" stroke="#6e80f7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 388.661957,-1163.567383 C 620.153259,-1191.562012 1009.382202,-886.316895 1037.376831,-654.825562"
+              class="n-069c2fe8ee3ea9cc5c467e7300febb3e n-212a30c556e316b4e05805c7f60b5253"
+              stroke-opacity="1.0" stroke="#6edb9b"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -656.853821,-1036.093750 C -643.973877,-1079.866211 -558.995361,-1126.204834 -515.222961,-1113.324951"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -656.853821,-1036.093750 C -473.245392,-1270.691650 154.064087,-1347.175781 388.661957,-1163.567383"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-069c2fe8ee3ea9cc5c467e7300febb3e"
+              stroke-opacity="1.0" stroke="#9bb79b"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -656.853821,-1036.093750 C -665.088318,-970.680420 -775.559998,-884.912170 -840.973328,-893.146667"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-dd255f0f04bf08a95fd10ab4b4eb076c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -656.853821,-1036.093750 C -664.135681,-932.519409 -830.419922,-788.080811 -933.994263,-795.362671"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-6bf0223d3c8d5c253045dcd2fc3d3f0d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -656.853821,-1036.093750 C -174.309296,-644.535950 -37.829285,666.617737 -429.387115,1149.162231"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-6a6516d7acedf463d1ddcc48eeb927d6"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -656.853821,-1036.093750 C -601.339966,-759.586975 -932.829285,-261.556030 -1209.336060,-206.042191"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-0f78f132f619ea84f5a90b306010bbaa"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -656.853821,-1036.093750 C -590.769409,-745.451111 -927.606812,-210.360657 -1218.249390,-144.276245"
+              class="n-bb534f0d741ab7e6809cc9db989faa3b n-e00ab874358986ff20a93e1528427647"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 297.073273,-1190.249756 C 375.404480,-560.618164 -451.545959,501.325836 -1081.177490,579.657043"
+              class="n-5ca332f6115c096d86b3b79328117b3a n-cbdafa44d7a916b0e7a328b05625c9c5"
+              stroke-opacity="1.0" stroke="#40c0db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 297.073273,-1190.249756 C 510.021973,-1238.065186 901.168274,-990.365479 948.983826,-777.416748"
+              class="n-5ca332f6115c096d86b3b79328117b3a n-4a548b8eff5cdcafd2133f78d2b0686e"
+              stroke-opacity="1.0" stroke="#40c0a4"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 297.073273,-1190.249756 C 460.858368,-1239.448120 780.333557,-1067.568115 829.531982,-903.783081"
+              class="n-5ca332f6115c096d86b3b79328117b3a n-b791ddd166612cd31be2bdd5e030116a"
+              stroke-opacity="1.0" stroke="#89c09b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 297.073273,-1190.249756 C 398.366180,-1231.036377 611.485535,-1140.277100 652.272217,-1038.984131"
+              class="n-5ca332f6115c096d86b3b79328117b3a n-0bd6c893b56fbfa639906f2afad48278"
+              stroke-opacity="1.0" stroke="#9b64b7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1081.177490,579.657043 C -946.559937,-97.789978 271.536804,-912.034302 948.983826,-777.416748"
+              class="n-cbdafa44d7a916b0e7a328b05625c9c5 n-4a548b8eff5cdcafd2133f78d2b0686e"
+              stroke-opacity="1.0" stroke="#40f789"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.177490,579.657043 C -634.363403,229.416962 561.217651,374.277802 911.457764,821.091858"
+              class="n-cbdafa44d7a916b0e7a328b05625c9c5 n-ab6a08d42b9c58d94c8ec04fdfda99de"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 829.531982,-903.783081 C 559.353271,-754.994507 -69.097618,-937.079590 -217.886215,-1207.258301"
+              class="n-b791ddd166612cd31be2bdd5e030116a n-b3182ad279a53a4ad4fc5c1b44b47838"
+              stroke-opacity="1.0" stroke="#e5d240"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 829.531982,-903.783081 C 720.943604,-881.401855 524.489197,-1010.712585 502.107941,-1119.301025"
+              class="n-b791ddd166612cd31be2bdd5e030116a n-8e110c10f53ebfc0a08100e38421649c"
+              stroke-opacity="1.0" stroke="#89db9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 829.531982,-903.783081 C 767.039795,-895.371338 660.683960,-976.491943 652.272217,-1038.984131"
+              class="n-b791ddd166612cd31be2bdd5e030116a n-0bd6c893b56fbfa639906f2afad48278"
+              stroke-opacity="1.0" stroke="#e59b5b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 829.531982,-903.783081 C 1132.092041,-751.075623 1356.871094,-68.174210 1204.163696,234.385925"
+              class="n-b791ddd166612cd31be2bdd5e030116a n-d5d7ee9a93da04fe8b32ad9644c917fd"
+              stroke-opacity="1.0" stroke="#b79b9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 652.272217,-1038.984131 C 1017.324524,-894.688416 1348.459473,-130.666382 1204.163696,234.385925"
+              class="n-0bd6c893b56fbfa639906f2afad48278 n-d5d7ee9a93da04fe8b32ad9644c917fd"
+              stroke-opacity="1.0" stroke="#c940b7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 652.272217,-1038.984131 C 806.124878,-1039.173340 1037.187622,-808.678223 1037.376831,-654.825562"
+              class="n-0bd6c893b56fbfa639906f2afad48278 n-212a30c556e316b4e05805c7f60b5253"
+              stroke-opacity="1.0" stroke="#c99b5b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 652.272217,-1038.984131 C 691.581848,-1045.623169 760.504883,-996.617004 767.143860,-957.307373"
+              class="n-0bd6c893b56fbfa639906f2afad48278 n-3c8cf7d145e431e158cab8169244d77b"
+              stroke-opacity="1.0" stroke="#e59b5b"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 652.272217,-1038.984131 C 382.790588,-711.167542 -513.156738,-623.665039 -840.973328,-893.146667"
+              class="n-0bd6c893b56fbfa639906f2afad48278 n-dd255f0f04bf08a95fd10ab4b4eb076c"
+              stroke-opacity="1.0" stroke="#f7775b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1061.913940,614.236023 C 1033.803467,865.244141 615.125427,1199.590576 364.117279,1171.480103"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-6f9133b6361cce297f54aadc436dd8a6"
+              stroke-opacity="1.0" stroke="#9b49ee"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1061.913940,614.236023 C 915.680054,412.779755 998.513428,-108.755676 1199.969727,-254.989639"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-f5de94f96dca12705eca643228002da6"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1061.913940,614.236023 C 652.493774,1042.728271 -604.374878,1071.336182 -1032.867065,661.916016"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-f8a62275c70d02d83d4bbfecb0aab8e4"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1061.913940,614.236023 C 382.473236,660.013550 -705.354126,-290.481079 -751.131653,-969.921814"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-b6dfc7e0a677060743edb94c10f93293"
+              stroke-opacity="1.0" stroke="#9b809b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1061.913940,614.236023 C 682.757996,1047.960938 -536.563232,1129.814331 -970.288147,750.658386"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-93702020f00c3e60474e31a211d6afa6"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1061.913940,614.236023 C 709.635620,1050.333496 -472.927979,1176.062134 -909.025452,823.783813"
+              class="n-31a3768492f0d00fc604c13c58fc07a3 n-7c141572c9fad8b56945e69509317c21"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 364.117279,1171.480103 C 13.071823,1354.196899 -787.571411,1101.703857 -970.288147,750.658386"
+              class="n-6f9133b6361cce297f54aadc436dd8a6 n-93702020f00c3e60474e31a211d6afa6"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 364.117279,1171.480103 C 39.949463,1356.569336 -723.936157,1147.951660 -909.025452,823.783813"
+              class="n-6f9133b6361cce297f54aadc436dd8a6 n-7c141572c9fad8b56945e69509317c21"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 364.117279,1171.480103 C 163.136292,679.658630 599.397034,-359.544983 1091.218506,-560.526001"
+              class="n-6f9133b6361cce297f54aadc436dd8a6 n-144c53ad86bddc4976b96dab3af545c0"
+              stroke-opacity="1.0" stroke="#c99b92"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 364.117279,1171.480103 C 403.453613,1029.089600 676.043945,874.508301 818.434509,913.844666"
+              class="n-6f9133b6361cce297f54aadc436dd8a6 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#f740e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 364.117279,1171.480103 C 318.674591,782.145691 834.512085,129.980286 1223.846558,84.537636"
+              class="n-6f9133b6361cce297f54aadc436dd8a6 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#c940ee"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1199.969727,-254.989639 C 1318.093140,197.474792 816.581726,1053.356689 364.117279,1171.480103"
+              class="n-f5de94f96dca12705eca643228002da6 n-6f9133b6361cce297f54aadc436dd8a6"
+              stroke-opacity="1.0" stroke="#f79292"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1199.969727,-254.989639 C 1117.112183,-294.346680 1051.861450,-477.668488 1091.218506,-560.526001"
+              class="n-f5de94f96dca12705eca643228002da6 n-144c53ad86bddc4976b96dab3af545c0"
+              stroke-opacity="1.0" stroke="#c9ee40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1199.969727,-254.989639 C 1338.232788,-79.311272 1282.109985,391.600983 1106.431641,529.864136"
+              class="n-f5de94f96dca12705eca643228002da6 n-a8331af903ee62afa4f4cb510a0f6d7e"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -1243.705811,125.084946 -754.717285,-996.419556 -217.886215,-1207.258301"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-b3182ad279a53a4ad4fc5c1b44b47838"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -651.557373,484.431976 186.633224,790.170410 364.117279,1171.480103"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-6f9133b6361cce297f54aadc436dd8a6"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -769.680786,31.967468 570.021240,-518.175903 1199.969727,-254.989639"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-f5de94f96dca12705eca643228002da6"
+              stroke-opacity="1.0" stroke="#9bee80"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -1302.887573,279.201355 -1133.846313,-699.901306 -751.131653,-969.921814"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-b6dfc7e0a677060743edb94c10f93293"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -852.538391,-7.389465 421.913025,-740.854675 1091.218506,-560.526001"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-144c53ad86bddc4976b96dab3af545c0"
+              stroke-opacity="1.0" stroke="#6ef780"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1032.867065,661.916016 C -631.417725,207.645844 652.161499,128.414764 1106.431641,529.864136"
+              class="n-f8a62275c70d02d83d4bbfecb0aab8e4 n-a8331af903ee62afa4f4cb510a0f6d7e"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.131653,-969.921814 C -450.846893,-581.974487 -582.340820,450.373627 -970.288147,750.658386"
+              class="n-b6dfc7e0a677060743edb94c10f93293 n-93702020f00c3e60474e31a211d6afa6"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.131653,-969.921814 C -423.969269,-579.601929 -518.705566,496.621460 -909.025452,823.783813"
+              class="n-b6dfc7e0a677060743edb94c10f93293 n-7c141572c9fad8b56945e69509317c21"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.131653,-969.921814 C -60.465118,-907.081787 881.274536,223.178131 818.434509,913.844666"
+              class="n-b6dfc7e0a677060743edb94c10f93293 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.131653,-969.921814 C -145.244095,-1154.025635 1039.742798,-521.349915 1223.846558,84.537636"
+              class="n-b6dfc7e0a677060743edb94c10f93293 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#c9779b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -970.288147,750.658386 C -943.410522,753.030884 -906.652954,796.906189 -909.025452,823.783813"
+              class="n-93702020f00c3e60474e31a211d6afa6 n-7c141572c9fad8b56945e69509317c21"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -970.288147,750.658386 C -579.906372,425.551147 493.327271,523.462891 818.434509,913.844666"
+              class="n-93702020f00c3e60474e31a211d6afa6 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -970.288147,750.658386 C -664.685303,178.607269 651.795532,-221.065155 1223.846558,84.537636"
+              class="n-93702020f00c3e60474e31a211d6afa6 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#6e9bdb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -909.025452,823.783813 C -545.521301,496.303955 490.954681,550.340515 818.434509,913.844666"
+              class="n-7c141572c9fad8b56945e69509317c21 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -909.025452,823.783813 C -630.300293,249.360168 649.422913,-194.187531 1223.846558,84.537636"
+              class="n-7c141572c9fad8b56945e69509317c21 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#6e9bdb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1091.218506,-560.526001 C 1320.309937,-319.712708 1302.727295,385.144531 1061.913940,614.236023"
+              class="n-144c53ad86bddc4976b96dab3af545c0 n-31a3768492f0d00fc604c13c58fc07a3"
+              stroke-opacity="1.0" stroke="#6ea49b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1091.218506,-560.526001 C 640.869385,-273.935150 -464.540833,-519.572632 -751.131653,-969.921814"
+              class="n-144c53ad86bddc4976b96dab3af545c0 n-b6dfc7e0a677060743edb94c10f93293"
+              stroke-opacity="1.0" stroke="#c9d240"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1091.218506,-560.526001 C 941.154053,114.012207 -295.749939,900.722839 -970.288147,750.658386"
+              class="n-144c53ad86bddc4976b96dab3af545c0 n-93702020f00c3e60474e31a211d6afa6"
+              stroke-opacity="1.0" stroke="#6ef780"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1091.218506,-560.526001 C 1331.535889,-211.095062 1167.865479,673.527344 818.434509,913.844666"
+              class="n-144c53ad86bddc4976b96dab3af545c0 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#c99b92"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1091.218506,-560.526001 C 1246.756836,-458.038849 1326.333618,-71.000717 1223.846558,84.537636"
+              class="n-144c53ad86bddc4976b96dab3af545c0 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#9c9b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.694199,-1212.319214 C 160.312546,-1190.055542 85.844543,-1197.732544 63.580856,-1225.114136"
+              class="n-1c44d770d6d2ca69f0d04265395a8ab2 n-6e54ed3b54a56c596b59c98069e11a23"
+              stroke-opacity="1.0" stroke="#ae9b77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.694199,-1212.319214 C 430.315399,-587.389343 -143.147552,713.937317 -768.077454,956.558472"
+              class="n-1c44d770d6d2ca69f0d04265395a8ab2 n-732a884646056b91f40b2508d2625292"
+              stroke-opacity="1.0" stroke="#9b9bb7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.694199,-1212.319214 C 627.808167,-1187.428101 1250.642456,-489.920593 1225.751343,-49.806580"
+              class="n-1c44d770d6d2ca69f0d04265395a8ab2 n-ff70ca8d68fafd6cf90912c30f7d22be"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.580856,-1225.114136 C 531.076477,-1222.486694 1228.378784,-517.302246 1225.751343,-49.806580"
+              class="n-6e54ed3b54a56c596b59c98069e11a23 n-ff70ca8d68fafd6cf90912c30f7d22be"
+              stroke-opacity="1.0" stroke="#52f764"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 63.580856,-1225.114136 C 617.502930,-837.147278 866.435669,575.686218 478.468719,1129.608276"
+              class="n-6e54ed3b54a56c596b59c98069e11a23 n-1c107b48a22d7c879d3d0d973662ea68"
+              stroke-opacity="1.0" stroke="#ae9b92"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 63.580856,-1225.114136 C 627.758911,-866.097595 935.501099,518.694397 576.484497,1082.872437"
+              class="n-6e54ed3b54a56c596b59c98069e11a23 n-631729a006c499ef3be2997431989aeb"
+              stroke-opacity="1.0" stroke="#ae9b92"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 63.580856,-1225.114136 C 369.421387,-628.275513 -67.075836,725.743042 -663.914429,1031.583618"
+              class="n-6e54ed3b54a56c596b59c98069e11a23 n-62a6ffc7e686a9c827ff1869beae8551"
+              stroke-opacity="1.0" stroke="#52f780"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1214.525146,172.846344 C 1013.561096,42.741631 907.272156,-453.861542 1037.376831,-654.825562"
+              class="n-67d82ef6e0447b8e4634b3545699f471 n-212a30c556e316b4e05805c7f60b5253"
+              stroke-opacity="1.0" stroke="#9c9b9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1037.376831,-654.825562 C 1248.576538,-510.340607 1348.648560,23.186237 1204.163696,234.385925"
+              class="n-212a30c556e316b4e05805c7f60b5253 n-d5d7ee9a93da04fe8b32ad9644c917fd"
+              stroke-opacity="1.0" stroke="#9c9b9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1037.376831,-654.825562 C 922.833923,-661.275330 760.694092,-842.764465 767.143860,-957.307373"
+              class="n-212a30c556e316b4e05805c7f60b5253 n-3c8cf7d145e431e158cab8169244d77b"
+              stroke-opacity="1.0" stroke="#b7f740"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -861.268188,873.592712 C -1189.442749,407.000092 -981.815552,-785.150452 -515.222961,-1113.324951"
+              class="n-14a96bb52a34b7fc3db046519b03db63 n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -861.268188,873.592712 C -771.248962,861.049072 -617.404541,977.262512 -604.860901,1067.281738"
+              class="n-14a96bb52a34b7fc3db046519b03db63 n-a59973966d0a0f51e8f314eb396e2ba2"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -835.260437,898.491577 C -1193.897217,525.544189 -1172.431396,-571.832153 -799.484009,-930.468933"
+              class="n-5eb86583b0e860a05bf898fe83f20a28 n-b5f4554ca1139406bbf19407c036b29e"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 767.143860,-957.307373 C 1092.886475,-806.372681 1355.098389,-91.356735 1204.163696,234.385925"
+              class="n-3c8cf7d145e431e158cab8169244d77b n-d5d7ee9a93da04fe8b32ad9644c917fd"
+              stroke-opacity="1.0" stroke="#b79b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 767.143860,-957.307373 C 1082.650879,-820.752869 1351.079590,-142.660660 1214.525146,172.846344"
+              class="n-3c8cf7d145e431e158cab8169244d77b n-67d82ef6e0447b8e4634b3545699f471"
+              stroke-opacity="1.0" stroke="#b79b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -840.973328,-893.146667 C -532.182007,-1227.602295 432.688263,-1266.098633 767.143860,-957.307373"
+              class="n-dd255f0f04bf08a95fd10ab4b4eb076c n-3c8cf7d145e431e158cab8169244d77b"
+              stroke-opacity="1.0" stroke="#e5d240"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -467.036041,686.815063 389.141327,733.761963 658.884766,1034.803345"
+              class="n-732a884646056b91f40b2508d2625292 n-249a5f4f79f8e761bb146139d6384748"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -1100.672119,794.471802 -1356.434082,52.449585 -1194.347412,-280.145142"
+              class="n-732a884646056b91f40b2508d2625292 n-731f09557fe178893b4c83fe3eb3d9b8"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -575.616333,871.291443 -159.024109,1032.082520 -73.757050,1224.543579"
+              class="n-732a884646056b91f40b2508d2625292 n-caf77575b51eee9cbaff9cf680ff57ab"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -558.743774,855.294983 -92.847961,1017.400269 8.415527,1226.734009"
+              class="n-732a884646056b91f40b2508d2625292 n-82d4c89bf7c1cbc543c5d9cf51a71de3"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -460.631165,575.960083 571.435669,466.232086 952.034058,773.678345"
+              class="n-732a884646056b91f40b2508d2625292 n-be11f0f6124f6f720fe535a950de393c"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -768.077454,956.558472 C -541.764893,836.787048 -22.638882,996.598755 97.132530,1222.911377"
+              class="n-732a884646056b91f40b2508d2625292 n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 478.468719,1129.608276 C 488.724701,1100.657959 547.534180,1072.616455 576.484497,1082.872437"
+              class="n-1c107b48a22d7c879d3d0d973662ea68 n-631729a006c499ef3be2997431989aeb"
+              stroke-opacity="1.0" stroke="#f740e5"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 478.468719,1129.608276 C 230.387146,1338.479980 -455.042725,1279.665283 -663.914429,1031.583618"
+              class="n-1c107b48a22d7c879d3d0d973662ea68 n-62a6ffc7e686a9c827ff1869beae8551"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 478.468719,1129.608276 C -2.662125,1307.520996 -991.227234,852.693726 -1169.139893,371.562836"
+              class="n-1c107b48a22d7c879d3d0d973662ea68 n-c4a7d8384f746b025b0301e090b12769"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 478.468719,1129.608276 C 353.334930,1285.371216 -68.009987,1331.314819 -223.772858,1206.181030"
+              class="n-1c107b48a22d7c879d3d0d973662ea68 n-b2db6de1e3f4b90de5488a6de0e5d352"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 576.484497,1082.872437 C 479.802094,726.483276 869.362183,46.875839 1225.751343,-49.806580"
+              class="n-631729a006c499ef3be2997431989aeb n-ff70ca8d68fafd6cf90912c30f7d22be"
+              stroke-opacity="1.0" stroke="#9b9bb7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -663.914429,1031.583618 C -502.259277,437.372437 631.540161,-211.461716 1225.751343,-49.806580"
+              class="n-62a6ffc7e686a9c827ff1869beae8551 n-ff70ca8d68fafd6cf90912c30f7d22be"
+              stroke-opacity="1.0" stroke="#40f7a4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -663.914429,1031.583618 C -896.963684,1000.624573 -1200.098999,604.612061 -1169.139893,371.562836"
+              class="n-62a6ffc7e686a9c827ff1869beae8551 n-c4a7d8384f746b025b0301e090b12769"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -663.914429,1031.583618 C -540.966614,978.474731 -276.881683,1083.233276 -223.772858,1206.181030"
+              class="n-62a6ffc7e686a9c827ff1869beae8551 n-b2db6de1e3f4b90de5488a6de0e5d352"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 716.299072,-53.977234 -146.646042,-703.201782 -217.886215,-1207.258301"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-b3182ad279a53a4ad4fc5c1b44b47838"
+              stroke-opacity="1.0" stroke="#9bd264"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 1018.038147,-202.681152 830.757629,-622.352844 908.221313,-824.670288"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-97420b352ca90b32466c1cc5a7aa2890"
+              stroke-opacity="1.0" stroke="#40f76d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 855.991394,458.973511 -566.841003,788.713623 -1151.031982,424.349426"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-fa1d2c3f1128cd8681d87ed86538c05d"
+              stroke-opacity="1.0" stroke="#9bd264"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 1153.107910,-168.126205 1116.599731,-333.360779 1159.508545,-400.608368"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-97554ec96345aa4ff8106b532b87360f"
+              stroke-opacity="1.0" stroke="#9bee64"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 1249.778687,-98.317528 1253.563721,-13.832951 1226.663818,15.590226"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-c1341729bdf5390766c6a983a2802edf"
+              stroke-opacity="1.0" stroke="#6e9bc0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1220.355591,-125.217415 C 1324.385620,17.289171 1266.670532,387.093933 1124.163940,491.123840"
+              class="n-6b36d96e95cf935cfea1f45ff488c782 n-fc9adb4b590cd446c161e0463e499bcb"
+              stroke-opacity="1.0" stroke="#40a4c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1338.188721,-152.537033 1295.019165,370.056213 1106.431641,529.864136"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-a8331af903ee62afa4f4cb510a0f6d7e"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1272.606323,-265.085327 1299.885864,-9.687975 1223.846558,84.537636"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#c9929b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 909.485046,-369.043945 548.020386,-814.266602 575.939697,-1083.162354"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-89b476ce56d6a9f64d3b53045f8395f3"
+              stroke-opacity="1.0" stroke="#f7925b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1064.602783,-380.028046 952.291138,-609.050049 991.194580,-722.828003"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-d3c8c49c6e121caff1ecc291f55e2402"
+              stroke-opacity="1.0" stroke="#c9ee40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1254.835449,-284.014343 1283.851929,-83.667053 1226.741699,-7.212432"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-88866d567af1d8b6bbbde7a0d5d4e02c"
+              stroke-opacity="1.0" stroke="#c9929b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1137.215698,-360.407013 1104.391724,-451.078217 1123.674194,-492.243256"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-8fc9867a1be6b6769b93b6d1350e526d"
+              stroke-opacity="1.0" stroke="#f7e540"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1178.380737,-341.124603 C 1301.086914,153.051193 743.882446,1078.374023 249.706650,1201.080200"
+              class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a n-a42b3b45284e0aa7491c18587d1821fc"
+              stroke-opacity="1.0" stroke="#9bee80"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -849.164429,1057.711426 -1239.783569,550.245972 -1200.834717,250.884460"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-d9963669d09f2c2f6b01a79d9403a12f"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -876.621582,496.974396 -467.320679,-892.782349 132.365204,-1219.600952"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-d8b5ea5af0006c87f398ebbac9908d15"
+              stroke-opacity="1.0" stroke="#529bdb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -852.705750,479.372192 -381.127930,-900.914185 236.160156,-1203.817017"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-09401f3e48adff9816c7e363aced58c6"
+              stroke-opacity="1.0" stroke="#40c0db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -656.376221,420.397919 198.157104,-753.855469 874.419434,-860.428833"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-9c1cd19730f7cabf171e1df09c6b0859"
+              stroke-opacity="1.0" stroke="#40f789"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -316.011292,716.036743 605.611450,495.788879 986.234985,729.580505"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-38d3416d0f85deca3212b7dec38b02c5"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.802917,1096.660278 C -798.629517,1085.090820 -1154.515259,694.496887 -1142.945801,445.670319"
+              class="n-1274b6f44c7b86678d9e1dd6762215ef n-a2537f5084a521bc425a30aaddb5b60e"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -933.994263,-795.362671 C -934.946899,-833.523682 -879.134338,-892.194031 -840.973328,-893.146667"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-dd255f0f04bf08a95fd10ab4b4eb076c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -550.426697,-478.161804 -450.876587,572.990906 -768.077454,956.558472"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-732a884646056b91f40b2508d2625292"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -927.752930,-752.045288 -983.366943,-677.707214 -1026.684326,-671.465881"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-4215afe5854208880582d0f71519ee76"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -918.469604,-716.943726 -1012.810913,-576.028442 -1091.229858,-560.503784"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-5feafbe172ad344c801824e415111694"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -907.058350,-686.429077 -1030.054932,-482.624878 -1138.988403,-455.688965"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-099b8de8d353feaa1bca9611e377a2fe"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -895.475098,-662.059814 -1037.650635,-404.326691 -1170.953491,-365.807495"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -249.385223,-747.905273 706.342163,350.194336 658.884766,1034.803345"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-249a5f4f79f8e761bb146139d6384748"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -462.147156,-499.784393 -197.743896,651.353821 -493.322174,1123.200928"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-3b9f807342b596c6d0539735f8c63c9d"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -244.567413,-774.453735 758.209595,291.049866 737.300720,980.476746"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-2be66c385dcec925244f426e7c87be0f"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -933.994263,-795.362671 C -883.021362,-640.248535 -1039.233276,-331.118042 -1194.347412,-280.145142"
+              class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d n-731f09557fe178893b4c83fe3eb3d9b8"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.684326,-671.465881 C -1033.878296,-752.944275 -922.451721,-885.952698 -840.973328,-893.146667"
+              class="n-4215afe5854208880582d0f71519ee76 n-dd255f0f04bf08a95fd10ab4b4eb076c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.684326,-671.465881 C -649.358032,-397.582367 -494.193939,579.232239 -768.077454,956.558472"
+              class="n-4215afe5854208880582d0f71519ee76 n-732a884646056b91f40b2508d2625292"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1026.684326,-671.465881 C -1017.400940,-636.364319 -1056.128418,-569.787109 -1091.229858,-560.503784"
+              class="n-4215afe5854208880582d0f71519ee76 n-5feafbe172ad344c801824e415111694"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1026.684326,-671.465881 C -1005.989746,-605.849670 -1073.372192,-476.383545 -1138.988403,-455.688965"
+              class="n-4215afe5854208880582d0f71519ee76 n-099b8de8d353feaa1bca9611e377a2fe"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.684326,-671.465881 C -994.406555,-581.480408 -1080.967896,-398.085358 -1170.953491,-365.807495"
+              class="n-4215afe5854208880582d0f71519ee76 n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.684326,-671.465881 C -341.911835,-778.180725 845.319214,88.905823 952.034058,773.678345"
+              class="n-4215afe5854208880582d0f71519ee76 n-be11f0f6124f6f720fe535a950de393c"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.684326,-671.465881 C -423.045502,-517.353821 251.244598,619.272522 97.132530,1222.911377"
+              class="n-4215afe5854208880582d0f71519ee76 n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1091.229858,-560.503784 C -723.186890,-321.721802 -529.295532,588.515503 -768.077454,956.558472"
+              class="n-5feafbe172ad344c801824e415111694 n-732a884646056b91f40b2508d2625292"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1091.229858,-560.503784 C -1079.818604,-529.989136 -1108.473633,-467.100220 -1138.988403,-455.688965"
+              class="n-5feafbe172ad344c801824e415111694 n-099b8de8d353feaa1bca9611e377a2fe"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1091.229858,-560.503784 C -1068.235352,-505.619781 -1116.069580,-388.802032 -1170.953491,-365.807495"
+              class="n-5feafbe172ad344c801824e415111694 n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1091.229858,-560.503784 C -422.145477,-591.465271 627.923279,365.719025 658.884766,1034.803345"
+              class="n-5feafbe172ad344c801824e415111694 n-249a5f4f79f8e761bb146139d6384748"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1091.229858,-560.503784 C -1055.781616,-483.808563 -1117.652100,-315.593353 -1194.347412,-280.145142"
+              class="n-5feafbe172ad344c801824e415111694 n-731f09557fe178893b4c83fe3eb3d9b8"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1091.229858,-560.503784 C -496.874329,-441.493225 216.143097,628.555847 97.132530,1222.911377"
+              class="n-5feafbe172ad344c801824e415111694 n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1138.988403,-455.688965 C -782.356689,-247.421661 -559.810181,599.926819 -768.077454,956.558472"
+              class="n-099b8de8d353feaa1bca9611e377a2fe n-732a884646056b91f40b2508d2625292"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1138.988403,-455.688965 C -1127.405151,-431.319672 -1146.584106,-377.390778 -1170.953491,-365.807495"
+              class="n-099b8de8d353feaa1bca9611e377a2fe n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 658.884766,1034.803345 C 1.211670,1096.279541 -1077.512207,201.984131 -1138.988403,-455.688965"
+              class="n-249a5f4f79f8e761bb146139d6384748 n-099b8de8d353feaa1bca9611e377a2fe"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 658.884766,1034.803345 C 550.304443,1219.279663 110.719360,1333.123901 -73.757050,1224.543579"
+              class="n-249a5f4f79f8e761bb146139d6384748 n-caf77575b51eee9cbaff9cf680ff57ab"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 658.884766,1034.803345 C 567.177002,1203.283325 176.895523,1318.441772 8.415527,1226.734009"
+              class="n-249a5f4f79f8e761bb146139d6384748 n-82d4c89bf7c1cbc543c5d9cf51a71de3"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 658.884766,1034.803345 C 665.289673,923.948486 841.179199,767.273438 952.034058,773.678345"
+              class="n-249a5f4f79f8e761bb146139d6384748 n-be11f0f6124f6f720fe535a950de393c"
+              stroke-opacity="1.0" stroke="#f740e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -493.322174,1123.200928 C -274.155426,764.225098 593.058228,554.511597 952.034058,773.678345"
+              class="n-3b9f807342b596c6d0539735f8c63c9d n-be11f0f6124f6f720fe535a950de393c"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.300720,980.476746 C 54.115143,1002.885315 -1004.275757,11.719696 -1026.684326,-671.465881"
+              class="n-2be66c385dcec925244f426e7c87be0f n-4215afe5854208880582d0f71519ee76"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.300720,980.476746 C 63.398499,1037.986816 -1033.719849,113.398438 -1091.229858,-560.503784"
+              class="n-2be66c385dcec925244f426e7c87be0f n-5feafbe172ad344c801824e415111694"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.300720,980.476746 C 74.809753,1068.501465 -1050.963745,206.802002 -1138.988403,-455.688965"
+              class="n-2be66c385dcec925244f426e7c87be0f n-099b8de8d353feaa1bca9611e377a2fe"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.300720,980.476746 C 86.393066,1092.870728 -1058.559570,285.100159 -1170.953491,-365.807495"
+              class="n-2be66c385dcec925244f426e7c87be0f n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.300720,980.476746 C 173.798538,1200.205566 -1001.047852,684.545410 -1220.776611,121.043266"
+              class="n-2be66c385dcec925244f426e7c87be0f n-74dbf2da0bc4397e47cd4e29f5638e54"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1194.347412,-280.145142 C -669.291626,-203.325470 3.062622,699.487793 -73.757050,1224.543579"
+              class="n-731f09557fe178893b4c83fe3eb3d9b8 n-caf77575b51eee9cbaff9cf680ff57ab"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1194.347412,-280.145142 C -652.418945,-219.321915 69.238754,684.805542 8.415527,1226.734009"
+              class="n-731f09557fe178893b4c83fe3eb3d9b8 n-82d4c89bf7c1cbc543c5d9cf51a71de3"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1194.347412,-280.145142 C -635.440063,-237.829834 139.447845,664.004028 97.132530,1222.911377"
+              class="n-731f09557fe178893b4c83fe3eb3d9b8 n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -429.387115,1149.162231 C -899.051758,713.831970 -950.553223,-643.660339 -515.222961,-1113.324951"
+              class="n-6a6516d7acedf463d1ddcc48eeb927d6 n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -429.387115,1149.162231 C -728.323242,523.006531 -237.493790,-864.631287 388.661957,-1163.567383"
+              class="n-6a6516d7acedf463d1ddcc48eeb927d6 n-069c2fe8ee3ea9cc5c467e7300febb3e"
+              stroke-opacity="1.0" stroke="#40dbdb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -429.387115,1149.162231 C -920.166138,823.017700 -1167.117920,-402.367615 -840.973328,-893.146667"
+              class="n-6a6516d7acedf463d1ddcc48eeb927d6 n-dd255f0f04bf08a95fd10ab4b4eb076c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -429.387115,1149.162231 C -480.857971,1167.880859 -586.142212,1118.752563 -604.860901,1067.281738"
+              class="n-6a6516d7acedf463d1ddcc48eeb927d6 n-a59973966d0a0f51e8f314eb396e2ba2"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -429.387115,1149.162231 C -845.847290,1048.246948 -1319.164673,272.183960 -1218.249390,-144.276245"
+              class="n-6a6516d7acedf463d1ddcc48eeb927d6 n-e00ab874358986ff20a93e1528427647"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1209.336060,-206.042191 C -782.305420,-90.991089 -314.335999,722.131531 -429.387115,1149.162231"
+              class="n-0f78f132f619ea84f5a90b306010bbaa n-6a6516d7acedf463d1ddcc48eeb927d6"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1209.336060,-206.042191 C -1198.765625,-191.906326 -1204.113525,-154.846771 -1218.249390,-144.276245"
+              class="n-0f78f132f619ea84f5a90b306010bbaa n-e00ab874358986ff20a93e1528427647"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1218.249390,-144.276245 C -1100.725342,-669.516724 -136.578537,-1281.091431 388.661957,-1163.567383"
+              class="n-e00ab874358986ff20a93e1528427647 n-069c2fe8ee3ea9cc5c467e7300febb3e"
+              stroke-opacity="1.0" stroke="#9bb79b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1224.010010,-82.136963 C -1209.446167,-66.479095 -1211.087402,-21.146606 -1226.745239,-6.582824"
+              class="n-beaa20e417dd228c02bb2aed4bb1b29c n-f04943084a12420a06516460423b4c2d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1226.745239,-6.582824 C -1200.026245,17.748667 -1196.445068,94.324326 -1220.776611,121.043266"
+              class="n-f04943084a12420a06516460423b4c2d n-74dbf2da0bc4397e47cd4e29f5638e54"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1225.492676,55.810352 C -1181.546265,89.893585 -1166.751587,206.938034 -1200.834717,250.884460"
+              class="n-f244a13a8bb3b4ab279cec46514e36dd n-d9963669d09f2c2f6b01a79d9403a12f"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -1212.039429,189.492828 C -1333.239746,-210.434006 -915.149780,-992.124695 -515.222961,-1113.324951"
+              class="n-3a800d1e945d3f4cc92cf5c5273b7d3c n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1212.039429,189.492828 C -1254.195679,153.218857 -1263.019165,35.573467 -1226.745239,-6.582824"
+              class="n-3a800d1e945d3f4cc92cf5c5273b7d3c n-f04943084a12420a06516460423b4c2d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1212.039429,189.492828 C -1185.723877,206.915726 -1172.384766,272.523438 -1189.807739,298.839020"
+              class="n-3a800d1e945d3f4cc92cf5c5273b7d3c n-87227ad498af54dab1cf613c645ea5b5"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1212.039429,189.492828 C -832.251099,208.640961 -291.290802,807.045654 -310.438934,1186.833984"
+              class="n-3a800d1e945d3f4cc92cf5c5273b7d3c n-59a1a586f2629258a35fc0c101152443"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1212.039429,189.492828 C -1167.045410,217.326920 -1141.305908,326.568939 -1169.139893,371.562836"
+              class="n-3a800d1e945d3f4cc92cf5c5273b7d3c n-c4a7d8384f746b025b0301e090b12769"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -370.392273,1169.511230 C -841.642395,708.529175 -857.044556,-689.818970 -396.062561,-1161.069092"
+              class="n-6a2c05c5c05bef57b0f2e1450b41d11a n-4a4725026639e5b052dda63aa73e243c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 818.434509,913.844666 C 733.655518,666.900879 976.902771,169.316620 1223.846558,84.537636"
+              class="n-b6ccd39525df37bd2e21155fc9f56b9d n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#c940ee"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1189.807739,298.839020 C -689.998596,131.337555 310.967285,629.799072 478.468719,1129.608276"
+              class="n-87227ad498af54dab1cf613c645ea5b5 n-1c107b48a22d7c879d3d0d973662ea68"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -310.438934,1186.833984 C -164.102554,1017.607300 309.242065,983.271973 478.468719,1129.608276"
+              class="n-59a1a586f2629258a35fc0c101152443 n-1c107b48a22d7c879d3d0d973662ea68"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -310.438934,1186.833984 C -153.846558,988.656921 378.307495,926.280090 576.484497,1082.872437"
+              class="n-59a1a586f2629258a35fc0c101152443 n-631729a006c499ef3be2997431989aeb"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -310.438934,1186.833984 C -412.184113,1226.479004 -624.269348,1133.328735 -663.914429,1031.583618"
+              class="n-59a1a586f2629258a35fc0c101152443 n-62a6ffc7e686a9c827ff1869beae8551"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -310.438934,1186.833984 C -645.233398,1195.520020 -1160.453979,706.357239 -1169.139893,371.562836"
+              class="n-59a1a586f2629258a35fc0c101152443 n-c4a7d8384f746b025b0301e090b12769"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -310.438934,1186.833984 C -289.236298,1173.370117 -237.236664,1184.978394 -223.772858,1206.181030"
+              class="n-59a1a586f2629258a35fc0c101152443 n-b2db6de1e3f4b90de5488a6de0e5d352"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1169.139893,371.562836 C -1187.818237,361.151642 -1200.218994,317.517365 -1189.807739,298.839020"
+              class="n-c4a7d8384f746b025b0301e090b12769 n-87227ad498af54dab1cf613c645ea5b5"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -223.772858,1206.181030 C -88.383110,1021.467834 391.771332,947.482727 576.484497,1082.872437"
+              class="n-b2db6de1e3f4b90de5488a6de0e5d352 n-631729a006c499ef3be2997431989aeb"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.048004,1217.674805 C -463.077454,1276.497192 -1022.355164,893.686523 -1081.177490,579.657043"
+              class="n-e0224475f6ebe76041f45575d29bccca n-cbdafa44d7a916b0e7a328b05625c9c5"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.048004,1217.674805 C -328.459961,599.050110 330.359131,-598.004822 948.983826,-777.416748"
+              class="n-e0224475f6ebe76041f45575d29bccca n-4a548b8eff5cdcafd2133f78d2b0686e"
+              stroke-opacity="1.0" stroke="#40f789"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.048004,1217.674805 C -15.817383,940.167542 600.289490,723.752441 877.796814,856.983032"
+              class="n-e0224475f6ebe76041f45575d29bccca n-c74c6bea3d70cb3b27f305ecbbd2a822"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.048004,1217.674805 C -16.263443,926.257019 620.040039,688.307312 911.457764,821.091858"
+              class="n-e0224475f6ebe76041f45575d29bccca n-ab6a08d42b9c58d94c8ec04fdfda99de"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 877.796814,856.983032 C 205.131256,741.525391 -630.680603,-440.659332 -515.222961,-1113.324951"
+              class="n-c74c6bea3d70cb3b27f305ecbbd2a822 n-9f7fb68b474da60d1b3111cea989f455"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 877.796814,856.983032 C 430.536713,1193.312744 -744.847778,1026.917114 -1081.177490,579.657043"
+              class="n-c74c6bea3d70cb3b27f305ecbbd2a822 n-cbdafa44d7a916b0e7a328b05625c9c5"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 877.796814,856.983032 C 565.154297,515.865601 607.866455,-464.774170 948.983826,-777.416748"
+              class="n-c74c6bea3d70cb3b27f305ecbbd2a822 n-4a548b8eff5cdcafd2133f78d2b0686e"
+              stroke-opacity="1.0" stroke="#9b9b9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 908.221313,-824.670288 C 1207.362061,-621.737305 1351.673584,131.373199 1148.740601,430.513916"
+              class="n-97420b352ca90b32466c1cc5a7aa2890 n-f2306ef619395d7f3717f60d4a384768"
+              stroke-opacity="1.0" stroke="#40a4a4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 908.221313,-824.670288 C 1187.127319,-296.414276 813.102478,914.328796 284.846466,1193.234863"
+              class="n-97420b352ca90b32466c1cc5a7aa2890 n-50d645bb76da523c1a0c1a232b3dfc64"
+              stroke-opacity="1.0" stroke="#40f789"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 908.221313,-824.670288 C 1095.060547,-759.096130 1276.958374,-380.476013 1211.384277,-193.636688"
+              class="n-97420b352ca90b32466c1cc5a7aa2890 n-941f1aa919727d7e6a73fef393ff839a"
+              stroke-opacity="1.0" stroke="#40f76d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -73.757050,1224.543579 C -56.884445,1208.547119 -7.580902,1209.861328 8.415527,1226.734009"
+              class="n-caf77575b51eee9cbaff9cf680ff57ab n-82d4c89bf7c1cbc543c5d9cf51a71de3"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -73.757050,1224.543579 C -39.905571,1190.039307 62.628174,1189.059814 97.132530,1222.911377"
+              class="n-caf77575b51eee9cbaff9cf680ff57ab n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 8.415527,1226.734009 C 25.394402,1208.226074 78.624603,1205.932495 97.132530,1222.911377"
+              class="n-82d4c89bf7c1cbc543c5d9cf51a71de3 n-bead10f9ad5c159d1c9b54eeae8fa90c"
+              stroke-opacity="1.0" stroke="#40f7c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 952.034058,773.678345 C 261.020172,837.075806 -870.596802,-104.348816 -933.994263,-795.362671"
+              class="n-be11f0f6124f6f720fe535a950de393c n-6bf0223d3c8d5c253045dcd2fc3d3f0d"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 952.034058,773.678345 C 299.539337,970.378662 -974.253174,286.687225 -1170.953491,-365.807495"
+              class="n-be11f0f6124f6f720fe535a950de393c n-5fad4b58530069c71a52db3843e0962d"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 132.365204,-1219.600952 C 156.280975,-1237.203247 218.557953,-1227.732788 236.160156,-1203.817017"
+              class="n-d8b5ea5af0006c87f398ebbac9908d15 n-09401f3e48adff9816c7e363aced58c6"
+              stroke-opacity="1.0" stroke="#5264f7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 132.365204,-1219.600952 C 352.610474,-1296.177368 797.843018,-1080.674072 874.419434,-860.428833"
+              class="n-d8b5ea5af0006c87f398ebbac9908d15 n-9c1cd19730f7cabf171e1df09c6b0859"
+              stroke-opacity="1.0" stroke="#529ba4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 165.739944,1215.515259 C -371.740479,1233.934814 -1205.590576,455.343475 -1224.010010,-82.136963"
+              class="n-5c90a19468005dc7baad68370f7c084a n-beaa20e417dd228c02bb2aed4bb1b29c"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 165.739944,1215.515259 C -357.176697,1249.592651 -1192.667725,516.333801 -1226.745239,-6.582824"
+              class="n-5c90a19468005dc7baad68370f7c084a n-f04943084a12420a06516460423b4c2d"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 165.739944,1215.515259 C -242.311234,1326.534424 -1020.916870,880.986450 -1131.936035,472.935303"
+              class="n-5c90a19468005dc7baad68370f7c084a n-896d1776f932049b707879dc9ca6b176"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1131.936035,472.935303 C -1261.365234,380.335632 -1316.609619,47.292290 -1224.010010,-82.136963"
+              class="n-896d1776f932049b707879dc9ca6b176 n-beaa20e417dd228c02bb2aed4bb1b29c"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1010.974792,694.893555 C 991.416504,888.337708 671.912903,1149.166504 478.468719,1129.608276"
+              class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e n-1c107b48a22d7c879d3d0d973662ea68"
+              stroke-opacity="1.0" stroke="#f740e5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1010.974792,694.893555 C 954.249634,956.817627 476.275818,1264.615967 214.351730,1207.890869"
+              class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e n-a687c3d926f30b6096a2ea2edf0cbac7"
+              stroke-opacity="1.0" stroke="#9b9bd2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1010.974792,694.893555 C 985.652039,614.464478 1068.311523,455.836670 1148.740601,430.513916"
+              class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e n-f2306ef619395d7f3717f60d4a384768"
+              stroke-opacity="1.0" stroke="#9b49ee"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1010.974792,694.893555 C 550.978882,1084.111328 -722.841858,977.944153 -1112.059692,517.948242"
+              class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e n-40ddfcf14d97e311e1a3ba5ab8663f07"
+              stroke-opacity="1.0" stroke="#f77792"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 214.351730,1207.890869 C -188.919052,1335.184570 -984.765991,921.218994 -1112.059692,517.948242"
+              class="n-a687c3d926f30b6096a2ea2edf0cbac7 n-40ddfcf14d97e311e1a3ba5ab8663f07"
+              stroke-opacity="1.0" stroke="#9bd280"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1148.740601,430.513916 C 1117.338135,772.867065 556.704895,1239.293335 214.351730,1207.890869"
+              class="n-f2306ef619395d7f3717f60d4a384768 n-a687c3d926f30b6096a2ea2edf0cbac7"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1148.740601,430.513916 C 714.067383,900.160889 -642.412720,952.621460 -1112.059692,517.948242"
+              class="n-f2306ef619395d7f3717f60d4a384768 n-40ddfcf14d97e311e1a3ba5ab8663f07"
+              stroke-opacity="1.0" stroke="#9b809b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1148.740601,430.513916 C 1128.505981,755.836914 610.169495,1213.469482 284.846466,1193.234863"
+              class="n-f2306ef619395d7f3717f60d4a384768 n-50d645bb76da523c1a0c1a232b3dfc64"
+              stroke-opacity="1.0" stroke="#40a4db"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1148.740601,430.513916 C 1036.439209,293.155029 1074.025513,-81.335297 1211.384277,-193.636688"
+              class="n-f2306ef619395d7f3717f60d4a384768 n-941f1aa919727d7e6a73fef393ff839a"
+              stroke-opacity="1.0" stroke="#40a4c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1112.059692,517.948242 C -1239.903076,435.979126 -1308.714355,121.260506 -1226.745239,-6.582824"
+              class="n-40ddfcf14d97e311e1a3ba5ab8663f07 n-f04943084a12420a06516460423b4c2d"
+              stroke-opacity="1.0" stroke="#f7ae40"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1142.510376,-446.785217 C 1305.276489,-299.939117 1329.156494,164.479202 1182.310303,327.245300"
+              class="n-36d7507c785f36873199459754b113af n-c9834eb323f16ae3237b0551dfb23808"
+              stroke-opacity="1.0" stroke="#c9929b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1142.510376,-446.785217 C 879.926697,-453.207886 495.685242,-856.717346 502.107941,-1119.301025"
+              class="n-36d7507c785f36873199459754b113af n-8e110c10f53ebfc0a08100e38421649c"
+              stroke-opacity="1.0" stroke="#9bd29b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1142.510376,-446.785217 C 824.730042,-426.390717 317.467773,-872.469482 297.073273,-1190.249756"
+              class="n-36d7507c785f36873199459754b113af n-5ca332f6115c096d86b3b79328117b3a"
+              stroke-opacity="1.0" stroke="#9bb79b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1142.510376,-446.785217 C 947.005859,-471.299255 690.520203,-801.327026 715.034241,-996.831543"
+              class="n-36d7507c785f36873199459754b113af n-ebc8aaf7f28525e79bece45f529abef3"
+              stroke-opacity="1.0" stroke="#9bee9b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1142.510376,-446.785217 C 1250.395264,114.737595 569.938354,1118.849121 8.415527,1226.734009"
+              class="n-36d7507c785f36873199459754b113af n-82d4c89bf7c1cbc543c5d9cf51a71de3"
+              stroke-opacity="1.0" stroke="#9bee80"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 991.194580,-722.828003 C 1043.659790,-710.372375 1103.674194,-612.991150 1091.218506,-560.526001"
+              class="n-d3c8c49c6e121caff1ecc291f55e2402 n-144c53ad86bddc4976b96dab3af545c0"
+              stroke-opacity="1.0" stroke="#9cf740"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 991.194580,-722.828003 C 1264.780396,-495.336975 1333.922729,256.278259 1106.431641,529.864136"
+              class="n-d3c8c49c6e121caff1ecc291f55e2402 n-a8331af903ee62afa4f4cb510a0f6d7e"
+              stroke-opacity="1.0" stroke="#6ea49b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 991.194580,-722.828003 C 1283.977051,-360.941498 1180.321045,621.062134 818.434509,913.844666"
+              class="n-d3c8c49c6e121caff1ecc291f55e2402 n-b6ccd39525df37bd2e21155fc9f56b9d"
+              stroke-opacity="1.0" stroke="#c99b92"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 991.194580,-722.828003 C 1199.198120,-607.885254 1338.789307,-123.465897 1223.846558,84.537636"
+              class="n-d3c8c49c6e121caff1ecc291f55e2402 n-b326b0ddc0a7096917f7c933fb459628"
+              stroke-opacity="1.0" stroke="#9c9b9b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 284.846466,1193.234863 C 192.779724,730.553040 748.702393,-101.569946 1211.384277,-193.636688"
+              class="n-50d645bb76da523c1a0c1a232b3dfc64 n-941f1aa919727d7e6a73fef393ff839a"
+              stroke-opacity="1.0" stroke="#40f7a4"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f7ae40" r="64.5143" cx="-217.88622"
+                class="n-b3182ad279a53a4ad4fc5c1b44b47838" cy="-1207.2583"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="53.511696" cx="1182.3103"
+                class="n-c9834eb323f16ae3237b0551dfb23808" cy="327.2453"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40c0f7" r="59.012997" cx="502.10794"
+                class="n-8e110c10f53ebfc0a08100e38421649c" cy="-1119.301"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="31.506498" cx="-330.15213"
+                class="n-824857fef57c56987ea62f89a5dc86d8" cy="-1181.5018"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-396.06256"
+                class="n-4a4725026639e5b052dda63aa73e243c" cy="-1161.0691"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f77740" r="59.012997" cx="-70.776276"
+                class="n-ef14d5cb52a89ac38a6e4f0b21839d08" cy="-1224.7195"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="81.018196" cx="-515.22296"
+                class="n-9f7fb68b474da60d1b3111cea989f455" cy="-1113.325"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40c0f7" r="42.509098" cx="388.66196"
+                class="n-069c2fe8ee3ea9cc5c467e7300febb3e" cy="-1163.5674"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="53.511696" cx="-656.8538"
+                class="n-bb534f0d741ab7e6809cc9db989faa3b" cy="-1036.0938"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4089f7" r="37.007797" cx="297.07327"
+                class="n-5ca332f6115c096d86b3b79328117b3a" cy="-1190.2498"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="31.506498" cx="-1081.1775"
+                class="n-cbdafa44d7a916b0e7a328b05625c9c5" cy="579.65704"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f752" r="26.0052" cx="948.9838"
+                class="n-4a548b8eff5cdcafd2133f78d2b0686e" cy="-777.41675"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3f740" r="37.007797" cx="829.532"
+                class="n-b791ddd166612cd31be2bdd5e030116a" cy="-903.7831"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f74077" r="48.0104" cx="652.2722"
+                class="n-0bd6c893b56fbfa639906f2afad48278" cy="-1038.9841"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4052f7" r="53.511696" cx="1061.914"
+                class="n-31a3768492f0d00fc604c13c58fc07a3" cy="614.236"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="48.0104" cx="364.11728"
+                class="n-6f9133b6361cce297f54aadc436dd8a6" cy="1171.4801"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7e540" r="31.506498" cx="1199.9697"
+                class="n-f5de94f96dca12705eca643228002da6" cy="-254.98964"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="48.0104" cx="-1032.8671"
+                class="n-f8a62275c70d02d83d4bbfecb0aab8e4" cy="661.916"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="42.509098" cx="-751.13165"
+                class="n-b6dfc7e0a677060743edb94c10f93293" cy="-969.9218"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="42.509098" cx="-970.28815"
+                class="n-93702020f00c3e60474e31a211d6afa6" cy="750.6584"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="37.007797" cx="-909.02545"
+                class="n-7c141572c9fad8b56945e69509317c21" cy="823.7838"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="26.0052" cx="1204.1637"
+                class="n-d5d7ee9a93da04fe8b32ad9644c917fd" cy="234.38593"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7f7" r="15.0026" cx="715.03424"
+                class="n-ebc8aaf7f28525e79bece45f529abef3" cy="-996.83154"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9cf740" r="53.511696" cx="1091.2185"
+                class="n-144c53ad86bddc4976b96dab3af545c0" cy="-560.526"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4052f7" r="26.0052" cx="1106.4316"
+                class="n-a8331af903ee62afa4f4cb510a0f6d7e" cy="529.86414"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740ae" r="26.0052" cx="187.6942"
+                class="n-1c44d770d6d2ca69f0d04265395a8ab2" cy="-1212.3192"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#65f740" r="37.007797" cx="63.580856"
+                class="n-6e54ed3b54a56c596b59c98069e11a23" cy="-1225.1141"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="26.0052" cx="1214.5251"
+                class="n-67d82ef6e0447b8e4634b3545699f471" cy="172.84634"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9cf740" r="37.007797" cx="1037.3768"
+                class="n-212a30c556e316b4e05805c7f60b5253" cy="-654.82556"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="20.503899" cx="-861.2682"
+                class="n-14a96bb52a34b7fc3db046519b03db63" cy="873.5927"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="9.5013" cx="-799.484"
+                class="n-b5f4554ca1139406bbf19407c036b29e" cy="-930.46893"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="9.5013" cx="-835.26044"
+                class="n-5eb86583b0e860a05bf898fe83f20a28" cy="898.4916"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3f740" r="31.506498" cx="767.14386"
+                class="n-3c8cf7d145e431e158cab8169244d77b" cy="-957.3074"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-840.9733"
+                class="n-dd255f0f04bf08a95fd10ab4b4eb076c" cy="-893.14667"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="64.5143" cx="-768.07745"
+                class="n-732a884646056b91f40b2508d2625292" cy="956.5585"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f789" r="26.0052" cx="1225.7513"
+                class="n-ff70ca8d68fafd6cf90912c30f7d22be" cy="-49.80658"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="53.511696" cx="478.46872"
+                class="n-1c107b48a22d7c879d3d0d973662ea68" cy="1129.6083"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="37.007797" cx="576.4845"
+                class="n-631729a006c499ef3be2997431989aeb" cy="1082.8724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="42.509098" cx="-663.9144"
+                class="n-62a6ffc7e686a9c827ff1869beae8551" cy="1031.5836"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="15.0026" cx="-604.8609"
+                class="n-a59973966d0a0f51e8f314eb396e2ba2" cy="1067.2817"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f789" r="37.007797" cx="1220.3556"
+                class="n-6b36d96e95cf935cfea1f45ff488c782" cy="-125.217415"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7e540" r="42.509098" cx="1178.3807"
+                class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a" cy="-341.1246"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="37.007797" cx="-549.8029"
+                class="n-1274b6f44c7b86678d9e1dd6762215ef" cy="1096.6603"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="75.51689" cx="-933.99426"
+                class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" cy="-795.3627"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="53.511696" cx="-1026.6843"
+                class="n-4215afe5854208880582d0f71519ee76" cy="-671.4659"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="53.511696" cx="-1091.2299"
+                class="n-5feafbe172ad344c801824e415111694" cy="-560.5038"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="42.509098" cx="-1138.9884"
+                class="n-099b8de8d353feaa1bca9611e377a2fe" cy="-455.68896"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-1170.9535"
+                class="n-5fad4b58530069c71a52db3843e0962d" cy="-365.8075"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="42.509098" cx="658.88477"
+                class="n-249a5f4f79f8e761bb146139d6384748" cy="1034.8033"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="15.0026" cx="-493.32217"
+                class="n-3b9f807342b596c6d0539735f8c63c9d" cy="1123.2009"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="37.007797" cx="737.3007"
+                class="n-2be66c385dcec925244f426e7c87be0f" cy="980.47675"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-1194.3474"
+                class="n-731f09557fe178893b4c83fe3eb3d9b8" cy="-280.14514"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="42.509098" cx="-429.38712"
+                class="n-6a6516d7acedf463d1ddcc48eeb927d6" cy="1149.1622"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-1209.336"
+                class="n-0f78f132f619ea84f5a90b306010bbaa" cy="-206.04219"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-1218.2494"
+                class="n-e00ab874358986ff20a93e1528427647" cy="-144.27625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-1224.01"
+                class="n-beaa20e417dd228c02bb2aed4bb1b29c" cy="-82.13696"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-1226.7452"
+                class="n-f04943084a12420a06516460423b4c2d" cy="-6.582824"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="15.0026" cx="-1225.4927"
+                class="n-f244a13a8bb3b4ab279cec46514e36dd" cy="55.810352"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="9.5013" cx="-1223.8031"
+                class="n-7811ed0cab8fb995a4bd4549a11b324a" cy="85.16574"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="20.503899" cx="-1220.7766"
+                class="n-74dbf2da0bc4397e47cd4e29f5638e54" cy="121.04327"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-1212.0394"
+                class="n-3a800d1e945d3f4cc92cf5c5273b7d3c" cy="189.49283"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="9.5013" cx="-370.39227"
+                class="n-6a2c05c5c05bef57b0f2e1450b41d11a" cy="1169.5112"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="4.0" cx="776.02716"
+                class="n-051466c5effe1251ea867e57126cef80" cy="950.1205"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="42.509098" cx="818.4345"
+                class="n-b6ccd39525df37bd2e21155fc9f56b9d" cy="913.84467"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="48.0104" cx="1223.8466"
+                class="n-b326b0ddc0a7096917f7c933fb459628" cy="84.537636"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f74077" r="4.0" cx="598.5919"
+                class="n-e14f430492c9c597b45ffa7db96ff8d0" cy="-1070.8103"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="15.0026" cx="-1200.8347"
+                class="n-d9963669d09f2c2f6b01a79d9403a12f" cy="250.88446"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-1189.8077"
+                class="n-87227ad498af54dab1cf613c645ea5b5" cy="298.83902"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="42.509098" cx="-310.43893"
+                class="n-59a1a586f2629258a35fc0c101152443" cy="1186.834"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="37.007797" cx="-1169.1399"
+                class="n-c4a7d8384f746b025b0301e090b12769" cy="371.56284"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="31.506498" cx="-223.77286"
+                class="n-b2db6de1e3f4b90de5488a6de0e5d352" cy="1206.181"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="31.506498" cx="-149.048"
+                class="n-e0224475f6ebe76041f45575d29bccca" cy="1217.6748"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="26.0052" cx="877.7968"
+                class="n-c74c6bea3d70cb3b27f305ecbbd2a822" cy="856.98303"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="15.0026" cx="911.45776"
+                class="n-ab6a08d42b9c58d94c8ec04fdfda99de" cy="821.09186"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f752" r="26.0052" cx="908.2213"
+                class="n-97420b352ca90b32466c1cc5a7aa2890" cy="-824.6703"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="9.5013" cx="-1151.032"
+                class="n-fa1d2c3f1128cd8681d87ed86538c05d" cy="424.34943"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7e540" r="9.5013" cx="1159.5085"
+                class="n-97554ec96345aa4ff8106b532b87360f" cy="-400.60837"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="9.5013" cx="1226.6638"
+                class="n-c1341729bdf5390766c6a983a2802edf" cy="15.590226"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4052f7" r="9.5013" cx="1124.164"
+                class="n-fc9adb4b590cd446c161e0463e499bcb" cy="491.12384"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="31.506498" cx="-73.75705"
+                class="n-caf77575b51eee9cbaff9cf680ff57ab" cy="1224.5436"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="37.007797" cx="8.415527"
+                class="n-82d4c89bf7c1cbc543c5d9cf51a71de3" cy="1226.734"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="37.007797" cx="952.03406"
+                class="n-be11f0f6124f6f720fe535a950de393c" cy="773.67834"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="37.007797" cx="97.13253"
+                class="n-bead10f9ad5c159d1c9b54eeae8fa90c" cy="1222.9114"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6540f7" r="20.503899" cx="132.3652"
+                class="n-d8b5ea5af0006c87f398ebbac9908d15" cy="-1219.601"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4089f7" r="15.0026" cx="236.16016"
+                class="n-09401f3e48adff9816c7e363aced58c6" cy="-1203.817"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f752" r="15.0026" cx="874.41943"
+                class="n-9c1cd19730f7cabf171e1df09c6b0859" cy="-860.42883"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="9.5013" cx="986.235"
+                class="n-38d3416d0f85deca3212b7dec38b02c5" cy="729.5805"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="9.5013" cx="-1142.9458"
+                class="n-a2537f5084a521bc425a30aaddb5b60e" cy="445.67032"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="20.503899" cx="165.73994"
+                class="n-5c90a19468005dc7baad68370f7c084a" cy="1215.5153"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="15.0026" cx="-1131.936"
+                class="n-896d1776f932049b707879dc9ca6b176" cy="472.9353"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4052f7" r="4.0" cx="1130.5519"
+                class="n-6b5318fee358509bb38c5c72dc92e256" cy="476.2349"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f740e5" r="26.0052" cx="1010.9748"
+                class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e" cy="694.89355"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="20.503899" cx="214.35173"
+                class="n-a687c3d926f30b6096a2ea2edf0cbac7" cy="1207.8909"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4052f7" r="37.007797" cx="1148.7406"
+                class="n-f2306ef619395d7f3717f60d4a384768" cy="430.51392"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7ae40" r="26.0052" cx="-1112.0597"
+                class="n-40ddfcf14d97e311e1a3ba5ab8663f07" cy="517.94824"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d340f7" r="4.0" cx="4.799988"
+                class="n-48ff350916bffde68ada112badb6ebd1" cy="-1226.7534"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f74077" r="4.0" cx="590.1941"
+                class="n-cfc667ab0fd0ad558cf6e889e1e707a5" cy="-1075.4618"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7e540" r="31.506498" cx="1142.5104"
+                class="n-36d7507c785f36873199459754b113af" cy="-446.78522"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3f740" r="4.0" cx="733.4388"
+                class="n-32748d6b265589b61c1f514ce7bde8d4" cy="-983.369"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f74040" r="4.0" cx="14.39967"
+                class="n-622a23288ca4067f97a5d7f65c470b51" cy="-1226.6783"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f74077" r="9.5013" cx="575.9397"
+                class="n-89b476ce56d6a9f64d3b53045f8395f3" cy="-1083.1624"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9cf740" r="31.506498" cx="991.1946"
+                class="n-d3c8c49c6e121caff1ecc291f55e2402" cy="-722.828"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9c40f7" r="9.5013" cx="1226.7417"
+                class="n-88866d567af1d8b6bbbde7a0d5d4e02c" cy="-7.2124324"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7e540" r="9.5013" cx="1123.6742"
+                class="n-8fc9867a1be6b6769b93b6d1350e526d" cy="-492.24326"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="9.5013" cx="249.70665"
+                class="n-a42b3b45284e0aa7491c18587d1821fc" cy="1201.0802"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f7c0" r="20.503899" cx="284.84647"
+                class="n-50d645bb76da523c1a0c1a232b3dfc64" cy="1193.2349"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#40f789" r="20.503899" cx="1211.3843"
+                class="n-941f1aa919727d7e6a73fef393ff839a" cy="-193.63669"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-217.88622" y="-1204.4429" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b3182ad279a53a4ad4fc5c1b44b47838">
+            How We Think: Digital Media and Contemporary Techn...
+        </text>
+        <text font-size="12" x="1182.3103" y="329.46454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-c9834eb323f16ae3237b0551dfb23808">
+            Electronic Literature: New Horizons for the Litera...
+        </text>
+        <text font-size="12" x="502.10794" y="-1116.4856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-8e110c10f53ebfc0a08100e38421649c">
+            How We Became Posthuman: Virtual Bodies in Cyberne...
+        </text>
+        <text font-size="12" x="-330.15213" y="-1178.723" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-824857fef57c56987ea62f89a5dc86d8">
+            Understanding Digital Humanities
+        </text>
+        <text font-size="12" x="-396.06256" y="-1158.2903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-4a4725026639e5b052dda63aa73e243c">
+            Debates in the Digital Humanities
+        </text>
+        <text font-size="12" x="-70.776276" y="-1222.5002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-ef14d5cb52a89ac38a6e4f0b21839d08">
+            The Interface Effect
+        </text>
+        <text font-size="12" x="-515.22296" y="-1110.5461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-9f7fb68b474da60d1b3111cea989f455">
+            Alien Phenomenology, or What it&apos;s Like to be a Thi...
+        </text>
+        <text font-size="12" x="388.66196" y="-1160.752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-069c2fe8ee3ea9cc5c467e7300febb3e">
+            Gramophone, Film, Typewriter (Writing Science)
+        </text>
+        <text font-size="12" x="-656.8538" y="-1033.2783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-bb534f0d741ab7e6809cc9db989faa3b">
+            What is Media Archaeology?
+        </text>
+        <text font-size="12" x="297.07327" y="-1187.4343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-5ca332f6115c096d86b3b79328117b3a">
+            Cybertext: Perspectives on Ergodic Literature
+        </text>
+        <text font-size="12" x="-1081.1775" y="582.4725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-cbdafa44d7a916b0e7a328b05625c9c5">
+            Reality is Broken: Why Games Make Us Better and Ho...
+        </text>
+        <text font-size="12" x="948.9838" y="-774.6013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-4a548b8eff5cdcafd2133f78d2b0686e">
+            Theory of Fun for Game Design
+        </text>
+        <text font-size="12" x="829.532" y="-900.96765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b791ddd166612cd31be2bdd5e030116a">
+            Writing Machines (Mediaworks Pamphlet)
+        </text>
+        <text font-size="12" x="652.2722" y="-1036.2053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-0bd6c893b56fbfa639906f2afad48278">
+            Remediation: Understanding New Media
+        </text>
+        <text font-size="12" x="1061.914" y="616.4567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-31a3768492f0d00fc604c13c58fc07a3">
+            The Case for Books: 256
+        </text>
+        <text font-size="12" x="364.11728" y="1173.7008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6f9133b6361cce297f54aadc436dd8a6">
+            Merchants of Culture
+        </text>
+        <text font-size="12" x="1199.9697" y="-252.17421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-f5de94f96dca12705eca643228002da6">
+            The Gutenberg Elegies: The Fate of Reading in an E...
+        </text>
+        <text font-size="12" x="-1032.8671" y="664.73145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-f8a62275c70d02d83d4bbfecb0aab8e4">
+            The Late Age of Print: Everyday Book Culture from ...
+        </text>
+        <text font-size="12" x="-751.13165" y="-967.7011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b6dfc7e0a677060743edb94c10f93293">
+            Merchants of Culture
+        </text>
+        <text font-size="12" x="-970.28815" y="753.4372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-93702020f00c3e60474e31a211d6afa6">
+            Publishing: Principles and Practice
+        </text>
+        <text font-size="12" x="-909.02545" y="826.59924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-7c141572c9fad8b56945e69509317c21">
+            The Professionals&amp;quot; Guide to Publishing: A Pra...
+        </text>
+        <text font-size="12" x="1204.1637" y="237.20282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-d5d7ee9a93da04fe8b32ad9644c917fd">
+            Convergence Culture: Where Old and New Media Collide
+        </text>
+        <text font-size="12" x="715.03424" y="-994.0161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-ebc8aaf7f28525e79bece45f529abef3">
+            Writing Space: Computers, Hypertext, and the Remed...
+        </text>
+        <text font-size="12" x="1091.2185" y="-557.7106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-144c53ad86bddc4976b96dab3af545c0">
+            Books in the Digital Age: The Transformation of Ac...
+        </text>
+        <text font-size="12" x="1106.4316" y="532.67957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-a8331af903ee62afa4f4cb510a0f6d7e">
+            A Companion to the History of the Book (Blackwell ...
+        </text>
+        <text font-size="12" x="187.6942" y="-1209.5038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-1c44d770d6d2ca69f0d04265395a8ab2">
+            Simians, Cyborgs and Women: The Reinvention of Nat...
+        </text>
+        <text font-size="12" x="63.580856" y="-1222.9315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6e54ed3b54a56c596b59c98069e11a23">
+            We Have Never Been Modern
+        </text>
+        <text font-size="12" x="1214.5251" y="175.66177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-67d82ef6e0447b8e4634b3545699f471">
+            The Medium is the Massage: An Inventory of Effects...
+        </text>
+        <text font-size="12" x="1037.3768" y="-652.01013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-212a30c556e316b4e05805c7f60b5253">
+            Understanding Media (Routledge Classics)
+        </text>
+        <text font-size="12" x="-861.2682" y="876.40814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-14a96bb52a34b7fc3db046519b03db63">
+            Bubbles: Spheres I - Microspherology: Spheres Volu...
+        </text>
+        <text font-size="12" x="-799.484" y="-927.65204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b5f4554ca1139406bbf19407c036b29e">
+            Unoriginal Genius: Poetry by Other Means in the Ne...
+        </text>
+        <text font-size="12" x="-835.26044" y="901.2704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-5eb86583b0e860a05bf898fe83f20a28">
+            Uncreative Writing: Managing Language in the Digit...
+        </text>
+        <text font-size="12" x="767.14386" y="-954.49194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-3c8cf7d145e431e158cab8169244d77b">
+            The Language of New Media (Leonardo Book Series)
+        </text>
+        <text font-size="12" x="-840.9733" y="-890.9274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-dd255f0f04bf08a95fd10ab4b4eb076c">
+            Life After New Media: Mediation as a Vital Process
+        </text>
+        <text font-size="12" x="-768.07745" y="959.3373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-732a884646056b91f40b2508d2625292">
+            Alone Together
+        </text>
+        <text font-size="12" x="1225.7513" y="-46.99115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-ff70ca8d68fafd6cf90912c30f7d22be">
+            Reassembling the Social: An Introduction to Actor-...
+        </text>
+        <text font-size="12" x="478.46872" y="1132.4237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-1c107b48a22d7c879d3d0d973662ea68">
+            Towards Speculative Realism: Essays and Lectures
+        </text>
+        <text font-size="12" x="576.4845" y="1085.6879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-631729a006c499ef3be2997431989aeb">
+            Vibrant Matter: A Political Ecology of Things (Joh...
+        </text>
+        <text font-size="12" x="-663.9144" y="1033.8029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-62a6ffc7e686a9c827ff1869beae8551">
+            The Prince and the Wolf: Latour and Harman at the ...
+        </text>
+        <text font-size="12" x="-604.8609" y="1070.0986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-a59973966d0a0f51e8f314eb396e2ba2">
+            Semblance and Event: Activist Philosophy and the O...
+        </text>
+        <text font-size="12" x="1220.3556" y="-122.43714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6b36d96e95cf935cfea1f45ff488c782">
+            Graphs, Maps, Trees: Abstract Models for a Literar...
+        </text>
+        <text font-size="12" x="1178.3807" y="-338.3458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-4f8641c4ddf5b4c5a5b3d210b4b6972a">
+            The Book History Reader
+        </text>
+        <text font-size="12" x="-549.8029" y="1098.8795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-1274b6f44c7b86678d9e1dd6762215ef">
+            The Information
+        </text>
+        <text font-size="12" x="-933.99426" y="-792.5824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6bf0223d3c8d5c253045dcd2fc3d3f0d">
+            Networks without a Cause: A Critique of Social Media
+        </text>
+        <text font-size="12" x="-1026.6843" y="-669.2452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-4215afe5854208880582d0f71519ee76">
+            The Social Media Reader
+        </text>
+        <text font-size="12" x="-1091.2299" y="-557.68835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-5feafbe172ad344c801824e415111694">
+            Misunderstanding the Internet (Communication and S...
+        </text>
+        <text font-size="12" x="-1138.9884" y="-452.87354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-099b8de8d353feaa1bca9611e377a2fe">
+            Media, Society, World: Social Theory and Digital M...
+        </text>
+        <text font-size="12" x="-1170.9535" y="-362.9906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-5fad4b58530069c71a52db3843e0962d">
+            Networks of Outrage and Hope: Social Movements in ...
+        </text>
+        <text font-size="12" x="658.88477" y="1037.6188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-249a5f4f79f8e761bb146139d6384748">
+            Personal Connections in the Digital Age (DMS - Dig...
+        </text>
+        <text font-size="12" x="-493.32217" y="1126.0164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-3b9f807342b596c6d0539735f8c63c9d">
+            Understanding Social Networks: Theories, Concepts,...
+        </text>
+        <text font-size="12" x="737.3007" y="983.2922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-2be66c385dcec925244f426e7c87be0f">
+            Blog Theory: Feedback and Capture in the Circuits ...
+        </text>
+        <text font-size="12" x="-1194.3474" y="-277.32825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-731f09557fe178893b4c83fe3eb3d9b8">
+            Digital Vertigo: How Today&amp;quot;s Online Social Re...
+        </text>
+        <text font-size="12" x="-429.38712" y="1151.941" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6a6516d7acedf463d1ddcc48eeb927d6">
+            Media Archaeology: Approaches, Applications, and I...
+        </text>
+        <text font-size="12" x="-1209.336" y="-203.22676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-0f78f132f619ea84f5a90b306010bbaa">
+            MP3: The Meaning of a Format (Sign, Storage, Trans...
+        </text>
+        <text font-size="12" x="-1218.2494" y="-142.05554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-e00ab874358986ff20a93e1528427647">
+            The Sound Studies Reader
+        </text>
+        <text font-size="12" x="-1224.01" y="-79.32153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-beaa20e417dd228c02bb2aed4bb1b29c">
+            Gilbert Simondon and the Philosophy of the Transin...
+        </text>
+        <text font-size="12" x="-1226.7452" y="-3.7673945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-f04943084a12420a06516460423b4c2d">
+            The Making of the Indebted Man: Essay on the Neoli...
+        </text>
+        <text font-size="12" x="-1225.4927" y="58.627247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-f244a13a8bb3b4ab279cec46514e36dd">
+            Automate This: How Algorithms Came to Rule Our World
+        </text>
+        <text font-size="12" x="-1223.8031" y="87.34836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-7811ed0cab8fb995a4bd4549a11b324a">
+            The Fractal Prince
+        </text>
+        <text font-size="12" x="-1220.7766" y="123.86016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-74dbf2da0bc4397e47cd4e29f5638e54">
+            The Uprising: On Poetry and Finance (Semiotext(e) ...
+        </text>
+        <text font-size="12" x="-1212.0394" y="192.30826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-3a800d1e945d3f4cc92cf5c5273b7d3c">
+            Laruelle and Non-philosophy (Critical Connections)
+        </text>
+        <text font-size="12" x="-370.39227" y="1172.3267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6a2c05c5c05bef57b0f2e1450b41d11a">
+            The Public Value of the Humanities (Wish List) (Th...
+        </text>
+        <text font-size="12" x="776.02716" y="952.9359" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-051466c5effe1251ea867e57126cef80">
+            Boris Groys: Going Public (E-Flux Journal)
+        </text>
+        <text font-size="12" x="818.4345" y="916.6601" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b6ccd39525df37bd2e21155fc9f56b9d">
+            Publishing for Profit: Successful Bottom-Line Mana...
+        </text>
+        <text font-size="12" x="1223.8466" y="87.316444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b326b0ddc0a7096917f7c933fb459628">
+            Inside Book Publishing
+        </text>
+        <text font-size="12" x="598.5919" y="-1067.9934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-e14f430492c9c597b45ffa7db96ff8d0">
+            History by Numbers: An Introduction to Quantitativ...
+        </text>
+        <text font-size="12" x="-1200.8347" y="253.69989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-d9963669d09f2c2f6b01a79d9403a12f">
+            The Signal and the Noise: The Art and Science of P...
+        </text>
+        <text font-size="12" x="-1189.8077" y="301.65445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-87227ad498af54dab1cf613c645ea5b5">
+            Slime Dynamics
+        </text>
+        <text font-size="12" x="-310.43893" y="1189.6509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-59a1a586f2629258a35fc0c101152443">
+            The Quadruple Object
+        </text>
+        <text font-size="12" x="-1169.1399" y="374.37827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-c4a7d8384f746b025b0301e090b12769">
+            Weird Realism: Lovecraft and Philosophy
+        </text>
+        <text font-size="12" x="-223.77286" y="1208.9613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-b2db6de1e3f4b90de5488a6de0e5d352">
+            The Speculative Turn: Continental Materialism and ...
+        </text>
+        <text font-size="12" x="-149.048" y="1220.4902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-e0224475f6ebe76041f45575d29bccca">
+            How to Do Things with Videogames (Electronic Media...
+        </text>
+        <text font-size="12" x="877.7968" y="859.79846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-c74c6bea3d70cb3b27f305ecbbd2a822">
+            Persuasive Games: The Expressive Power of Videogames
+        </text>
+        <text font-size="12" x="911.45776" y="823.9073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-ab6a08d42b9c58d94c8ec04fdfda99de">
+            Replay: the History of Video Games
+        </text>
+        <text font-size="12" x="908.2213" y="-821.85486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-97420b352ca90b32466c1cc5a7aa2890">
+            World-systems Analysis: An Introduction (A John Ho...
+        </text>
+        <text font-size="12" x="-1151.032" y="427.16486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-fa1d2c3f1128cd8681d87ed86538c05d">
+            Are You My Mother?
+        </text>
+        <text font-size="12" x="1159.5085" y="-397.79294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-97554ec96345aa4ff8106b532b87360f">
+            The Penguin Freud Reader (Penguin Modern Classics ...
+        </text>
+        <text font-size="12" x="1226.6638" y="18.405655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-c1341729bdf5390766c6a983a2802edf">
+            How to Read World Literature (How to Study Literat...
+        </text>
+        <text font-size="12" x="1124.164" y="493.93927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-fc9adb4b590cd446c161e0463e499bcb">
+            Mythologies (Vintage Classics)
+        </text>
+        <text font-size="12" x="-73.75705" y="1227.359" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-caf77575b51eee9cbaff9cf680ff57ab">
+            The Shallows: How the Internet is Changing the Way...
+        </text>
+        <text font-size="12" x="8.415527" y="1229.5494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-82d4c89bf7c1cbc543c5d9cf51a71de3">
+            You Are Not A Gadget: A Manifesto
+        </text>
+        <text font-size="12" x="952.03406" y="776.4938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-be11f0f6124f6f720fe535a950de393c">
+            A Networked Self: Identity, Community, and Culture...
+        </text>
+        <text font-size="12" x="97.13253" y="1225.094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-bead10f9ad5c159d1c9b54eeae8fa90c">
+            The Net Delusion: How Not to Liberate The World
+        </text>
+        <text font-size="12" x="132.3652" y="-1216.7855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-d8b5ea5af0006c87f398ebbac9908d15">
+            Genius: Richard Feynman and Modern Physics
+        </text>
+        <text font-size="12" x="236.16016" y="-1201.0016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-09401f3e48adff9816c7e363aced58c6">
+            Chaos: Making a New Science
+        </text>
+        <text font-size="12" x="874.41943" y="-858.2462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-9c1cd19730f7cabf171e1df09c6b0859">
+            Isaac Newton
+        </text>
+        <text font-size="12" x="986.235" y="732.39594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-38d3416d0f85deca3212b7dec38b02c5">
+            Information: A Very Short Introduction (Very Short...
+        </text>
+        <text font-size="12" x="-1142.9458" y="448.4872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-a2537f5084a521bc425a30aaddb5b60e">
+            Turing&amp;quot;s Cathedral: The Origins of the Digita...
+        </text>
+        <text font-size="12" x="165.73994" y="1218.3307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-5c90a19468005dc7baad68370f7c084a">
+            Gilles Deleuze&amp;quot;s Philosophy of Time: A Critic...
+        </text>
+        <text font-size="12" x="-1131.936" y="475.7141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-896d1776f932049b707879dc9ca6b176">
+            Essays on Deleuze
+        </text>
+        <text font-size="12" x="1130.5519" y="479.05032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-6b5318fee358509bb38c5c72dc92e256">
+            Film Theory: An Introduction Through the Senses
+        </text>
+        <text font-size="12" x="1010.9748" y="697.11426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-1f93eeb46b9214d0ca1ab7bf19f7a27e">
+            Post Cinematic Affect
+        </text>
+        <text font-size="12" x="214.35173" y="1210.6711" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-a687c3d926f30b6096a2ea2edf0cbac7">
+            Non Stop Inertia
+        </text>
+        <text font-size="12" x="1148.7406" y="433.32935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-f2306ef619395d7f3717f60d4a384768">
+            Capitalist Realism: Is There No Alternative? (Zero...
+        </text>
+        <text font-size="12" x="-1112.0597" y="520.72705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-40ddfcf14d97e311e1a3ba5ab8663f07">
+            Dead Man Working
+        </text>
+        <text font-size="12" x="4.799988" y="-1223.938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-48ff350916bffde68ada112badb6ebd1">
+            Sculpting in Time: Reflections on the Cinema
+        </text>
+        <text font-size="12" x="590.1941" y="-1072.6449" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-cfc667ab0fd0ad558cf6e889e1e707a5">
+            A Brief History of the Future: Origins of the Inte...
+        </text>
+        <text font-size="12" x="1142.5104" y="-443.9698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-36d7507c785f36873199459754b113af">
+            Hypertext 3.0: Critical Theory and New Media in an...
+        </text>
+        <text font-size="12" x="733.4388" y="-980.5536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-32748d6b265589b61c1f514ce7bde8d4">
+            Managing Records: A Handbook of Principles and Pra...
+        </text>
+        <text font-size="12" x="14.39967" y="-1223.8981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-622a23288ca4067f97a5d7f65c470b51">
+            A Critique of Modern Textual Criticism
+        </text>
+        <text font-size="12" x="575.9397" y="-1080.3469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-89b476ce56d6a9f64d3b53045f8395f3">
+            Minimus Pupil&amp;quot;s Book: Starting out in Latin
+        </text>
+        <text font-size="12" x="991.1946" y="-720.0126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-d3c8c49c6e121caff1ecc291f55e2402">
+            A History of British Publishing
+        </text>
+        <text font-size="12" x="1226.7417" y="-4.395538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-88866d567af1d8b6bbbde7a0d5d4e02c">
+            Strange Case of Dr Jekyll and Mr Hyde and Other Ta...
+        </text>
+        <text font-size="12" x="1123.6742" y="-489.42783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-8fc9867a1be6b6769b93b6d1350e526d">
+            Saturday
+        </text>
+        <text font-size="12" x="249.70665" y="1203.8956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-a42b3b45284e0aa7491c18587d1821fc">
+            A Glossary of Literary Terms
+        </text>
+        <text font-size="12" x="284.84647" y="1196.0503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-50d645bb76da523c1a0c1a232b3dfc64">
+            The Enigma of Capital: And the Crises of Capitalism
+        </text>
+        <text font-size="12" x="1211.3843" y="-190.82126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="n-941f1aa919727d7e6a73fef393ff839a">
+            A Brief History of Neoliberalism
+        </text>
+    </g>
+</svg>

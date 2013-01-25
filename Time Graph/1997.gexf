@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-5ca332f6115c096d86b3b79328117b3a" label="Cybertext: Perspectives on Ergodic Literature">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0801855799"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Cybertext: Perspectives on Ergodic Literature"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="120720"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Espen J. Aarseth"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="The Johns Hopkins University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="1997"></attvalue>
+        </attvalues>
+        <viz:size value="37.007797"></viz:size>
+        <viz:position x="1014.2085" y="652.8165" z="0.0"></viz:position>
+        <viz:color r="64" g="137" b="247"></viz:color>
+      </node>
+      <node id="n-09401f3e48adff9816c7e363aced58c6" label="Chaos: Making a New Science">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0749386061"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Chaos: Making a New Science"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="13132"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="James Gleick"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Vintage"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="1997"></attvalue>
+        </attvalues>
+        <viz:size value="15.0026"></viz:size>
+        <viz:position x="2328.7673" y="2782.746" z="0.0"></viz:position>
+        <viz:color r="64" g="137" b="247"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

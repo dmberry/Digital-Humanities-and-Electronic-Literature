@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-0bd6c893b56fbfa639906f2afad48278" label="Remediation: Understanding New Media">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262522799"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Remediation: Understanding New Media"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="327126"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jay David Bolter"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2000"></attvalue>
+        </attvalues>
+        <viz:size value="48.0104"></viz:size>
+        <viz:position x="1380.5474" y="1618.2621" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="119"></viz:color>
+      </node>
+      <node id="n-e14f430492c9c597b45ffa7db96ff8d0" label="History by Numbers: An Introduction to Quantitative Approaches">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0340614684"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="History by Numbers: An Introduction to Quantitative Approaches"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="354036"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Pat Hudson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Bloomsbury Academic"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2000"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1198.8408" y="3307.853" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="119"></viz:color>
+      </node>
+      <node id="n-cfc667ab0fd0ad558cf6e889e1e707a5" label="A Brief History of the Future: Origins of the Internet">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="075381093X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="A Brief History of the Future: Origins of the Internet"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="165426"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John Naughton"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Phoenix"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2000"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="666.06323" y="-3411.003" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="119"></viz:color>
+      </node>
+      <node id="n-89b476ce56d6a9f64d3b53045f8395f3" label="Minimus Pupil&amp;quot;s Book: Starting out in Latin">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0521659604"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Minimus Pupil&amp;quot;s Book: Starting out in Latin"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="8074"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Barbara Bell"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Cambridge University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2000"></attvalue>
+        </attvalues>
+        <viz:size value="9.5013"></viz:size>
+        <viz:position x="-4426.8125" y="1496.467" z="0.0"></viz:position>
+        <viz:color r="247" g="64" b="119"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

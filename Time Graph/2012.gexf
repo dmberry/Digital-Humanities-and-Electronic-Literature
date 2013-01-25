@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-b3182ad279a53a4ad4fc5c1b44b47838" label="How We Think: Digital Media and Contemporary Technogenesis">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226321428"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How We Think: Digital Media and Contemporary Technogenesis"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="227155"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="8.071428"></viz:size>
+        <viz:position x="-6.3384366" y="7.790693" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-824857fef57c56987ea62f89a5dc86d8" label="Understanding Digital Humanities">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0230292658"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Understanding Digital Humanities"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="96980"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Palgrave Macmillan"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.214286"></viz:size>
+        <viz:position x="38.938847" y="-20.582916" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-4a4725026639e5b052dda63aa73e243c" label="Debates in the Digital Humanities">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816677956"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Debates in the Digital Humanities"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="94848"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="18.991953" y="36.081512" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-9f7fb68b474da60d1b3111cea989f455" label="Alien Phenomenology, or What it's Like to be a Thing (Posthumanities)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0816678987"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Alien Phenomenology, or What it's Like to be a Thing (Posthumanities)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="63114"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ian Bogost"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Minnesota Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-236.69086" y="-87.583496" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-bb534f0d741ab7e6809cc9db989faa3b" label="What is Media Archaeology?">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745650260"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="What is Media Archaeology?"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="326690"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jussi Parikka"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="6.785714"></viz:size>
+        <viz:position x="17.786884" y="-62.789722" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-b6dfc7e0a677060743edb94c10f93293" label="Merchants of Culture">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745661068"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Merchants of Culture"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="244345"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John B. Thompson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="-39.486824" y="303.58817" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-b5f4554ca1139406bbf19407c036b29e" label="Unoriginal Genius: Poetry by Other Means in the New Century">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0226660621"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Unoriginal Genius: Poetry by Other Means in the New Century"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="305047"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Marjorie Perloff"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Chicago Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-437.56726" y="7.941439" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-dd255f0f04bf08a95fd10ab4b4eb076c" label="Life After New Media: Mediation as a Vital Process">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262018195"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Life After New Media: Mediation as a Vital Process"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="380616"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Sarah Kember, Joanna Zylinska"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="282.23834" y="48.0837" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" label="Networks without a Cause: A Critique of Social Media">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745649688"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Networks without a Cause: A Critique of Social Media"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="171772"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Geert Lovink"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="9.357142"></viz:size>
+        <viz:position x="313.18436" y="-34.118694" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-4215afe5854208880582d0f71519ee76" label="The Social Media Reader">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0814764061"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Social Media Reader"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="233696"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="New York University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="6.785714"></viz:size>
+        <viz:position x="353.97812" y="7.8135567" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-5feafbe172ad344c801824e415111694" label="Misunderstanding the Internet (Communication and Society)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415579589"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Misunderstanding the Internet (Communication and Society)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="340705"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="James Curran, Natalie Fenton, Des Freedman"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="6.785714"></viz:size>
+        <viz:position x="365.13303" y="-94.385605" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-099b8de8d353feaa1bca9611e377a2fe" label="Media, Society, World: Social Theory and Digital Media Practice">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745639216"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Media, Society, World: Social Theory and Digital Media Practice"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="86127"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nick Couldry"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="5.5"></viz:size>
+        <viz:position x="503.39246" y="-55.29546" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-5fad4b58530069c71a52db3843e0962d" label="Networks of Outrage and Hope: Social Movements in the Internet Age">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0745662854"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Networks of Outrage and Hope: Social Movements in the Internet Age"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="27448"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Manuel Castells"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Polity Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="501.82556" y="35.752697" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-731f09557fe178893b4c83fe3eb3d9b8" label="Digital Vertigo: How Today&amp;quot;s Online Social Revolution Is Dividing, Diminishing, and Disorienting Us">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1780338406"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Digital Vertigo: How Today&amp;quot;s Online Social Revolution Is Dividing, Diminishing, and Disorienting Us"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="120463"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Andrew Keen"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Constable"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="256.71683" y="-191.41154" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-0f78f132f619ea84f5a90b306010bbaa" label="MP3: The Meaning of a Format (Sign, Storage, Transmission)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0822352877"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="MP3: The Meaning of a Format (Sign, Storage, Transmission)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="219332"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Jonathan Sterne"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Duke University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="57.143013" y="-112.89476" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-e00ab874358986ff20a93e1528427647" label="The Sound Studies Reader">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415771315"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Sound Studies Reader"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="145415"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="95.13137" y="-81.636314" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-beaa20e417dd228c02bb2aed4bb1b29c" label="Gilbert Simondon and the Philosophy of the Transindividual (Technologies of Lived Abstraction Series)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262018187"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Gilbert Simondon and the Philosophy of the Transindividual (Technologies of Lived Abstraction Series)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="289014"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Muriel Combes, Thomas Lamarre"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="158.98802" y="-212.81282" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-f04943084a12420a06516460423b4c2d" label="The Making of the Indebted Man: Essay on the Neoliberal Condition (Semiotext(e) / Intervention Series)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1584351152"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Making of the Indebted Man: Essay on the Neoliberal Condition (Semiotext(e) / Intervention Series)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="44602"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Maurizio Lazzarato, Joshua David Jordan"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="-185.65724" y="-226.85233" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-f244a13a8bb3b4ab279cec46514e36dd" label="Automate This: How Algorithms Came to Rule Our World">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1591844924"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Automate This: How Algorithms Came to Rule Our World"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="23598"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Christopher Steiner"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Portfolio Penguin"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="128.05547" y="-48.515247" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-7811ed0cab8fb995a4bd4549a11b324a" label="The Fractal Prince">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0575088923"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Fractal Prince"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="69225"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Hannu Rajaniemi"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Gollancz"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-23.10156" y="-139.49658" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-74dbf2da0bc4397e47cd4e29f5638e54" label="The Uprising: On Poetry and Finance (Semiotext(e) / Intervention Series): On Poverty and Finance">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1584351128"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Uprising: On Poetry and Finance (Semiotext(e) / Intervention Series): On Poverty and Finance"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="97534"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Franco &amp;quot;bifo&amp;quot; Berardi"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="2.9285715"></viz:size>
+        <viz:position x="177.29591" y="-170.63995" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-3a800d1e945d3f4cc92cf5c5273b7d3c" label="Laruelle and Non-philosophy (Critical Connections)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0748645349"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Laruelle and Non-philosophy (Critical Connections)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="353400"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="John Mullarkey, Anthony Paul Smith"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Edinburgh University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="-133.69948" y="-156.39182" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-d9963669d09f2c2f6b01a79d9403a12f" label="The Signal and the Noise: The Art and Science of Prediction">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1846147522"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Signal and the Noise: The Art and Science of Prediction"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="1177"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Nate Silver"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Allen Lane"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="330.85352" y="187.68015" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-87227ad498af54dab1cf613c645ea5b5" label="Slime Dynamics">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1780992483"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Slime Dynamics"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="289688"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Ben Woodard"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="-181.8639" y="-184.55185" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-c4a7d8384f746b025b0301e090b12769" label="Weird Realism: Lovecraft and Philosophy">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1780992521"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Weird Realism: Lovecraft and Philosophy"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="129121"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Graham Harman"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="4.857143"></viz:size>
+        <viz:position x="-216.60576" y="-142.33534" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-fa1d2c3f1128cd8681d87ed86538c05d" label="Are You My Mother?">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0224093525"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Are You My Mother?"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="15167"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Alison Bechdel"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Jonathan Cape"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="-356.29132" y="-241.16176" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-a2537f5084a521bc425a30aaddb5b60e" label="Turing&amp;quot;s Cathedral: The Origins of the Digital Universe">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0713997508"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Turing&amp;quot;s Cathedral: The Origins of the Digital Universe"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="112858"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="George Dyson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Allen Lane"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="1.6428572"></viz:size>
+        <viz:position x="222.93275" y="276.66925" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-896d1776f932049b707879dc9ca6b176" label="Essays on Deleuze">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="074864332X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Essays on Deleuze"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="206624"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Daniel W. Smith"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Edinburgh University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="2.2857144"></viz:size>
+        <viz:position x="4.975415" y="-369.5668" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+      <node id="n-40ddfcf14d97e311e1a3ba5ab8663f07" label="Dead Man Working">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1780991568"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Dead Man Working"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="87877"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Carl Cederstrom, Peter Fleming"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Zero Books"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2012"></attvalue>
+        </attvalues>
+        <viz:size value="3.5714288"></viz:size>
+        <viz:position x="-87.48088" y="-327.19543" z="0.0"></viz:position>
+        <viz:color r="247" g="174" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-824857fef57c56987ea62f89a5dc86d8" weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4a4725026639e5b052dda63aa73e243cn-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-4a4725026639e5b052dda63aa73e243c" weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-9f7fb68b474da60d1b3111cea989f455n-b3182ad279a53a4ad4fc5c1b44b47838" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-9f7fb68b474da60d1b3111cea989f455" weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-b3182ad279a53a4ad4fc5c1b44b47838n-bb534f0d741ab7e6809cc9db989faa3b" source="n-b3182ad279a53a4ad4fc5c1b44b47838" target="n-bb534f0d741ab7e6809cc9db989faa3b" weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4a4725026639e5b052dda63aa73e243cn-824857fef57c56987ea62f89a5dc86d8" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-4a4725026639e5b052dda63aa73e243c" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-824857fef57c56987ea62f89a5dc86d8n-bb534f0d741ab7e6809cc9db989faa3b" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-bb534f0d741ab7e6809cc9db989faa3b" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-6bf0223d3c8d5c253045dcd2fc3d3f0dn-824857fef57c56987ea62f89a5dc86d8" source="n-824857fef57c56987ea62f89a5dc86d8" target="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-87227ad498af54dab1cf613c645ea5b5n-9f7fb68b474da60d1b3111cea989f455" source="n-9f7fb68b474da60d1b3111cea989f455" target="n-87227ad498af54dab1cf613c645ea5b5" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-9f7fb68b474da60d1b3111cea989f455n-c4a7d8384f746b025b0301e090b12769" source="n-9f7fb68b474da60d1b3111cea989f455" target="n-c4a7d8384f746b025b0301e090b12769" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-9f7fb68b474da60d1b3111cea989f455n-bb534f0d741ab7e6809cc9db989faa3b" source="n-bb534f0d741ab7e6809cc9db989faa3b" target="n-9f7fb68b474da60d1b3111cea989f455" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-bb534f0d741ab7e6809cc9db989faa3bn-dd255f0f04bf08a95fd10ab4b4eb076c" source="n-bb534f0d741ab7e6809cc9db989faa3b" target="n-dd255f0f04bf08a95fd10ab4b4eb076c" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-6bf0223d3c8d5c253045dcd2fc3d3f0dn-bb534f0d741ab7e6809cc9db989faa3b" source="n-bb534f0d741ab7e6809cc9db989faa3b" target="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-0f78f132f619ea84f5a90b306010bbaan-bb534f0d741ab7e6809cc9db989faa3b" source="n-bb534f0d741ab7e6809cc9db989faa3b" target="n-0f78f132f619ea84f5a90b306010bbaa" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-bb534f0d741ab7e6809cc9db989faa3bn-e00ab874358986ff20a93e1528427647" source="n-bb534f0d741ab7e6809cc9db989faa3b" target="n-e00ab874358986ff20a93e1528427647" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-6bf0223d3c8d5c253045dcd2fc3d3f0dn-dd255f0f04bf08a95fd10ab4b4eb076c" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-dd255f0f04bf08a95fd10ab4b4eb076c" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4215afe5854208880582d0f71519ee76n-6bf0223d3c8d5c253045dcd2fc3d3f0d" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-4215afe5854208880582d0f71519ee76" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-5feafbe172ad344c801824e415111694n-6bf0223d3c8d5c253045dcd2fc3d3f0d" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-5feafbe172ad344c801824e415111694" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-099b8de8d353feaa1bca9611e377a2fen-6bf0223d3c8d5c253045dcd2fc3d3f0d" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-099b8de8d353feaa1bca9611e377a2fe" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-5fad4b58530069c71a52db3843e0962dn-6bf0223d3c8d5c253045dcd2fc3d3f0d" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-5fad4b58530069c71a52db3843e0962d" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-6bf0223d3c8d5c253045dcd2fc3d3f0dn-731f09557fe178893b4c83fe3eb3d9b8" source="n-6bf0223d3c8d5c253045dcd2fc3d3f0d" target="n-731f09557fe178893b4c83fe3eb3d9b8" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4215afe5854208880582d0f71519ee76n-dd255f0f04bf08a95fd10ab4b4eb076c" source="n-4215afe5854208880582d0f71519ee76" target="n-dd255f0f04bf08a95fd10ab4b4eb076c">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4215afe5854208880582d0f71519ee76n-5feafbe172ad344c801824e415111694" source="n-4215afe5854208880582d0f71519ee76" target="n-5feafbe172ad344c801824e415111694" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-099b8de8d353feaa1bca9611e377a2fen-4215afe5854208880582d0f71519ee76" source="n-4215afe5854208880582d0f71519ee76" target="n-099b8de8d353feaa1bca9611e377a2fe" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-4215afe5854208880582d0f71519ee76n-5fad4b58530069c71a52db3843e0962d" source="n-4215afe5854208880582d0f71519ee76" target="n-5fad4b58530069c71a52db3843e0962d">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-099b8de8d353feaa1bca9611e377a2fen-5feafbe172ad344c801824e415111694" source="n-5feafbe172ad344c801824e415111694" target="n-099b8de8d353feaa1bca9611e377a2fe" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-5fad4b58530069c71a52db3843e0962dn-5feafbe172ad344c801824e415111694" source="n-5feafbe172ad344c801824e415111694" target="n-5fad4b58530069c71a52db3843e0962d">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-5feafbe172ad344c801824e415111694n-731f09557fe178893b4c83fe3eb3d9b8" source="n-5feafbe172ad344c801824e415111694" target="n-731f09557fe178893b4c83fe3eb3d9b8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-099b8de8d353feaa1bca9611e377a2fen-5fad4b58530069c71a52db3843e0962d" source="n-099b8de8d353feaa1bca9611e377a2fe" target="n-5fad4b58530069c71a52db3843e0962d">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-0f78f132f619ea84f5a90b306010bbaan-e00ab874358986ff20a93e1528427647" source="n-0f78f132f619ea84f5a90b306010bbaa" target="n-e00ab874358986ff20a93e1528427647" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-beaa20e417dd228c02bb2aed4bb1b29cn-f04943084a12420a06516460423b4c2d" source="n-beaa20e417dd228c02bb2aed4bb1b29c" target="n-f04943084a12420a06516460423b4c2d">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-74dbf2da0bc4397e47cd4e29f5638e54n-f04943084a12420a06516460423b4c2d" source="n-f04943084a12420a06516460423b4c2d" target="n-74dbf2da0bc4397e47cd4e29f5638e54" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-d9963669d09f2c2f6b01a79d9403a12fn-f244a13a8bb3b4ab279cec46514e36dd" source="n-f244a13a8bb3b4ab279cec46514e36dd" target="n-d9963669d09f2c2f6b01a79d9403a12f">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-3a800d1e945d3f4cc92cf5c5273b7d3cn-9f7fb68b474da60d1b3111cea989f455" source="n-3a800d1e945d3f4cc92cf5c5273b7d3c" target="n-9f7fb68b474da60d1b3111cea989f455" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-3a800d1e945d3f4cc92cf5c5273b7d3cn-f04943084a12420a06516460423b4c2d" source="n-3a800d1e945d3f4cc92cf5c5273b7d3c" target="n-f04943084a12420a06516460423b4c2d" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-3a800d1e945d3f4cc92cf5c5273b7d3cn-87227ad498af54dab1cf613c645ea5b5" source="n-3a800d1e945d3f4cc92cf5c5273b7d3c" target="n-87227ad498af54dab1cf613c645ea5b5" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-3a800d1e945d3f4cc92cf5c5273b7d3cn-c4a7d8384f746b025b0301e090b12769" source="n-3a800d1e945d3f4cc92cf5c5273b7d3c" target="n-c4a7d8384f746b025b0301e090b12769" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-87227ad498af54dab1cf613c645ea5b5n-c4a7d8384f746b025b0301e090b12769" source="n-c4a7d8384f746b025b0301e090b12769" target="n-87227ad498af54dab1cf613c645ea5b5" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-896d1776f932049b707879dc9ca6b176n-beaa20e417dd228c02bb2aed4bb1b29c" source="n-896d1776f932049b707879dc9ca6b176" target="n-beaa20e417dd228c02bb2aed4bb1b29c">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e-n-40ddfcf14d97e311e1a3ba5ab8663f07n-f04943084a12420a06516460423b4c2d" source="n-40ddfcf14d97e311e1a3ba5ab8663f07" target="n-f04943084a12420a06516460423b4c2d">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

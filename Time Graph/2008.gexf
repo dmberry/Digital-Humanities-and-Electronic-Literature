@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-c9834eb323f16ae3237b0551dfb23808" label="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0268030855"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Electronic Literature: New Horizons for the Literary (Ward-Phillips Lectures in English Language &amp; Literature)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="506994"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N. Katherine Hayles"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="University of Notre Dame Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="53.511696"></viz:size>
+        <viz:position x="2004.814" y="1007.5386" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+      <node id="n-d5d7ee9a93da04fe8b32ad9644c917fd" label="Convergence Culture: Where Old and New Media Collide">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0814742955"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Convergence Culture: Where Old and New Media Collide"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="49899"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Henry Jenkins"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="New York University Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="26.0052"></viz:size>
+        <viz:position x="755.52374" y="2338.6711" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+      <node id="n-67d82ef6e0447b8e4634b3545699f471" label="The Medium is the Massage: An Inventory of Effects (Penguin Modern Classics)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="014103582X"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Medium is the Massage: An Inventory of Effects (Penguin Modern Classics)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="19822"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Marshall McLuhan, Quentin Fiore"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Penguin Classics"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="26.0052"></viz:size>
+        <viz:position x="-203.09969" y="1498.0643" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+      <node id="n-b326b0ddc0a7096917f7c933fb459628" label="Inside Book Publishing">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0415441579"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Inside Book Publishing"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="24449"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Giles Clark, Angus Phillips"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Routledge"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="48.0104"></viz:size>
+        <viz:position x="-1232.224" y="3238.1746" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+      <node id="n-c1341729bdf5390766c6a983a2802edf" label="How to Read World Literature (How to Study Literature)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1405168269"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="How to Read World Literature (How to Study Literature)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="742408"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="David Damrosch"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Wiley-Blackwell"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="9.5013"></viz:size>
+        <viz:position x="-3921.764" y="-1258.0232" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+      <node id="n-88866d567af1d8b6bbbde7a0d5d4e02c" label="Strange Case of Dr Jekyll and Mr Hyde and Other Tales (Oxford World&amp;quot;s Classics)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0199536228"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Strange Case of Dr Jekyll and Mr Hyde and Other Tales (Oxford World&amp;quot;s Classics)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="10778"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Robert Louis Stevenson"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="OUP Oxford"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2008"></attvalue>
+        </attvalues>
+        <viz:size value="9.5013"></viz:size>
+        <viz:position x="-3105.587" y="1375.5695" z="0.0"></viz:position>
+        <viz:color r="156" g="64" b="247"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>

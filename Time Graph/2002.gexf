@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-01-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="a-8db07d2e99c2a6161d6dc93c2fe4efff" title="ASIN" type="string"></attribute>
+      <attribute id="a-d5d3db1765287eef77d7927cc956f50a" title="title" type="string"></attribute>
+      <attribute id="a-18e86520f0334066d1c6d4660eefecbd" title="SalesRank" type="integer"></attribute>
+      <attribute id="a-a517747c3d12f99244ae598910d979c5" title="Author" type="string"></attribute>
+      <attribute id="a-32c73be0cb175da278c8e2af0811b0d1" title="Publisher" type="string"></attribute>
+      <attribute id="a-827ac928081ebb6fd245ffb7582adfb4" title="ReleaseDate" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n-b791ddd166612cd31be2bdd5e030116a" label="Writing Machines (Mediaworks Pamphlet)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262582155"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Writing Machines (Mediaworks Pamphlet)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="687071"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="N Katherine Hayles"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2002"></attvalue>
+        </attvalues>
+        <viz:size value="37.007797"></viz:size>
+        <viz:position x="356.95535" y="1253.2465" z="0.0"></viz:position>
+        <viz:color r="211" g="247" b="64"></viz:color>
+      </node>
+      <node id="n-3c8cf7d145e431e158cab8169244d77b" label="The Language of New Media (Leonardo Book Series)">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="0262632551"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="The Language of New Media (Leonardo Book Series)"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="156839"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Lev Manovich"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="MIT Press"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2002"></attvalue>
+        </attvalues>
+        <viz:size value="31.506498"></viz:size>
+        <viz:position x="1762.5176" y="2219.8726" z="0.0"></viz:position>
+        <viz:color r="211" g="247" b="64"></viz:color>
+      </node>
+      <node id="n-32748d6b265589b61c1f514ce7bde8d4" label="Managing Records: A Handbook of Principles and Practice">
+        <attvalues>
+          <attvalue for="a-8db07d2e99c2a6161d6dc93c2fe4efff" value="1856043703"></attvalue>
+          <attvalue for="a-d5d3db1765287eef77d7927cc956f50a" value="Managing Records: A Handbook of Principles and Practice"></attvalue>
+          <attvalue for="a-18e86520f0334066d1c6d4660eefecbd" value="217266"></attvalue>
+          <attvalue for="a-a517747c3d12f99244ae598910d979c5" value="Elizabeth Shepherd, Geoffrey Yeo"></attvalue>
+          <attvalue for="a-32c73be0cb175da278c8e2af0811b0d1" value="Facet Publishing"></attvalue>
+          <attvalue for="a-827ac928081ebb6fd245ffb7582adfb4" value="2002"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="2253.1987" y="-3054.3442" z="0.0"></viz:position>
+        <viz:color r="211" g="247" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>
